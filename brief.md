@@ -1,51 +1,51 @@
 # RAnalytics brief — 2026-09-10
 
-Sample: 947 games passing filters, 2953 tracked in total. 48 collection runs over 8.8 days since 2026-09-01.
+Sample: 988 games passing filters, 2966 tracked in total. 49 collection runs over 9.0 days since 2026-09-01.
 
-Terms by zone: 28 target, 32 crowded, 0 saturated, 0 noise. An empty zone below means no term landed there, not that the check failed.
+Terms by zone: 31 target, 29 crowded, 0 saturated, 0 noise. An empty zone below means no term landed there, not that the check failed.
 
 ## Discover shelves (not genres - the genre field is dead)
 
 shelf | games | rising | total CCU | median CCU | median heat | median fav/1k
 --- | --- | --- | --- | --- | --- | ---
-Top Trending | 143 | 60 | 2190927 | 3161 | 208 | 5.9
-Unclassified | 634 | 129 | 622292 | 472 | 62 | 6.2
-Top Playing Now | 34 | 7 | 549753 | 11536 | 96 | 3.5
-Up-and-Coming | 48 | 39 | 108885 | 1677 | 688 | 9.3
-Fun with Friends | 42 | 10 | 93591 | 1720 | 104 | 4.2
-Top Revisited | 46 | 4 | 81728 | 691 | 57 | 2.4
+Top Trending | 142 | 60 | 3061515 | 4416 | 262 | 6.1
+Top Playing Now | 34 | 8 | 808773 | 16659 | 175 | 3.5
+Unclassified | 671 | 139 | 715879 | 501 | 72 | 6.0
+Up-and-Coming | 48 | 39 | 149387 | 2157 | 885 | 9.3
+Fun with Friends | 46 | 11 | 149154 | 2170 | 122 | 4.2
+Top Revisited | 47 | 4 | 98162 | 887 | 65 | 2.4
 
 ## Opportunity terms (high demand, few games)
 
 term | games | devs | median CCU | peak CCU | avg heat | avg age d
 --- | --- | --- | --- | --- | --- | ---
-dungeon | 3 | 3 | 8766 | 26425 | 263 | 188
-steal egg | 3 | 3 | 8469 | 1470620 | 3337 | 29
-pull | 3 | 3 | 7747 | 12753 | 583 | 61
-jump steal | 3 | 3 | 7423 | 8469 | 2836 | 33
-arm | 3 | 3 | 5406 | 5578 | 441 | 56
-build base | 3 | 3 | 4292 | 5056 | 122 | 74
-die | 3 | 3 | 3677 | 3707 | 175 | 170
-raft | 3 | 3 | 3494 | 7739 | 365 | 251
-wood | 3 | 3 | 3428 | 3469 | 173 | 72
-locust | 3 | 3 | 3416 | 28420 | 802 | 20
-how | 3 | 3 | 3276 | 3721 | 3285 | 17
-mountain | 3 | 3 | 2928 | 6842 | 324 | 63
+pull | 3 | 3 | 11035 | 19693 | 863 | 61
+dungeon | 3 | 3 | 10960 | 33769 | 330 | 188
+jump steal | 3 | 3 | 8469 | 13565 | 2964 | 33
+steal egg | 3 | 3 | 8469 | 2028831 | 3461 | 29
+arm | 3 | 3 | 7147 | 9712 | 578 | 56
+locust | 3 | 3 | 6351 | 28420 | 977 | 20
+chocolate | 3 | 3 | 5332 | 186884 | 337 | 117
+build base | 3 | 3 | 5033 | 7172 | 163 | 74
+die | 3 | 3 | 4882 | 6379 | 228 | 170
+admin | 3 | 3 | 3962 | 16659 | 4871 | 56
+how | 3 | 3 | 3648 | 8761 | 4800 | 17
+raft | 3 | 3 | 3494 | 11004 | 505 | 251
 
 ## Crowded terms (high demand, many games already)
 
 term | games | devs | median CCU | avg heat
 --- | --- | --- | --- | ---
-grow | 5 | 5 | 5578 | 359
-chicken | 5 | 5 | 5131 | 940
-army | 6 | 6 | 4719 | 1197
-survival | 4 | 4 | 3582 | 450
-catch | 4 | 4 | 3448 | 29
-zombie | 5 | 5 | 3669 | 365
-fish | 7 | 7 | 3721 | 1995
-egg | 11 | 11 | 4633 | 1452
-color | 4 | 4 | 2711 | 1142
-blocks | 6 | 6 | 3304 | 326
+grow | 5 | 5 | 7147 | 400
+chicken | 5 | 5 | 6600 | 1128
+zombie | 5 | 5 | 6151 | 570
+army | 6 | 6 | 6272 | 1677
+survival | 4 | 4 | 4822 | 703
+catch | 4 | 4 | 4767 | 43
+fish | 7 | 7 | 5896 | 2805
+anime rng | 4 | 4 | 3167 | 1655
+rush | 4 | 4 | 2926 | 205
+egg | 11 | 11 | 4633 | 1704
 
 ## Saturated terms (many games, low demand each)
 
@@ -55,76 +55,76 @@ _None in this sample._
 
 name | CCU | heat | fav/1k | age d
 --- | --- | --- | --- | ---
-Steal A Seed! | 6647 | 8046 | 10.2 | 11
+🤑 SAEM with F2P ADMIN PANEL | 16659 | 10903 | 97.0 | 9
+Steal A Seed! | 8678 | 9308 | 10.2 | 12
 [🔁 TRADING] Jump To Steal An Egg | 8469 | 7718 | 57.2 | 22
+🌋How to Really Fish | 8761 | 6781 | 50.3 | 17
+Steal Fish Eggs | 15257 | 6427 | 13.0 | 25
+[🎉UPD 3] Anime Dice | 25588 | 5791 | 5.0 | 26
+[UPD⛓️] Defeat Anime RNG | 3021 | 5684 | 37.0 | 48
 [UPD] How to Fish🐟 | 3276 | 5420 | 6.2 | 16
-Steal Fish Eggs | 9611 | 4500 | 12.9 | 25
-[🎉UPD 3] Anime Dice | 18976 | 4498 | 5.1 | 26
-[UPD⛓️] Defeat Anime RNG | 2285 | 4481 | 37.2 | 48
 Guess the Anime Color | 2261 | 3906 | 5.0 | 31
+[CHARACTER REHAUL] Kick an Uma | 2270 | 3469 | 79.5 | 16
 Tank VS Train | 1909 | 3378 | 10.8 | 21
-🌋How to Really Fish | 3721 | 3196 | 49.4 | 17
-[CHARACTER REHAUL] Kick an Uma | 1683 | 2641 | 80.0 | 16
-[HUGE UPDATE] Bee Game - Reworked | 1067 | 2320 | 13.8 | 18
+[HUGE UPDATE] Bee Game - Reworked | 1452 | 3098 | 13.9 | 19
+Dropshipping Tycoon | 4001 | 3051 | 8.8 | 31
+Last Stop [Beta] | 21079 | 2714 | 10.5 | 16
+[Artifacts] Fruit Zombie Survival 🍇 | 6151 | 2704 | 9.4 | 33
+[👽] Search For The Needle | 52415 | 2573 | 3.3 | 18
+[RAIDS💀] Beat the Anime Boss! | 3147 | 2378 | 5.5 | 58
+🐟 How to Fisch! | 3648 | 2199 | 11.8 | 17
+[UPD PET + JADI ADMIN 👑] MOUNT SYUDUDU | 135 | 2148 | 4.8 | 44
 KIDAA : Indian Horror   | 585 | 2039 | 12.7 | 36
-Dropshipping Tycoon | 2592 | 2038 | 8.9 | 31
-Custom Keyboards! [TRADING] | 4738 | 2027 | 59.6 | 59
-Last Stop [Beta] | 14818 | 1965 | 10.5 | 16
-[RAIDS💀] Beat the Anime Boss! | 2391 | 1855 | 5.6 | 57
-[WORLD 3] +1 Tongue Evolution | 267 | 1735 | 4.0 | 36
-[Artifacts] Fruit Zombie Survival 🍇 | 3669 | 1712 | 9.5 | 33
-[🐣] Steal An Egg for Brainrot | 965 | 1688 | 65.4 | 17
-[TREND] Become a Ghost Expedition | 322 | 1670 | 49.3 | 59
 
 ## New releases spotted in window
 
 name | CCU | heat | fav/1k | age d
 --- | --- | --- | --- | ---
-Steal A Seed! | 6647 | 8046 | 10.2 | 11
+🤑 SAEM with F2P ADMIN PANEL | 16659 | 10903 | 97.0 | 9
+Steal A Seed! | 8678 | 9308 | 10.2 | 12
 [🔁 TRADING] Jump To Steal An Egg | 8469 | 7718 | 57.2 | 22
+🌋How to Really Fish | 8761 | 6781 | 50.3 | 17
+Steal Fish Eggs | 15257 | 6427 | 13.0 | 25
 [UPD] How to Fish🐟 | 3276 | 5420 | 6.2 | 16
-Steal Fish Eggs | 9611 | 4500 | 12.9 | 25
 Zee  | 729 | 4214 | 1.4 | 8
 Be the Admin Tower [1 ROBUX] | 3962 | 3695 | 1.4 | 15
+[CHARACTER REHAUL] Kick an Uma | 2270 | 3469 | 79.5 | 16
 Tank VS Train | 1909 | 3378 | 10.8 | 21
-🌋How to Really Fish | 3721 | 3196 | 49.4 | 17
-[CHARACTER REHAUL] Kick an Uma | 1683 | 2641 | 80.0 | 16
-[HUGE UPDATE] Bee Game - Reworked | 1067 | 2320 | 13.8 | 18
+[HUGE UPDATE] Bee Game - Reworked | 1452 | 3098 | 13.9 | 19
+Dropshipping Tycoon | 4001 | 3051 | 8.8 | 31
+[Artifacts] Fruit Zombie Survival 🍇 | 6151 | 2704 | 9.4 | 33
++1 Tongue Escape 😛 | 25278 | 2537 | 3.0 | 29
 [NEW] Be Sea Dino - Marine Dinosaur Simulato | 79 | 2302 | 6.5 | 35
-Zee  | 384 | 2202 | 1.5 | 4
-KIDAA : Indian Horror   | 585 | 2039 | 12.7 | 36
-Dropshipping Tycoon | 2592 | 2038 | 8.9 | 31
-[⚡] +1 Speed Meme Soundboard Escape | Backro | 2583 | 1774 | 2.6 | 38
 
-## Terms gaining share (compared over 4.4 days)
+## Terms gaining share (compared over 4.5 days)
 
 term | was | now | share change
 --- | --- | --- | ---
-incremental | 5 | 13 | +0.40pp
+incremental | 5 | 13 | +0.39pp
+soccer | 29 | 33 | +0.30pp
 rng | 13 | 18 | +0.29pp
 football | 11 | 16 | +0.28pp
-soccer | 29 | 32 | +0.27pp
-battles | 7 | 12 | +0.27pp
-legends | 11 | 15 | +0.24pp
-slap | 4 | 8 | +0.21pp
+battles | 7 | 12 | +0.26pp
+build | 30 | 33 | +0.26pp
+legends | 11 | 15 | +0.23pp
+slap | 4 | 8 | +0.20pp
 troll | 2 | 6 | +0.20pp
-roleplay | 12 | 15 | +0.19pp
 slap battles | 1 | 5 | +0.19pp
 
 ## Title shapes currently in use
 
-- `steal ___ egg` — 4 games, median 7983 CCU. Blank filled by: an, baby, brainrot, lucky
+- `steal ___ egg` — 4 games, median 10006 CCU. Blank filled by: an, baby, brainrot, lucky
+- `___ evolution` — 9 games, median 3827 CCU. Blank filled by: darts, dino, katana, monkey, muscle, phonk, spider, superhero
+- `___ or die` — 3 games, median 4882 CCU. Blank filled by: dodge, land, mog
+- `___ game` — 3 games, median 4604 CCU. Blank filled by: kevin, mukbang, tank
+- `___ war` — 3 games, median 4502 CCU. Blank filled by: mini, navy, total
+- `___ duels` — 5 games, median 3429 CCU. Blank filled by: archery, knife, murder, puzzle, weapon
 - `___ per click` — 9 games, median 2262 CCU. Blank filled by: aura, fat, fire, followers, mine, poop, power, sharp
-- `___ evolution` — 9 games, median 2256 CCU. Blank filled by: darts, dino, katana, monkey, muscle, phonk, spider, superhero
-- `___ or die` — 3 games, median 3677 CCU. Blank filled by: dodge, land, mog
-- `___ rp` — 6 games, median 2382 CCU. Blank filled by: hazelvalley, prison, sintonia, sprunki, zarechensk
-- `___ game` — 3 games, median 3307 CCU. Blank filled by: kevin, mukbang, tank
-- `___ war` — 3 games, median 3282 CCU. Blank filled by: mini, navy, total
-- `anime ___` — 8 games, median 2044 CCU. Blank filled by: apocalypse, capture, dice, dungeons, knockout, origins, squadron, stars
-- `___ duels` — 5 games, median 2388 CCU. Blank filled by: archery, knife, murder, puzzle, weapon
+- `guess the ___` — 3 games, median 3545 CCU. Blank filled by: person, slapper, song
+- `anime ___` — 8 games, median 2157 CCU. Blank filled by: apocalypse, capture, dice, dungeons, knockout, origins, squadron, stars
+- `___ rng` — 4 games, median 2710 CCU. Blank filled by: doors, heroes, tree, unscathed
 - `___ piece` — 5 games, median 2384 CCU. Blank filled by: legacy, lineage, reign, rise, sailor
-- `___ rng` — 4 games, median 2576 CCU. Blank filled by: doors, heroes, tree, unscathed
-- `guess the ___` — 3 games, median 2527 CCU. Blank filled by: person, slapper, song
+- `___ rp` — 7 games, median 1843 CCU. Blank filled by: hazelvalley, metropolis, prison, sintonia, sprunki, zarechensk
 
 ## How to read this
 
