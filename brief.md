@@ -1,51 +1,51 @@
 # RAnalytics brief — 2026-09-13
 
-Sample: 1139 games passing filters, 3432 tracked in total. 60 collection runs over 12.0 days since 2026-09-01.
+Sample: 1151 games passing filters, 3447 tracked in total. 61 collection runs over 12.1 days since 2026-09-01.
 
-Terms by zone: 35 target, 25 crowded, 0 saturated, 0 noise. An empty zone below means no term landed there, not that the check failed.
+Terms by zone: 33 target, 27 crowded, 0 saturated, 0 noise. An empty zone below means no term landed there, not that the check failed.
 
 ## Discover shelves (not genres - the genre field is dead)
 
 shelf | games | rising | total CCU | median CCU | median heat | median fav/1k
 --- | --- | --- | --- | --- | --- | ---
-Top Trending | 171 | 73 | 4622766 | 5966 | 389 | 6.1
-Top Playing Now | 33 | 8 | 1073518 | 20952 | 209 | 2.8
-Unclassified | 771 | 164 | 876080 | 467 | 82 | 5.6
-Up-and-Coming | 61 | 47 | 245979 | 2596 | 1131 | 11.0
-Fun with Friends | 50 | 14 | 189804 | 2431 | 148 | 5.9
-Top Revisited | 53 | 4 | 130732 | 788 | 78 | 2.4
+Top Trending | 174 | 77 | 4167713 | 6547 | 415 | 6.2
+Top Playing Now | 33 | 5 | 1023174 | 20312 | 173 | 2.8
+Unclassified | 778 | 165 | 893088 | 501 | 83 | 5.6
+Up-and-Coming | 63 | 49 | 251845 | 2974 | 1267 | 11.0
+Fun with Friends | 50 | 14 | 198428 | 2732 | 189 | 5.9
+Top Revisited | 53 | 3 | 121294 | 1051 | 78 | 2.4
 
 ## Opportunity terms (high demand, few games)
 
 term | games | devs | median CCU | peak CCU | avg heat | avg age d
 --- | --- | --- | --- | --- | --- | ---
-dungeon | 3 | 3 | 18615 | 32159 | 399 | 191
-jump steal | 3 | 3 | 16666 | 17102 | 1861 | 36
-pull | 3 | 3 | 14920 | 27684 | 879 | 64
+dungeon | 3 | 3 | 18207 | 33664 | 393 | 191
 panel | 3 | 2 | 14805 | 20952 | 6096 | 17
-arm | 3 | 3 | 10476 | 16830 | 679 | 59
-locust | 3 | 3 | 10235 | 28420 | 1415 | 23
-modded | 3 | 3 | 7615 | 14805 | 3687 | 72
-build base | 3 | 3 | 5848 | 11293 | 221 | 77
-anomaly | 3 | 3 | 5654 | 7147 | 741 | 161
-chocolate | 3 | 3 | 5332 | 246822 | 337 | 120
-catalog avatar | 3 | 2 | 4443 | 9822 | 288 | 124
-anime card | 3 | 3 | 4213 | 15484 | 116 | 178
+jump steal | 3 | 3 | 14276 | 21371 | 1576 | 37
+locust | 3 | 3 | 12628 | 28420 | 1577 | 23
+pull | 3 | 3 | 12618 | 23119 | 737 | 64
+anomaly | 3 | 3 | 7619 | 8542 | 1136 | 161
+modded | 3 | 3 | 7615 | 14805 | 3687 | 73
+sae | 3 | 2 | 7615 | 14805 | 5064 | 17
+arm | 3 | 3 | 7236 | 18317 | 595 | 59
+build base | 3 | 3 | 5848 | 12935 | 246 | 78
+phonk | 3 | 3 | 5462 | 20116 | 660 | 106
+chocolate | 3 | 3 | 5332 | 234601 | 336 | 120
 
 ## Crowded terms (high demand, many games already)
 
 term | games | devs | median CCU | avg heat
 --- | --- | --- | --- | ---
-how | 4 | 4 | 13744 | 3231
-mm | 5 | 5 | 9409 | 1047
-chicken | 5 | 5 | 8145 | 621
-army | 5 | 5 | 7628 | 1879
-rush | 4 | 4 | 6262 | 343
-grow | 6 | 6 | 6869 | 1125
-survival | 4 | 4 | 5550 | 450
-color | 4 | 4 | 5246 | 738
-steal egg | 5 | 5 | 5698 | 2727
-catch | 5 | 5 | 5321 | 48
+how | 4 | 4 | 14128 | 3137
+mm | 5 | 5 | 10235 | 1144
+chicken | 5 | 5 | 7481 | 435
+army | 5 | 5 | 7202 | 1573
+survival | 4 | 4 | 4892 | 368
+color | 4 | 4 | 4822 | 651
+grow | 6 | 6 | 5897 | 887
+catch | 5 | 5 | 5310 | 61
+rush | 4 | 4 | 4526 | 256
+anime rng | 4 | 4 | 4420 | 1501
 
 ## Saturated terms (many games, low demand each)
 
@@ -55,76 +55,76 @@ _None in this sample._
 
 name | CCU | heat | fav/1k | age d
 --- | --- | --- | --- | ---
-Anime Breaker [RELEASE] | 5293 | 17145 | 28.5 | 33
-[🏴‍☠️] Build and Kill Zombies | 19951 | 14985 | 43.0 | 24
+Anime Breaker [RELEASE] | 6047 | 17381 | 28.1 | 33
+[🏴‍☠️] Build and Kill Zombies | 18076 | 11646 | 42.3 | 24
 Steal An Anime Egg | 15224 | 9900 | 51.8 | 23
-[W2] +1 Mog Evolution | 16346 | 7344 | 18.5 | 13
+[W2] +1 Mog Evolution | 22332 | 8678 | 18.5 | 14
+[RELEASE] BloxNote | 2974 | 7416 | 15.8 | 8
 🤑 SAEM with F2P ADMIN PANEL | 20952 | 7251 | 95.2 | 12
 [🌈] SAE IS MODDED! X999 + P2P ADMN PANEL | 14805 | 6766 | 87.7 | 12
-[🧢] Shoot To Fish | 1362 | 6146 | 5.7 | 20
-[🔥] Ihaw Ihaw! | 1730 | 5409 | 22.9 | 14
-[RELEASE] BloxNote | 1964 | 5363 | 16.5 | 8
-HOUSE 13 [HORROR] | 2728 | 5121 | 13.9 | 37
-[UPD🌋] How to Fish🐟 | 17490 | 5118 | 4.7 | 19
+HOUSE 13 [HORROR] | 3921 | 6504 | 14.0 | 38
+[New Mythics & Gear!] BSS - Reworked | 4641 | 6118 | 13.5 | 22
+[🧢] Shoot To Fish | 1394 | 5690 | 5.5 | 20
+🐟 How to Fisch! | 18119 | 5352 | 16.6 | 20
 Pop Bubbles! 🎯 | 5335 | 5093 | 80.7 | 60
-[✨UPD 4] Anime Dice | 44622 | 5004 | 4.3 | 29
-[New Mythics & Gear!] BSS - Reworked | 3587 | 4913 | 13.6 | 22
-Grow Beanstalk to Steal An Egg | 5698 | 4804 | 61.1 | 25
-🐟 How to Fisch! | 14679 | 4663 | 16.7 | 20
-[UPD⛓️] Defeat Anime RNG | 4992 | 4264 | 33.6 | 51
-[🔁 TRADING] Jump To Steal An Egg | 16666 | 4185 | 45.0 | 25
-[BETA] RotorOps - Rescue & Fire & Police | 2647 | 4112 | 11.2 | 21
-Steal A Seed! | 11689 | 3892 | 9.6 | 15
+[✨UPD 4] Anime Dice | 45208 | 4831 | 4.2 | 29
+[UPD⛓️] Defeat Anime RNG | 5253 | 4319 | 33.3 | 52
+[UPD🌋] How to Fish🐟 | 15419 | 4180 | 4.8 | 19
+🔥 INFs ADMINS in SAE (INSANE) 💸 | 7429 | 4154 | 85.3 | 12
+[BETA] RotorOps - Rescue & Fire & Police | 2839 | 4034 | 10.9 | 21
+Would You Rather: Halloween Outfit Tower 🎃 | 9262 | 3895 | 33.4 | 22
+DELTARUNE Fight | 1984 | 3846 | 15.8 | 33
+Grow Beanstalk to Steal An Egg | 4558 | 3627 | 60.5 | 25
 
 ## New releases spotted in window
 
 name | CCU | heat | fav/1k | age d
 --- | --- | --- | --- | ---
-Anime Breaker [RELEASE] | 5293 | 17145 | 28.5 | 33
-[🏴‍☠️] Build and Kill Zombies | 19951 | 14985 | 43.0 | 24
+Anime Breaker [RELEASE] | 6047 | 17381 | 28.1 | 33
+[🏴‍☠️] Build and Kill Zombies | 18076 | 11646 | 42.3 | 24
 Steal An Anime Egg | 15224 | 9900 | 51.8 | 23
-[W2] +1 Mog Evolution | 16346 | 7344 | 18.5 | 13
+[W2] +1 Mog Evolution | 22332 | 8678 | 18.5 | 14
+[RELEASE] BloxNote | 2974 | 7416 | 15.8 | 8
 🤑 SAEM with F2P ADMIN PANEL | 20952 | 7251 | 95.2 | 12
 [🌈] SAE IS MODDED! X999 + P2P ADMN PANEL | 14805 | 6766 | 87.7 | 12
-[🧢] Shoot To Fish | 1362 | 6146 | 5.7 | 20
-Lift a Cube | 27923 | 5660 | 2.5 | 19
-[🔥] Ihaw Ihaw! | 1730 | 5409 | 22.9 | 14
-[RELEASE] BloxNote | 1964 | 5363 | 16.5 | 8
-HOUSE 13 [HORROR] | 2728 | 5121 | 13.9 | 37
-[UPD🌋] How to Fish🐟 | 17490 | 5118 | 4.7 | 19
-[New Mythics & Gear!] BSS - Reworked | 3587 | 4913 | 13.6 | 22
-Grow Beanstalk to Steal An Egg | 5698 | 4804 | 61.1 | 25
-[🔁 TRADING] Jump To Steal An Egg | 16666 | 4185 | 45.0 | 25
+HOUSE 13 [HORROR] | 3921 | 6504 | 14.0 | 38
+[New Mythics & Gear!] BSS - Reworked | 4641 | 6118 | 13.5 | 22
+[🧢] Shoot To Fish | 1394 | 5690 | 5.5 | 20
+Lift a Cube | 28172 | 5235 | 2.4 | 19
+[UPD🌋] How to Fish🐟 | 15419 | 4180 | 4.8 | 19
+🔥 INFs ADMINS in SAE (INSANE) 💸 | 7429 | 4154 | 85.3 | 12
+[BETA] RotorOps - Rescue & Fire & Police | 2839 | 4034 | 10.9 | 21
+Would You Rather: Halloween Outfit Tower 🎃 | 9262 | 3895 | 33.4 | 22
 
-## Terms gaining share (compared over 6.0 days)
+## Terms gaining share (compared over 6.1 days)
 
 term | was | now | share change
 --- | --- | --- | ---
 mount | 6 | 16 | +0.38pp
 fish | 5 | 12 | +0.27pp
 incremental | 6 | 13 | +0.27pp
+steal | 18 | 25 | +0.26pp
+egg | 9 | 15 | +0.23pp
 survive | 12 | 18 | +0.23pp
-steal | 18 | 24 | +0.23pp
+football | 13 | 19 | +0.23pp
 roll | 6 | 11 | +0.19pp
-egg | 9 | 14 | +0.19pp
-football | 13 | 18 | +0.19pp
-hide | 1 | 5 | +0.15pp
 steal egg | 1 | 5 | +0.15pp
+hide | 1 | 5 | +0.15pp
 
 ## Title shapes currently in use
 
-- `how to ___` — 3 games, median 14679 CCU. Blank filled by: fisch, fish
-- `steal ___ egg` — 6 games, median 8543 CCU. Blank filled by: an, baby, brainrot, fish, lucky, secret
-- `steal ___` — 3 games, median 11689 CCU. Blank filled by: chicken, seed, tree
-- `___ evolution` — 10 games, median 5393 CCU. Blank filled by: darts, dino, katana, mog, monkey, muscle, phonk, spider
-- `___ game` — 4 games, median 7235 CCU. Blank filled by: followers, kevin, mukbang, tank
-- `___ war` — 3 games, median 8197 CCU. Blank filled by: mini, navy, total
+- `how to ___` — 3 games, median 15419 CCU. Blank filled by: fisch, fish
+- `___ evolution` — 10 games, median 6547 CCU. Blank filled by: darts, dino, katana, mog, monkey, muscle, phonk, spider
+- `___ game` — 4 games, median 7082 CCU. Blank filled by: followers, kevin, mukbang, tank
+- `___ war` — 3 games, median 7550 CCU. Blank filled by: mini, navy, total
+- `steal ___` — 3 games, median 7096 CCU. Blank filled by: chicken, seed, tree
+- `steal ___ egg` — 7 games, median 4040 CCU. Blank filled by: an, baby, brainrot, fish, giant, lucky, secret
+- `catalog avatar ___` — 3 games, median 5129 CCU. Blank filled by: builder, runway, shopping
 - `___ duels` — 6 games, median 3510 CCU. Blank filled by: archery, deagle, knife, murder, puzzle, weapon
-- `catalog avatar ___` — 3 games, median 4443 CCU. Blank filled by: builder, runway, shopping
+- `___ rng` — 4 games, median 4111 CCU. Blank filled by: doors, heroes, tree, unscathed
 - `guess the ___` — 4 games, median 3545 CCU. Blank filled by: person, slapper, song, word
+- `my ___ farm` — 4 games, median 3469 CCU. Blank filled by: animal, moo, toll, wood
 - `___ escape` — 5 games, median 3069 CCU. Blank filled by: emotia, speedster, spinjitsu, stretch, tongue
-- `___ rng` — 4 games, median 3330 CCU. Blank filled by: doors, heroes, tree, unscathed
-- `___ per click` — 9 games, median 2262 CCU. Blank filled by: aura, fat, fire, followers, mine, poop, power, sharp
 
 ## How to read this
 
