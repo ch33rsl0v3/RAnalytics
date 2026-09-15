@@ -1,83 +1,83 @@
-# RAnalytics brief — 2026-09-14
+# RAnalytics brief — 2026-09-15
 
-Sample: 1189 games passing filters, 3589 tracked in total. 65 collection runs over 13.1 days since 2026-09-01.
+Sample: 1164 games passing filters, 3674 tracked in total. 66 collection runs over 13.8 days since 2026-09-01.
 
-Terms by zone: 33 target, 27 crowded, 0 saturated, 0 noise. An empty zone below means no term landed there, not that the check failed.
+Terms by zone: 32 target, 28 crowded, 0 saturated, 0 noise. An empty zone below means no term landed there, not that the check failed.
 
 ## Launching now (fewest visits per current player, bait excluded)
 
 name | visits per player | CCU | heat | fav/1k | age d
 --- | --- | --- | --- | --- | ---
-Anime Breaker [RELEASE] | 96 | 5975 | 10373 | 22.9 | 34
-Steal An Anime Egg | 101 | 15224 | 9900 | 51.8 | 24
-🤑 SAEM with F2P ADMIN PANEL | 138 | 20952 | 7251 | 95.2 | 13
-[🌈] SAE IS MODDED! X999 + P2P ADMN PANEL | 148 | 14805 | 6766 | 87.7 | 13
-[🏴‍☠️] Build and Kill Zombies | 153 | 16594 | 6537 | 38.6 | 25
-Pop Bubbles! 🎯 | 196 | 5335 | 5093 | 80.7 | 61
-[UPD]+1 Loot To Forge | 204 | 6615 | 4909 | 80.0 | 33
-[UPD 4] Defeat Anime RNG | 229 | 6429 | 4361 | 31.4 | 53
-+1 TNT Mining | 238 | 14560 | 4210 | 37.8 | 76
-[RELEASE] BloxNote | 239 | 2214 | 4183 | 14.5 | 9
+Steal and Hatch Anime Eggs! | 101 | 24834 | 9909 | 44.0 | 25
+Anime Breaker [RELEASE] | 131 | 5640 | 7622 | 20.5 | 35
+🤑 SAEM with F2P ADMIN PANEL | 138 | 20952 | 7251 | 95.2 | 14
+[🌈] SAE IS MODDED! X999 + P2P ADMN PANEL | 148 | 14805 | 6766 | 87.7 | 14
+Pop Bubbles! 🎯 | 196 | 5335 | 5093 | 80.7 | 62
+[🏴‍☠️] Build and Kill Zombies | 196 | 16119 | 5091 | 36.6 | 26
+[UPD]+1 Loot To Forge | 239 | 6741 | 4178 | 77.9 | 34
+[UP] Keyboard Slide +1 Speed | 240 | 20207 | 4175 | 3.7 | 82
+🔥 INFs ADMINS in SAE (INSANE) 💸 | 248 | 10971 | 4025 | 87.4 | 14
+Magnet Fishing 🧲 [UPD 1] | 249 | 1989 | 4012 | 27.6 | 35
 
-## Trending words (change over 6.6 days)
+## Trending words (change over 6.9 days)
 
 term | was | now | share change
 --- | --- | --- | ---
-mount | 6 | 16 | +0.35pp
-incremental | 6 | 16 | +0.35pp
-fish | 5 | 14 | +0.31pp
-survive | 12 | 20 | +0.26pp
+mount | 6 | 17 | +0.37pp
+incremental | 6 | 16 | +0.34pp
+survive | 12 | 21 | +0.29pp
+fish | 6 | 14 | +0.27pp
 football | 13 | 20 | +0.22pp
-steal | 18 | 25 | +0.21pp
-egg | 9 | 15 | +0.20pp
-would rather | 3 | 8 | +0.17pp
-rather | 3 | 8 | +0.17pp
+climb | 5 | 11 | +0.20pp
 would | 3 | 8 | +0.17pp
-climb | 5 | 10 | +0.17pp
-roll | 6 | 11 | +0.17pp
+rather | 3 | 8 | +0.17pp
+would rather | 3 | 8 | +0.17pp
+steal | 19 | 25 | +0.17pp
+roll | 6 | 11 | +0.16pp
+world | 25 | 31 | +0.15pp
 
 ## Discover shelves (not genres - the genre field is dead)
 
 shelf | games | rising | total CCU | median CCU | median heat | median fav/1k
 --- | --- | --- | --- | --- | --- | ---
-Top Trending | 170 | 71 | 2963161 | 4449 | 263 | 6.4
-Unclassified | 802 | 169 | 833103 | 452 | 79 | 5.6
-Top Playing Now | 38 | 7 | 740505 | 14984 | 159 | 3.3
-Up-and-Coming | 68 | 53 | 195828 | 2214 | 961 | 10.8
-Fun with Friends | 57 | 16 | 161445 | 1974 | 131 | 5.9
-Top Revisited | 54 | 5 | 81134 | 859 | 69 | 2.0
+Top Trending | 169 | 68 | 2576045 | 2998 | 191 | 6.2
+Unclassified | 779 | 158 | 740801 | 449 | 70 | 5.4
+Top Playing Now | 40 | 8 | 568095 | 10978 | 108 | 3.7
+Up-and-Coming | 69 | 54 | 174659 | 1431 | 569 | 11.0
+Fun with Friends | 53 | 16 | 104587 | 1264 | 83 | 5.1
+Top Revisited | 54 | 4 | 76543 | 631 | 77 | 3.0
 
 ## Opportunity terms (high demand, few games)
 
 term | games | devs | median CCU | peak CCU | avg heat | avg age d
 --- | --- | --- | --- | --- | --- | ---
-panel | 3 | 2 | 14805 | 20952 | 6096 | 18
-jump steal | 3 | 3 | 12881 | 13886 | 1048 | 38
-dungeon | 3 | 3 | 11868 | 25923 | 256 | 192
-sae | 3 | 2 | 10971 | 14805 | 5021 | 18
-pull | 3 | 3 | 9737 | 13785 | 391 | 65
-arm | 3 | 3 | 8691 | 13758 | 615 | 60
+panel | 3 | 2 | 14805 | 20952 | 6096 | 19
+sae | 3 | 2 | 10971 | 14805 | 5021 | 19
+dungeon | 3 | 3 | 9057 | 17852 | 187 | 193
 modded | 3 | 3 | 7615 | 14805 | 3687 | 74
-build base | 3 | 3 | 5870 | 6318 | 136 | 79
-chocolate | 3 | 3 | 5332 | 138316 | 331 | 121
-boss | 3 | 3 | 4761 | 6304 | 860 | 98
-anime card | 3 | 3 | 4725 | 11036 | 96 | 180
-phonk | 3 | 3 | 4664 | 10394 | 444 | 107
+jump steal | 3 | 3 | 7428 | 12881 | 558 | 38
+eggs | 3 | 3 | 7387 | 24834 | 3630 | 69
+pull | 3 | 3 | 6535 | 10801 | 294 | 66
+chocolate | 3 | 3 | 5332 | 78841 | 327 | 122
+arm | 3 | 3 | 4283 | 16751 | 609 | 61
+build base | 3 | 3 | 4051 | 4474 | 92 | 79
+fighter | 3 | 3 | 3626 | 11179 | 536 | 65
+anime card | 3 | 3 | 3531 | 8574 | 81 | 180
 
 ## Crowded terms (high demand, many games already)
 
 term | games | devs | median CCU | avg heat
 --- | --- | --- | --- | ---
-locust | 4 | 4 | 7342 | 1459
-how | 4 | 4 | 7032 | 1540
-army | 5 | 5 | 7202 | 933
-chicken | 5 | 5 | 5588 | 345
-anime rng | 4 | 4 | 4842 | 1314
-catch | 5 | 5 | 5020 | 41
-loot | 4 | 4 | 3923 | 1294
-rush | 4 | 4 | 3462 | 183
-survival | 4 | 4 | 3461 | 187
-step | 4 | 4 | 3419 | 153
+locust | 4 | 4 | 7342 | 1150
+army | 5 | 5 | 7202 | 776
+anime rng | 4 | 4 | 4020 | 974
+loot | 4 | 4 | 3923 | 1112
+chicken | 5 | 5 | 4379 | 351
+survival | 4 | 4 | 3461 | 179
+how | 4 | 4 | 3161 | 995
+steal egg | 5 | 5 | 3518 | 1076
+zombie | 5 | 5 | 3428 | 150
+rush | 4 | 4 | 3023 | 157
 
 ## Saturated terms (many games, low demand each)
 
@@ -87,61 +87,61 @@ _None in this sample._
 
 name | CCU | heat | fav/1k | age d
 --- | --- | --- | --- | ---
-Anime Breaker [RELEASE] | 5975 | 10373 | 22.9 | 34
-Steal An Anime Egg | 15224 | 9900 | 51.8 | 24
-🤑 SAEM with F2P ADMIN PANEL | 20952 | 7251 | 95.2 | 13
-[🌈] SAE IS MODDED! X999 + P2P ADMN PANEL | 14805 | 6766 | 87.7 | 13
-[🏴‍☠️] Build and Kill Zombies | 16594 | 6537 | 38.6 | 25
-[UPD]+1 Loot To Forge | 6615 | 4909 | 80.0 | 33
-[UPD 4] Defeat Anime RNG | 6429 | 4361 | 31.4 | 53
-[RELEASE] BloxNote | 2214 | 4183 | 14.5 | 9
-[✨UPD 4] Anime Dice | 46939 | 4091 | 3.8 | 30
-🔥 INFs ADMINS in SAE (INSANE) 💸 | 10971 | 4025 | 87.4 | 13
-Magnet Fishing 🧲 [UPD 1] | 1989 | 4012 | 27.6 | 34
-[🧢] Shoot To Fish | 1270 | 3976 | 5.0 | 21
+Steal and Hatch Anime Eggs! | 24834 | 9909 | 44.0 | 25
+Anime Breaker [RELEASE] | 5640 | 7622 | 20.5 | 35
+🤑 SAEM with F2P ADMIN PANEL | 20952 | 7251 | 95.2 | 14
+[🌈] SAE IS MODDED! X999 + P2P ADMN PANEL | 14805 | 6766 | 87.7 | 14
+[🏴‍☠️] Build and Kill Zombies | 16119 | 5091 | 36.6 | 26
+[UPD]+1 Loot To Forge | 6741 | 4178 | 77.9 | 34
+🔥 INFs ADMINS in SAE (INSANE) 💸 | 10971 | 4025 | 87.4 | 14
+Magnet Fishing 🧲 [UPD 1] | 1989 | 4012 | 27.6 | 35
+[🧢] Shoot To Fish | 1270 | 3976 | 5.0 | 22
 Would You Rather: Halloween Outfit Tower 🎃 | 9262 | 3895 | 33.4 | 23
-[W2] +1 Mog Evolution | 13997 | 3574 | 17.4 | 15
-Avatar Creator | 226 | 3562 | 48.2 | 8
-Tank VS Train | 1909 | 3378 | 10.8 | 25
-[🗻] Mine Antarctica | 1525 | 3171 | 33.2 | 56
+Avatar Creator | 226 | 3562 | 48.2 | 9
+Tank VS Train | 1909 | 3378 | 10.8 | 26
+[🔥] Ihaw Ihaw! | 1751 | 3298 | 18.4 | 16
+[UPD 4] Defeat Anime RNG | 5164 | 3174 | 30.4 | 53
 [New Mythics & Gear!] BSS - Reworked | 2642 | 3116 | 13.0 | 23
-HOUSE 13 [HORROR] | 2761 | 3082 | 14.6 | 39
-[Free Avatar] MOUNT SALFARA  | 469 | 2699 | 3.7 | 37
+[✨UPD 4] Anime Dice | 39668 | 3107 | 3.6 | 31
+[🖤 FREE MATRIXSCOPE] Scope Simulator | 4111 | 2692 | 43.8 | 18
+apple | 4465 | 2506 | 4.7 | 14
+SUNSCAR: Factory Tycoon [UPDATE 2.2.0] | 226 | 2355 | 17.3 | 36
+[RELEASE] BloxNote | 1431 | 2305 | 15.3 | 10
 
 ## New releases spotted in window
 
 name | CCU | heat | fav/1k | age d
 --- | --- | --- | --- | ---
-Anime Breaker [RELEASE] | 5975 | 10373 | 22.9 | 34
-Steal An Anime Egg | 15224 | 9900 | 51.8 | 24
-🤑 SAEM with F2P ADMIN PANEL | 20952 | 7251 | 95.2 | 13
-[🌈] SAE IS MODDED! X999 + P2P ADMN PANEL | 14805 | 6766 | 87.7 | 13
-[🏴‍☠️] Build and Kill Zombies | 16594 | 6537 | 38.6 | 25
-[UPD]+1 Loot To Forge | 6615 | 4909 | 80.0 | 33
-[RELEASE] BloxNote | 2214 | 4183 | 14.5 | 9
-🔥 INFs ADMINS in SAE (INSANE) 💸 | 10971 | 4025 | 87.4 | 13
-Magnet Fishing 🧲 [UPD 1] | 1989 | 4012 | 27.6 | 34
-[🧢] Shoot To Fish | 1270 | 3976 | 5.0 | 21
+Steal and Hatch Anime Eggs! | 24834 | 9909 | 44.0 | 25
+Anime Breaker [RELEASE] | 5640 | 7622 | 20.5 | 35
+🤑 SAEM with F2P ADMIN PANEL | 20952 | 7251 | 95.2 | 14
+[🌈] SAE IS MODDED! X999 + P2P ADMN PANEL | 14805 | 6766 | 87.7 | 14
+[🏴‍☠️] Build and Kill Zombies | 16119 | 5091 | 36.6 | 26
+[UPD]+1 Loot To Forge | 6741 | 4178 | 77.9 | 34
+🔥 INFs ADMINS in SAE (INSANE) 💸 | 10971 | 4025 | 87.4 | 14
+Magnet Fishing 🧲 [UPD 1] | 1989 | 4012 | 27.6 | 35
+[🧢] Shoot To Fish | 1270 | 3976 | 5.0 | 22
 Would You Rather: Halloween Outfit Tower 🎃 | 9262 | 3895 | 33.4 | 23
-[W2] +1 Mog Evolution | 13997 | 3574 | 17.4 | 15
-Avatar Creator | 226 | 3562 | 48.2 | 8
+Avatar Creator | 226 | 3562 | 48.2 | 9
+[🔥] Ihaw Ihaw! | 1751 | 3298 | 18.4 | 16
 [New Mythics & Gear!] BSS - Reworked | 2642 | 3116 | 13.0 | 23
-HOUSE 13 [HORROR] | 2761 | 3082 | 14.6 | 39
+[Free Avatar] MOUNT SALFARA  | 1119 | 2717 | 2.9 | 38
+[ NEW | UPD ] MOUNT SPECTRAL | 541 | 2714 | 2.2 | 27
 
 ## Title shapes currently in use
 
-- `steal ___ egg` — 7 games, median 3782 CCU. Blank filled by: an, baby, brainrot, fish, giant, lucky, secret
-- `steal ___` — 3 games, median 5588 CCU. Blank filled by: chicken, seed, tree
-- `___ game` — 5 games, median 4069 CCU. Blank filled by: followers, kevin, mukbang, tank, verity's
-- `___ war` — 3 games, median 4944 CCU. Blank filled by: mini, navy, total
-- `___ duels` — 6 games, median 3182 CCU. Blank filled by: archery, deagle, knife, murder, puzzle, weapon
-- `___ evolution` — 11 games, median 2467 CCU. Blank filled by: darts, dino, god, katana, mog, monkey, muscle, phonk
-- `guess the ___` — 4 games, median 3538 CCU. Blank filled by: person, slapper, song, word
+- `steal ___` — 3 games, median 6660 CCU. Blank filled by: chicken, seed, tree
+- `steal ___ egg` — 7 games, median 4283 CCU. Blank filled by: an, baby, brainrot, fish, giant, lucky, secret
+- `___ game` — 5 games, median 3468 CCU. Blank filled by: followers, kevin, mukbang, tank, verity's
 - `my ___ farm` — 4 games, median 3469 CCU. Blank filled by: animal, moo, toll, wood
-- `___ per click` — 9 games, median 2262 CCU. Blank filled by: aura, fat, fire, followers, mine, poop, power, sharp
-- `___ rp` — 7 games, median 2357 CCU. Blank filled by: hazelvalley, metropolis, prison, sintonia, sprunki, zarechensk
-- `___ escape` — 5 games, median 2591 CCU. Blank filled by: emotia, speedster, spinjitsu, stretch, tongue
-- `___ rng` — 4 games, median 2856 CCU. Blank filled by: doors, heroes, tree, unscathed
+- `___ per step` — 4 games, median 3318 CCU. Blank filled by: fan, phonk, size, skinny
+- `___ war` — 3 games, median 3190 CCU. Blank filled by: mini, navy, total
+- `___ rng` — 4 games, median 2315 CCU. Blank filled by: doors, heroes, tree, unscathed
+- `___ duels` — 6 games, median 1900 CCU. Blank filled by: archery, deagle, knife, murder, puzzle, weapon
+- `___ evolution` — 11 games, median 1460 CCU. Blank filled by: darts, dino, god, katana, mog, monkey, muscle, phonk
+- `___ tycoon` — 4 games, median 2057 CCU. Blank filled by: airport, build, dinosaur, dropshipping
+- `___ arena` — 9 games, median 1417 CCU. Blank filled by: ability, deagle, demon, element, katana, knife, pistol, sniper
+- `___ fishing` — 4 games, median 1989 CCU. Blank filled by: claw, hole, magnet, ryu's
 
 ## How to read this
 
