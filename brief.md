@@ -1,85 +1,85 @@
 # RAnalytics brief — 2026-09-18
 
-Oldest reading in this sample: 403.4 hours ago.
+Oldest reading in this sample: 407.4 hours ago.
 
-Sample: 1132 games passing filters, 4304 tracked in total. 75 collection runs over 16.8 days since 2026-09-01.
+Sample: 1280 games passing filters, 4316 tracked in total. 76 collection runs over 17.0 days since 2026-09-01.
 
-Terms by zone: 24 target, 36 crowded, 0 saturated, 0 noise. An empty zone below means no term landed there, not that the check failed.
+Terms by zone: 25 target, 35 crowded, 0 saturated, 0 noise. An empty zone below means no term landed there, not that the check failed.
 
 ## Launching now (fewest visits per current player, bait excluded)
 
 name | visits per player | CCU | heat | fav/1k | age d
 --- | --- | --- | --- | --- | ---
-+1 Wings For Eggs | 228 | 5721 | 4385 | 78.0 | 15
-[💥HERO PASSIVES💥] Anime Breaker | 228 | 7301 | 4383 | 14.3 | 38
-Catch Dragons To Defend | 228 | 2238 | 4382 | 6.5 | 49
-Build the Pyramid! | 233 | 1822 | 4299 | 6.9 | 14
-[UPD2]+1 Loot To Forge | 238 | 16809 | 4196 | 69.8 | 37
-[🐍JUNGLE] Poly Loot⚔️ | 274 | 4243 | 3645 | 86.7 | 58
-[💸UPD] Steal an Employee | 282 | 2524 | 3547 | 6.1 | 25
-[🏴‍☠️] Build and Kill Zombies | 302 | 23107 | 3316 | 32.0 | 29
-+1 Chop Trees for Treasure | 315 | 2904 | 3177 | 46.6 | 24
-[W2] +1 Aim Per Click | 358 | 304 | 2795 | 50.9 | 43
+Catch Dragons To Defend | 142 | 3923 | 7044 | 6.4 | 49
+[UPD2]+1 Loot To Forge | 155 | 27607 | 6455 | 69.6 | 37
+Build the Pyramid! | 163 | 2882 | 6141 | 7.0 | 14
++1 Wings For Eggs | 178 | 8053 | 5632 | 76.6 | 15
+[🏴‍☠️] Build and Kill Zombies | 197 | 37058 | 5075 | 32.1 | 29
+[💸UPD] Steal an Employee | 206 | 3713 | 4863 | 5.9 | 25
+[💥HERO PASSIVES💥] Anime Breaker | 217 | 7907 | 4600 | 14.1 | 38
+Flip a House! 🏠 | 263 | 14247 | 3797 | 9.1 | 63
+[🐍JUNGLE] Poly Loot⚔️ | 274 | 4243 | 3645 | 86.7 | 59
+[W2] +1 Aim Per Click | 285 | 393 | 3506 | 50.8 | 43
 
 ## Trending words (change over 7.0 days)
 
 term | was | now | share change
 --- | --- | --- | ---
-brainrots | 8 | 33 | +0.46pp
+brainrots | 8 | 35 | +0.51pp
+obby | 14 | 33 | +0.23pp
 climb | 3 | 14 | +0.21pp
 brainrot | 8 | 22 | +0.21pp
-obby | 15 | 32 | +0.17pp
 sprunki | 1 | 9 | +0.17pp
-town | 1 | 7 | +0.12pp
+town | 1 | 8 | +0.15pp
+survive | 14 | 29 | +0.14pp
+town rp | 0 | 6 | +0.14pp
 ugc | 3 | 10 | +0.12pp
-town rp | 0 | 5 | +0.12pp
+eggs | 2 | 8 | +0.11pp
 scary | 2 | 8 | +0.11pp
 blocks | 2 | 8 | +0.11pp
-eggs | 2 | 8 | +0.11pp
-defense | 20 | 37 | +0.10pp
 
 ## Discover shelves (not genres - the genre field is dead)
 
 shelf | games | rising | total CCU | median CCU | median heat | median fav/1k
 --- | --- | --- | --- | --- | --- | ---
-Top Trending | 183 | 65 | 3024084 | 2350 | 139 | 7.3
-Unclassified | 733 | 145 | 525256 | 346 | 48 | 5.0
-Top Playing Now | 36 | 7 | 478164 | 10716 | 74 | 2.9
-Fun with Friends | 61 | 15 | 126520 | 1438 | 70 | 4.6
-Up-and-Coming | 71 | 61 | 121234 | 1074 | 338 | 8.9
-Top Revisited | 48 | 3 | 60585 | 746 | 44 | 2.9
+Top Trending | 187 | 66 | 4394809 | 3754 | 212 | 7.3
+Unclassified | 868 | 164 | 799519 | 393 | 67 | 5.0
+Top Playing Now | 36 | 7 | 677461 | 13576 | 104 | 2.9
+Up-and-Coming | 75 | 63 | 193875 | 1565 | 515 | 8.8
+Fun with Friends | 64 | 16 | 174664 | 1630 | 102 | 4.7
+Top Revisited | 50 | 3 | 80009 | 986 | 61 | 2.9
 
 ## Opportunity terms (high demand, few games)
 
 term | games | devs | median CCU | peak CCU | avg heat | avg age d
 --- | --- | --- | --- | --- | --- | ---
-dungeon | 3 | 3 | 7940 | 14191 | 151 | 196
-pull | 3 | 3 | 6233 | 13900 | 305 | 69
-rush | 3 | 3 | 5345 | 5583 | 149 | 141
-arm | 3 | 3 | 4941 | 13556 | 362 | 64
-anime rng | 3 | 3 | 4688 | 5496 | 984 | 158
-per step | 3 | 3 | 4270 | 4840 | 543 | 45
-build base | 3 | 3 | 4260 | 5524 | 104 | 82
-how | 3 | 3 | 4090 | 4495 | 562 | 25
-mm locust | 3 | 3 | 4061 | 4449 | 574 | 133
-hunters | 3 | 3 | 3551 | 12229 | 62 | 166
-raft | 3 | 3 | 2651 | 4593 | 126 | 259
-mukbang | 3 | 3 | 2019 | 14987 | 163 | 105
+dungeon | 3 | 3 | 8723 | 18631 | 166 | 196
+pull | 3 | 3 | 8485 | 21773 | 462 | 69
+arm | 3 | 3 | 8315 | 20448 | 539 | 64
+how | 3 | 3 | 7548 | 8513 | 993 | 25
+hunters | 3 | 3 | 5859 | 16096 | 84 | 166
+build base | 3 | 3 | 4896 | 7593 | 138 | 82
+mm locust | 3 | 3 | 4449 | 7275 | 821 | 133
+mini | 3 | 3 | 4404 | 11525 | 59 | 122
+raft | 3 | 3 | 4309 | 6300 | 173 | 259
+back | 3 | 3 | 3615 | 9025 | 227 | 170
+phonk | 3 | 3 | 3053 | 14120 | 506 | 111
+tape | 3 | 3 | 3024 | 3903 | 511 | 73
 
 ## Crowded terms (high demand, many games already)
 
 term | games | devs | median CCU | avg heat
 --- | --- | --- | --- | ---
-jump steal | 4 | 4 | 4895 | 375
-step | 4 | 4 | 4555 | 419
-eggs | 7 | 7 | 5721 | 1762
-locust | 4 | 4 | 4255 | 811
-chicken | 5 | 5 | 4013 | 188
-wings | 4 | 4 | 2970 | 1264
-mm | 6 | 6 | 3447 | 567
-steal egg | 6 | 6 | 3414 | 704
-fighter | 4 | 4 | 2712 | 444
-army | 6 | 6 | 3042 | 487
+jump steal | 4 | 4 | 7764 | 520
+eggs | 7 | 7 | 8053 | 2393
+locust | 4 | 4 | 5862 | 995
+per step | 4 | 4 | 3453 | 525
+wings | 4 | 4 | 5350 | 1805
+chicken | 5 | 5 | 5034 | 228
+rush | 4 | 4 | 4154 | 173
+steal egg | 6 | 6 | 4974 | 941
+anime rng | 4 | 4 | 3987 | 857
+fighter | 4 | 4 | 3876 | 639
 
 ## Saturated terms (many games, low demand each)
 
@@ -89,61 +89,61 @@ _None in this sample._
 
 name | CCU | heat | fav/1k | age d
 --- | --- | --- | --- | ---
-+1 Wings For Eggs | 5721 | 4385 | 78.0 | 15
-[💥HERO PASSIVES💥] Anime Breaker | 7301 | 4383 | 14.3 | 38
-Catch Dragons To Defend | 2238 | 4382 | 6.5 | 49
-Build the Pyramid! | 1822 | 4299 | 6.9 | 14
-[UPD2]+1 Loot To Forge | 16809 | 4196 | 69.8 | 37
-[🐍JUNGLE] Poly Loot⚔️ | 4243 | 3645 | 86.7 | 58
-[💸UPD] Steal an Employee | 2524 | 3547 | 6.1 | 25
-[🏴‍☠️] Build and Kill Zombies | 23107 | 3316 | 32.0 | 29
+Catch Dragons To Defend | 3923 | 7044 | 6.4 | 49
+[UPD2]+1 Loot To Forge | 27607 | 6455 | 69.6 | 37
+Build the Pyramid! | 2882 | 6141 | 7.0 | 14
++1 Wings For Eggs | 8053 | 5632 | 76.6 | 15
+[🏴‍☠️] Build and Kill Zombies | 37058 | 5075 | 32.1 | 29
+[💸UPD] Steal an Employee | 3713 | 4863 | 5.9 | 25
+[💥HERO PASSIVES💥] Anime Breaker | 7907 | 4600 | 14.1 | 38
+[🐍JUNGLE] Poly Loot⚔️ | 4243 | 3645 | 86.7 | 59
+[W2] +1 Aim Per Click | 393 | 3506 | 50.8 | 43
+Animal Daycare (Anomaly) | 4520 | 3337 | 21.4 | 35
+[🧢] Shoot To Fish | 2451 | 3207 | 3.6 | 25
++1 DMG FPS | 2111 | 3187 | 56.1 | 33
 +1 Chop Trees for Treasure | 2904 | 3177 | 46.6 | 24
-[W2] +1 Aim Per Click | 304 | 2795 | 50.9 | 43
+Aura Dance Battles 🔥 | 3298 | 3090 | 4.3 | 18
+Steal and Hatch Anime Eggs! | 20483 | 2868 | 28.5 | 28
+[UPD 2 🌙] Catch Pets! | 659 | 2749 | 8.2 | 57
+[UPD 4] Defeat Anime RNG | 6509 | 2748 | 27.2 | 56
+Defend Your Treehouse! | 5054 | 2584 | 5.2 | 23
 UNDERTALE: Multiplayer | 776 | 2570 | 24.3 | 45
-[W4] +1 Tongue Evolution | 1965 | 2409 | 3.2 | 44
-[UPD 4] Defeat Anime RNG | 5496 | 2360 | 27.3 | 56
-Steal and Hatch Anime Eggs! | 14113 | 2075 | 28.9 | 28
-+1 DMG FPS | 1289 | 2022 | 56.3 | 33
-[✨UPD 4] Anime Dice | 36061 | 1996 | 3.1 | 34
-Jump For Eggs! 🥚 | 417 | 1990 | 74.8 | 21
-[UPD 2 🌙] Catch Pets! | 452 | 1936 | 8.3 | 57
-Midnight Shift (Anomaly) ⛽  | 492 | 1919 | 13.9 | 46
-[🗻] Mine Antarctica | 1546 | 1868 | 30.7 | 60
+Greedy Eggs🥚 | 280 | 2563 | 4.5 | 26
 
 ## New releases spotted in window
 
 name | CCU | heat | fav/1k | age d
 --- | --- | --- | --- | ---
-+1 Wings For Eggs | 5721 | 4385 | 78.0 | 15
-[💥HERO PASSIVES💥] Anime Breaker | 7301 | 4383 | 14.3 | 38
-Build the Pyramid! | 1822 | 4299 | 6.9 | 14
-[UPD2]+1 Loot To Forge | 16809 | 4196 | 69.8 | 37
-The Hunt: Roblox 20 | 169958 | 4030 | 2.1 | 3
-[💸UPD] Steal an Employee | 2524 | 3547 | 6.1 | 25
-[🏴‍☠️] Build and Kill Zombies | 23107 | 3316 | 32.0 | 29
+[UPD2]+1 Loot To Forge | 27607 | 6455 | 69.6 | 37
+Build the Pyramid! | 2882 | 6141 | 7.0 | 14
++1 Wings For Eggs | 8053 | 5632 | 76.6 | 15
+[🏴‍☠️] Build and Kill Zombies | 37058 | 5075 | 32.1 | 29
+[💸UPD] Steal an Employee | 3713 | 4863 | 5.9 | 25
+[💥HERO PASSIVES💥] Anime Breaker | 7907 | 4600 | 14.1 | 38
+The Hunt: Roblox 20 | 226324 | 4003 | 1.9 | 3
+[W2] +1 Aim Per Click | 393 | 3506 | 50.8 | 43
+Animal Daycare (Anomaly) | 4520 | 3337 | 21.4 | 35
+[🧢] Shoot To Fish | 2451 | 3207 | 3.6 | 25
++1 DMG FPS | 2111 | 3187 | 56.1 | 33
 +1 Chop Trees for Treasure | 2904 | 3177 | 46.6 | 24
-[W2] +1 Aim Per Click | 304 | 2795 | 50.9 | 43
-UNDERTALE: Multiplayer | 776 | 2570 | 24.3 | 45
-+1 DMG FPS | 1289 | 2022 | 56.3 | 33
-Jump For Eggs! 🥚 | 417 | 1990 | 74.8 | 21
-+1 Clone Evolution | 4419 | 1909 | 2.8 | 24
-Animal Daycare (Anomaly) | 2244 | 1754 | 21.7 | 35
-[🧢] Shoot To Fish | 1189 | 1630 | 3.7 | 25
+Aura Dance Battles 🔥 | 3298 | 3090 | 4.3 | 18
++1 Clone Evolution | 6349 | 2626 | 2.8 | 24
+Defend Your Treehouse! | 5054 | 2584 | 5.2 | 23
 
 ## Title shapes currently in use
 
-- `steal ___` — 4 games, median 5033 CCU. Blank filled by: chicken, pet, seed, tree
-- `___ for eggs` — 3 games, median 5721 CCU. Blank filled by: jump, swing, wings
-- `___ game` — 5 games, median 4141 CCU. Blank filled by: kevin, limbus, mukbang, tank, verity's
-- `steal ___ egg` — 6 games, median 3734 CCU. Blank filled by: an, baby, brainrot, fish, lucky, secret
-- `___ evolution` — 12 games, median 2660 CCU. Blank filled by: clone, dino, god, horse, katana, mog, monkey, muscle
-- `grow ___ fighter` — 3 games, median 4859 CCU. Blank filled by: chicken, dragon, pet
-- `___ per step` — 3 games, median 4270 CCU. Blank filled by: phonk, size, skinny
-- `anime card ___` — 3 games, median 3468 CCU. Blank filled by: collection, farm, rng
-- `survive the ___` — 3 games, median 2881 CCU. Blank filled by: apocalypse, slope, swarm
-- `___ war` — 3 games, median 2744 CCU. Blank filled by: mini, navy, total
-- `___ arena` — 10 games, median 1541 CCU. Blank filled by: ability, deagle, demon, element, katana, knife, murder, pistol
-- `___ rng` — 4 games, median 2096 CCU. Blank filled by: doors, heroes, tree, unscathed
+- `___ for eggs` — 3 games, median 8053 CCU. Blank filled by: jump, swing, wings
+- `___ game` — 5 games, median 6108 CCU. Blank filled by: kevin, limbus, mukbang, tank, verity's
+- `___ per step` — 4 games, median 6488 CCU. Blank filled by: fan, phonk, size, skinny
+- `survive the ___` — 4 games, median 6132 CCU. Blank filled by: apocalypse, slope, swarm, tsunami
+- `grow ___ fighter` — 3 games, median 7021 CCU. Blank filled by: chicken, dragon, pet
+- `steal ___ egg` — 6 games, median 4971 CCU. Blank filled by: an, baby, brainrot, fish, lucky, secret
+- `steal ___` — 4 games, median 5918 CCU. Blank filled by: chicken, pet, seed, tree
+- `animal ___` — 3 games, median 4520 CCU. Blank filled by: daycare, hospital, restaurant
+- `___ duels` — 7 games, median 2935 CCU. Blank filled by: archery, car, deagle, knife, murder, puzzle, weapon
+- `___ war` — 3 games, median 4127 CCU. Blank filled by: mini, navy, total
+- `___ evolution` — 14 games, median 2085 CCU. Blank filled by: clone, dino, god, horse, kaiju, katana, mog, monkey
+- `___ an army` — 3 games, median 4007 CCU. Blank filled by: build, command, roll
 
 ## How to read this
 
