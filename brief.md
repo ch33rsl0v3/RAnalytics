@@ -1,85 +1,85 @@
 # RAnalytics brief — 2026-09-20
 
-Oldest reading in this sample: 36.5 hours ago.
+Oldest reading in this sample: 40.5 hours ago.
 
-Sample: 1332 games passing filters, 4863 tracked in total. 84 collection runs over 18.8 days since 2026-09-01.
+Sample: 1431 games passing filters, 4864 tracked in total. 85 collection runs over 19.0 days since 2026-09-01.
 
-Terms by zone: 29 target, 31 crowded, 0 saturated, 0 noise. An empty zone below means no term landed there, not that the check failed.
+Terms by zone: 28 target, 32 crowded, 0 saturated, 0 noise. An empty zone below means no term landed there, not that the check failed.
 
 ## Launching now (fewest visits per current player, bait excluded)
 
 name | visits per player | CCU | heat | fav/1k | age d
 --- | --- | --- | --- | --- | ---
-[NOW] Ukay Ukay | 75 | 2205 | 13372 | 19.7 | 24
-[将] Shogun's Reign | 123 | 5759 | 8118 | 30.9 | 56
-[UPGRADES] Build the Pyramid! | 222 | 5999 | 4498 | 7.2 | 16
-[🍄UPD] Pets Universe! 🐾 | 251 | 1722 | 3981 | 42.1 | 26
-[🍀]Build and Kill Zombies | 255 | 45085 | 3921 | 30.6 | 31
-[💸UPD] Steal an Employee | 260 | 5595 | 3849 | 5.0 | 27
-[Races]+1 Loot To Forge | 266 | 27179 | 3755 | 64.2 | 39
-Anime Breaker [👤SHADOWS] | 283 | 8486 | 3533 | 13.7 | 40
-Catch Dragons To Defend | 291 | 3466 | 3437 | 5.9 | 51
-[🚀] 2 Player Raid Tycoon | 302 | 2272 | 3309 | 13.6 | 15
+Run and Steal Animals 😈 | 44 | 1898 | 22736 | 77.7 | 15
+[将] Shogun's Reign | 117 | 6770 | 8550 | 30.5 | 56
+[W3] +1 Aim Per Click | 175 | 916 | 5715 | 49.3 | 45
+[UPGRADES] Build the Pyramid! | 183 | 7944 | 5456 | 7.2 | 16
+[🚀] 2 Player Raid Tycoon | 184 | 3980 | 5449 | 13.1 | 15
+[💸UPD] Steal an Employee | 211 | 7396 | 4747 | 4.9 | 27
+[🍄UPD] Pets Universe! 🐾 | 212 | 2140 | 4716 | 42.8 | 26
+[🍀]Build and Kill Zombies | 222 | 53943 | 4496 | 30.5 | 31
+[Races]+1 Loot To Forge | 230 | 33114 | 4354 | 63.7 | 39
+Catch Dragons To Defend | 236 | 4491 | 4235 | 5.8 | 51
 
 ## Trending words (change over 7.0 days)
 
 term | was | now | share change
 --- | --- | --- | ---
-brainrots | 11 | 37 | +0.35pp
-obby | 14 | 40 | +0.30pp
-roleplay | 13 | 33 | +0.19pp
-sprunki | 1 | 11 | +0.19pp
+brainrots | 11 | 38 | +0.37pp
+obby | 13 | 41 | +0.35pp
 break | 1 | 11 | +0.19pp
+sprunki | 1 | 11 | +0.19pp
+roleplay | 13 | 33 | +0.19pp
 dragon | 2 | 12 | +0.17pp
-car | 12 | 30 | +0.17pp
+car | 12 | 30 | +0.16pp
+speed | 23 | 50 | +0.16pp
 climb | 4 | 15 | +0.16pp
 school | 7 | 20 | +0.15pp
-speed | 23 | 49 | +0.14pp
-tycoon | 31 | 63 | +0.13pp
 town | 1 | 8 | +0.13pp
+town rp | 0 | 6 | +0.12pp
 
 ## Discover shelves (not genres - the genre field is dead)
 
 shelf | games | rising | total CCU | median CCU | median heat | median fav/1k
 --- | --- | --- | --- | --- | --- | ---
-Top Trending | 182 | 65 | 4252742 | 3715 | 241 | 6.2
-Top Playing Now | 38 | 9 | 833970 | 17167 | 103 | 2.9
-Unclassified | 914 | 168 | 827012 | 394 | 66 | 5.2
-Up-and-Coming | 76 | 62 | 290663 | 2111 | 607 | 9.9
-Fun with Friends | 72 | 15 | 204705 | 1687 | 108 | 4.9
-Top Revisited | 50 | 2 | 86248 | 807 | 55 | 2.9
+Top Trending | 188 | 67 | 4545344 | 4351 | 274 | 6.0
+Unclassified | 1005 | 177 | 1010296 | 429 | 78 | 5.2
+Top Playing Now | 38 | 9 | 999005 | 19625 | 136 | 2.9
+Up-and-Coming | 76 | 61 | 353530 | 2605 | 784 | 9.9
+Fun with Friends | 75 | 15 | 240972 | 1806 | 129 | 4.9
+Top Revisited | 49 | 2 | 98910 | 1099 | 71 | 2.9
 
 ## Opportunity terms (high demand, few games)
 
 term | games | devs | past peak | median CCU | peak CCU | avg heat | avg age d
 --- | --- | --- | --- | --- | --- | --- | ---
-pull | 3 | 3 | 100% | 9217 | 17147 | 372 | 71
-dungeon | 3 | 3 | 100% | 7411 | 16390 | 141 | 198
-how | 3 | 3 | 100% | 6452 | 8942 | 793 | 27
-arm | 3 | 3 | 100% | 6381 | 15454 | 387 | 66
-anime rng | 3 | 3 | 100% | 5093 | 6089 | 838 | 160
-build base | 3 | 3 | 100% | 4934 | 9977 | 165 | 84
-per step | 3 | 3 | 100% | 4682 | 6107 | 429 | 47
-raft | 3 | 3 | 33% | 4636 | 8501 | 216 | 261
-legacy | 3 | 3 | 100% | 4514 | 12317 | 453 | 192
-mukbang | 3 | 3 | 100% | 3044 | 28494 | 217 | 107
-tape | 3 | 3 | 100% | 2838 | 5357 | 325 | 75
-strike | 3 | 3 | 100% | 2827 | 5843 | 86 | 240
+steal anime | 3 | 3 | 100% | 11933 | 17240 | 2200 | 28
+pull | 3 | 3 | 100% | 10086 | 20740 | 428 | 71
+arm | 3 | 3 | 67% | 8460 | 17691 | 451 | 66
+dungeon | 3 | 3 | 100% | 8339 | 19265 | 149 | 198
+build base | 3 | 3 | 100% | 5035 | 11491 | 186 | 84
+raft | 3 | 3 | 33% | 4636 | 9586 | 240 | 261
+tape | 3 | 3 | 100% | 3988 | 5357 | 444 | 75
+phonk | 3 | 3 | 67% | 3887 | 15054 | 450 | 113
+strike | 3 | 3 | 100% | 3446 | 6730 | 95 | 241
+swarm | 3 | 3 | 100% | 3350 | 3785 | 2793 | 102
+wood | 3 | 3 | 100% | 3161 | 3447 | 159 | 82
+zoo | 3 | 3 | 100% | 3082 | 4597 | 474 | 74
 
 ## Crowded terms (high demand, many games already)
 
 term | games | devs | median CCU | avg heat
 --- | --- | --- | --- | ---
-jump steal | 4 | 4 | 10220 | 452
-zombie | 4 | 4 | 5830 | 128
-rush | 4 | 4 | 5515 | 220
-steal egg | 6 | 6 | 5845 | 914
-step | 4 | 4 | 4138 | 328
-chicken | 5 | 5 | 4463 | 185
-survival | 4 | 4 | 3730 | 128
-wings | 4 | 4 | 3598 | 1154
-army | 7 | 7 | 4285 | 549
-boss | 4 | 4 | 2910 | 870
+jump steal | 4 | 4 | 12960 | 592
+rush | 4 | 4 | 6160 | 226
+zombie | 4 | 4 | 5906 | 138
+per step | 4 | 4 | 3234 | 407
+steal egg | 6 | 6 | 6682 | 1061
+how | 4 | 4 | 4940 | 784
+chicken | 5 | 5 | 5306 | 208
+wings | 4 | 4 | 4456 | 1417
+anime rng | 4 | 4 | 4278 | 695
+army | 7 | 7 | 5296 | 634
 
 ## Saturated terms (many games, low demand each)
 
@@ -89,61 +89,61 @@ _None in this sample._
 
 name | CCU | heat | fav/1k | age d
 --- | --- | --- | --- | ---
-[NOW] Ukay Ukay | 2205 | 13372 | 19.7 | 24
-[将] Shogun's Reign | 5759 | 8118 | 30.9 | 56
+Run and Steal Animals 😈 | 1898 | 22736 | 77.7 | 15
+[将] Shogun's Reign | 6770 | 8550 | 30.5 | 56
 Re://:Swarm | 155 | 7485 | 32.8 | 24
-[UPGRADES] Build the Pyramid! | 5999 | 4498 | 7.2 | 16
-[🍄UPD] Pets Universe! 🐾 | 1722 | 3981 | 42.1 | 26
-[🌪️WEATHER] Anime Card Multiverse | 100 | 3961 | 34.4 | 28
-[🍀]Build and Kill Zombies | 45085 | 3921 | 30.6 | 31
-[💸UPD] Steal an Employee | 5595 | 3849 | 5.0 | 27
-[Races]+1 Loot To Forge | 27179 | 3755 | 64.2 | 39
-Anime Breaker [👤SHADOWS] | 8486 | 3533 | 13.7 | 40
-Catch Dragons To Defend | 3466 | 3437 | 5.9 | 51
-[🚀] 2 Player Raid Tycoon | 2272 | 3309 | 13.6 | 15
-Magnet Fishing 🧲 | 3282 | 3022 | 24.3 | 40
-+1 DMG FPS | 4070 | 2893 | 55.6 | 35
-+1 Wings For Eggs | 7529 | 2849 | 66.0 | 17
-Run and Steal Animals 😈 | 192 | 2824 | 78.4 | 15
-Dropshipping Tycoon | 10276 | 2635 | 7.6 | 41
-Defend Your Treehouse! | 6576 | 2549 | 5.0 | 25
-[⚔️GREEN vs RED!] 99X Universe | 322 | 2541 | 142.2 | 56
-[W2] +1 Aim Per Click | 389 | 2515 | 49.5 | 45
+[W3] +1 Aim Per Click | 916 | 5715 | 49.3 | 45
+[UPGRADES] Build the Pyramid! | 7944 | 5456 | 7.2 | 16
+[🚀] 2 Player Raid Tycoon | 3980 | 5449 | 13.1 | 15
+[💸UPD] Steal an Employee | 7396 | 4747 | 4.9 | 27
+[🍄UPD] Pets Universe! 🐾 | 2140 | 4716 | 42.8 | 26
+[🍀]Build and Kill Zombies | 53943 | 4496 | 30.5 | 31
+[Races]+1 Loot To Forge | 33114 | 4354 | 63.7 | 39
+Catch Dragons To Defend | 4491 | 4235 | 5.8 | 51
+[🌪️WEATHER] Anime Card Multiverse | 107 | 4095 | 34.5 | 28
++1 DMG FPS | 5891 | 3980 | 55.2 | 35
+Anime Breaker [👤SHADOWS] | 8907 | 3615 | 13.7 | 40
+[UPDATE 3x💸] Brazil Motorfest 🏎️  | 315 | 3588 | 6.4 | 12
+[UPD] Aura Dance Battles 🔥 | 12702 | 3459 | 3.9 | 20
++1 Wings For Eggs | 9396 | 3368 | 65.2 | 17
+[⚔️GREEN vs RED!] 99X Universe | 438 | 3330 | 142.6 | 56
+[UPD 🏠] Survive 7 Days In Desert 🌵 | 13735 | 3321 | 3.6 | 55
+Defend Your Treehouse! | 8483 | 3188 | 5.0 | 25
 
 ## New releases spotted in window
 
 name | CCU | heat | fav/1k | age d
 --- | --- | --- | --- | ---
-[NOW] Ukay Ukay | 2205 | 13372 | 19.7 | 24
+Run and Steal Animals 😈 | 1898 | 22736 | 77.7 | 15
 Re://:Swarm | 155 | 7485 | 32.8 | 24
-[UPGRADES] Build the Pyramid! | 5999 | 4498 | 7.2 | 16
-[🍄UPD] Pets Universe! 🐾 | 1722 | 3981 | 42.1 | 26
-[🌪️WEATHER] Anime Card Multiverse | 100 | 3961 | 34.4 | 28
-[💸UPD] Steal an Employee | 5595 | 3849 | 5.0 | 27
-[Races]+1 Loot To Forge | 27179 | 3755 | 64.2 | 39
-[🚀] 2 Player Raid Tycoon | 2272 | 3309 | 13.6 | 15
+[W3] +1 Aim Per Click | 916 | 5715 | 49.3 | 45
+[UPGRADES] Build the Pyramid! | 7944 | 5456 | 7.2 | 16
+[🚀] 2 Player Raid Tycoon | 3980 | 5449 | 13.1 | 15
+[💸UPD] Steal an Employee | 7396 | 4747 | 4.9 | 27
+[🍄UPD] Pets Universe! 🐾 | 2140 | 4716 | 42.8 | 26
+[Races]+1 Loot To Forge | 33114 | 4354 | 63.7 | 39
+[🌪️WEATHER] Anime Card Multiverse | 107 | 4095 | 34.5 | 28
++1 DMG FPS | 5891 | 3980 | 55.2 | 35
+[UPDATE 3x💸] Brazil Motorfest 🏎️  | 315 | 3588 | 6.4 | 12
+[UPD] Aura Dance Battles 🔥 | 12702 | 3459 | 3.9 | 20
++1 Wings For Eggs | 9396 | 3368 | 65.2 | 17
+Defend Your Treehouse! | 8483 | 3188 | 5.0 | 25
 Magnet Fishing 🧲 | 3282 | 3022 | 24.3 | 40
-+1 DMG FPS | 4070 | 2893 | 55.6 | 35
-+1 Wings For Eggs | 7529 | 2849 | 66.0 | 17
-Run and Steal Animals 😈 | 192 | 2824 | 78.4 | 15
-Defend Your Treehouse! | 6576 | 2549 | 5.0 | 25
-[W2] +1 Aim Per Click | 389 | 2515 | 49.5 | 45
-Swing For Eggs | 18939 | 2493 | 58.6 | 23
 
 ## Title shapes currently in use
 
-- `animal ___` — 4 games, median 6801 CCU. Blank filled by: daycare, hospital, jump, restaurant
-- `___ for eggs` — 3 games, median 7529 CCU. Blank filled by: jump, swing, wings
+- `___ for eggs` — 3 games, median 9396 CCU. Blank filled by: jump, swing, wings
+- `___ game` — 4 games, median 6309 CCU. Blank filled by: limbus, tank, verity's, vlg
+- `___ per step` — 4 games, median 6113 CCU. Blank filled by: fan, phonk, size, skinny
 - `grow ___ fighter` — 4 games, median 5990 CCU. Blank filled by: chicken, dog, dragon, pet
-- `___ game` — 4 games, median 5681 CCU. Blank filled by: limbus, tank, verity's, vlg
-- `steal ___` — 5 games, median 4001 CCU. Blank filled by: chicken, pet, seed, superstar, tree
-- `___ per step` — 3 games, median 4682 CCU. Blank filled by: phonk, size, skinny
-- `steal ___ egg` — 5 games, median 3617 CCU. Blank filled by: an, baby, brainrot, fish, lucky
+- `steal ___ egg` — 6 games, median 4228 CCU. Blank filled by: an, baby, brainrot, fish, lucky, secret
+- `steal ___` — 5 games, median 4539 CCU. Blank filled by: chicken, pet, seed, superstar, tree
+- `___ evolution` — 14 games, median 2951 CCU. Blank filled by: clone, dino, god, horse, kaiju, katana, mog, monkey
+- `___ duels` — 8 games, median 3482 CCU. Blank filled by: archery, car, deagle, knife, murder, puzzle, quiz, weapon
+- `___ war` — 3 games, median 5045 CCU. Blank filled by: mini, navy, total
+- `___ or die` — 4 games, median 4332 CCU. Blank filled by: dodge, find, land, mog
 - `___ fishing` — 6 games, median 3282 CCU. Blank filled by: claw, deep, hole, magnet, ryu's, titan
-- `___ evolution` — 14 games, median 2330 CCU. Blank filled by: clone, dino, god, horse, kaiju, katana, mog, monkey
-- `___ or die` — 4 games, median 3775 CCU. Blank filled by: dodge, find, land, mog
-- `___ war` — 3 games, median 4338 CCU. Blank filled by: mini, navy, total
-- `___ duels` — 8 games, median 2500 CCU. Blank filled by: archery, car, deagle, knife, murder, puzzle, quiz, weapon
+- `guess the ___` — 4 games, median 3753 CCU. Blank filled by: person, slapper, song, word
 
 ## How to read this
 
