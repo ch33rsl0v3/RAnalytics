@@ -1,50 +1,50 @@
 # RAnalytics brief — 2026-09-20
 
-Oldest reading in this sample: 44.5 hours ago.
+Oldest reading in this sample: 45.0 hours ago.
 
-Sample: 1428 games passing filters, 4876 tracked in total. 88 collection runs over 19.1 days since 2026-09-01.
+Sample: 1433 games passing filters, 4877 tracked in total. 89 collection runs over 19.2 days since 2026-09-01.
 
-Terms by zone: 30 target, 30 crowded, 0 saturated, 0 noise. An empty zone below means no term landed there, not that the check failed.
+Terms by zone: 31 target, 29 crowded, 0 saturated, 0 noise. An empty zone below means no term landed there, not that the check failed.
 
 ## Still unclaimed (strong numbers, nobody has copied the shape yet)
 
 name | copies | fav/1k | CCU | heat | age d
 --- | --- | --- | --- | --- | ---
-[🍄UPD] Pets Universe! 🐾 | 1 | 43.3 | 2226 | 4483 | 26
-[Races]+1 Loot To Forge | 0 | 63.2 | 25960 | 3278 | 39
-[🍀]Build and Kill Zombies | 0 | 30.3 | 38124 | 3082 | 31
-Run a Library 📚 | Shelf Life | 0 | 18.3 | 975 | 2283 | 29
-+1 Chop Trees for Treasure | 0 | 44.3 | 3095 | 2182 | 27
-Would You Rather: Halloween Outfit Tower 🎃 | 1 | 55.3 | 7529 | 1957 | 29
-[🤣UPD 2] Be A Voice Actor 🎙️ | 0 | 39.7 | 4898 | 1495 | 21
-[4 HOURS] Kick an Uma | 0 | 68.0 | 3529 | 1349 | 27
-[🔁 TRADING] Jump To Steal An Egg | 0 | 32.7 | 15711 | 1219 | 33
-[🐉Spirit Beasts] Cultivation: Evermortal | 0 | 68.9 | 1463 | 1081 | 41
-[⚡Weather]Grow Beanstalk to Steal An Egg | 0 | 54.2 | 2564 | 990 | 32
-[🔥] Ihaw Ihaw! | 0 | 21.0 | 1031 | 716 | 21
+[🍄UPD] Pets Universe! 🐾 | 1 | 43.5 | 2217 | 4488 | 26
+[Races]+1 Loot To Forge | 0 | 63.1 | 25079 | 3252 | 39
+[🍀]Build and Kill Zombies | 0 | 30.3 | 35537 | 3045 | 32
+Run a Library 📚 | Shelf Life | 0 | 18.3 | 935 | 2333 | 29
++1 Chop Trees for Treasure | 0 | 44.2 | 2871 | 2139 | 27
+Would You Rather: Halloween Outfit Tower 🎃 | 1 | 55.8 | 7424 | 2026 | 29
+[🤣UPD 2] Be A Voice Actor 🎙️ | 0 | 40.4 | 4889 | 1581 | 21
+[4 HOURS] Kick an Uma | 0 | 67.9 | 3544 | 1414 | 27
+[🔁 TRADING] Jump To Steal An Egg | 0 | 32.7 | 15352 | 1201 | 33
+[⚡Weather]Grow Beanstalk to Steal An Egg | 0 | 54.1 | 2221 | 972 | 32
+[🐉Spirit Beasts] Cultivation: Evermortal | 0 | 68.8 | 1447 | 959 | 41
+[🔥] Ihaw Ihaw! | 0 | 21.0 | 717 | 707 | 21
 
 ## Shapes already taken (launch burst has happened)
 
 shape | status | games | born together | burst was | median CCU
 --- | --- | --- | --- | --- | ---
-steal ___ | CROWDING | 5 | 3 | 25d ago | 3716
-steal ___ egg | CROWDING | 5 | 3 | 26d ago | 2586
-___ for eggs | CROWDING | 3 | 3 | 20d ago | 7249
+steal ___ | CROWDING | 5 | 3 | 25d ago | 3768.5
+steal ___ egg | CROWDING | 6 | 3 | 26d ago | 3208.0
+___ for eggs | CROWDING | 3 | 3 | 20d ago | 7236.0
 
 ## Launching now (fewest visits per current player, bait excluded)
 
 name | visits per player | CCU | heat | fav/1k | age d
 --- | --- | --- | --- | --- | ---
-[将] Shogun's Reign | 114 | 7933 | 8738 | 30.7 | 56
-[🚀] 2 Player Raid Tycoon | 199 | 3815 | 5018 | 12.6 | 15
-[UPGRADES] Build the Pyramid! | 203 | 8620 | 4921 | 7.1 | 16
-[🍄UPD] Pets Universe! 🐾 | 223 | 2226 | 4483 | 43.3 | 26
-That Freekick Challenge (TFC) | 225 | 3864 | 4441 | 9.7 | 51
-[💸UPD] Steal an Employee | 228 | 8462 | 4390 | 4.8 | 27
-[🕒CHRISTMAS] VLG:CHRISTMAS | 248 | 400 | 4032 | 5.3 | 18
-[UPDATE 3x💸] Brazil Motorfest 🏎️  | 251 | 500 | 3985 | 6.3 | 12
-Anime Breaker [👤SHADOWS] | 276 | 9213 | 3624 | 13.7 | 40
-Catch Dragons To Defend | 276 | 4055 | 3623 | 5.8 | 51
+[将] Shogun's Reign | 116 | 7965 | 8615 | 30.8 | 56
+[UPGRADES] Build the Pyramid! | 199 | 8503 | 5024 | 7.1 | 16
+[🚀] 2 Player Raid Tycoon | 201 | 3989 | 4978 | 12.5 | 15
+[💸UPD] Steal an Employee | 215 | 8627 | 4650 | 4.8 | 27
+[🍄UPD] Pets Universe! 🐾 | 223 | 2217 | 4488 | 43.5 | 26
+That Freekick Challenge (TFC) | 227 | 4327 | 4404 | 9.7 | 51
+[UPDATE 3x💸] Brazil Motorfest 🏎️  | 230 | 502 | 4341 | 6.2 | 12
+[🕒CHRISTMAS] VLG:CHRISTMAS | 251 | 393 | 3979 | 5.2 | 19
+[UPD] Aura Dance Battles 🔥 | 265 | 19419 | 3768 | 3.9 | 20
+[☢️] Deep Fishing🎣 | 276 | 8996 | 3628 | 24.3 | 63
 
 ## Trending words (change over 7.0 days)
 
@@ -52,7 +52,7 @@ term | was | now | share change
 --- | --- | --- | ---
 brainrots | 11 | 38 | +0.37pp
 obby | 13 | 41 | +0.35pp
-sprunki | 1 | 12 | +0.21pp
+sprunki | 1 | 13 | +0.23pp
 roleplay | 13 | 34 | +0.21pp
 dragon | 2 | 13 | +0.19pp
 break | 1 | 11 | +0.19pp
@@ -60,51 +60,51 @@ car | 12 | 31 | +0.18pp
 school | 7 | 21 | +0.17pp
 climb | 4 | 15 | +0.16pp
 speed | 24 | 51 | +0.14pp
+brainrot | 10 | 25 | +0.14pp
 tycoon | 33 | 67 | +0.13pp
-town | 1 | 8 | +0.13pp
 
 ## Discover shelves (not genres - the genre field is dead)
 
 shelf | games | rising | total CCU | median CCU | median heat | median fav/1k
 --- | --- | --- | --- | --- | --- | ---
-Top Trending | 188 | 69 | 3904292 | 4931 | 284 | 6.2
-Unclassified | 997 | 184 | 1043221 | 450 | 81 | 5.3
-Top Playing Now | 39 | 8 | 949285 | 17829 | 114 | 2.8
-Up-and-Coming | 77 | 62 | 368651 | 2720 | 682 | 9.6
-Fun with Friends | 75 | 15 | 264116 | 2226 | 137 | 5.1
-Top Revisited | 52 | 2 | 96576 | 1215 | 85 | 2.9
+Top Trending | 188 | 69 | 3874769.5 | 4492.5 | 286 | 6.2
+Unclassified | 1000 | 188 | 995261.5 | 422.5 | 84 | 5.4
+Top Playing Now | 39 | 8 | 897698.0 | 14502.0 | 111 | 2.8
+Up-and-Coming | 79 | 64 | 349522.5 | 2689 | 779 | 9.2
+Fun with Friends | 75 | 15 | 258600.0 | 2206.0 | 141 | 5.1
+Top Revisited | 52 | 2 | 95524.0 | 1095.5 | 85 | 2.9
 
 ## Opportunity terms (high demand, few games)
 
 term | games | devs | past peak | median CCU | peak CCU | avg heat | avg age d
 --- | --- | --- | --- | --- | --- | --- | ---
-pull | 3 | 3 | 67% | 11401 | 19738 | 412 | 71
-arm | 3 | 3 | 67% | 7792 | 13174 | 377 | 66
-dungeon | 3 | 3 | 100% | 7720 | 20079 | 153 | 198
-steal anime | 3 | 3 | 100% | 6691 | 7078 | 1407 | 28
-phonk | 3 | 3 | 33% | 6517 | 14148 | 493 | 113
-how | 3 | 3 | 100% | 6081 | 12306 | 845 | 27
-build base | 3 | 3 | 100% | 4908 | 10580 | 172 | 85
-raft | 3 | 3 | 33% | 4636 | 5848 | 153 | 261
-swarm | 3 | 3 | 50% | 4071 | 4144 | 2804 | 102
-wood | 3 | 3 | 100% | 3814 | 5464 | 189 | 83
-grass | 3 | 3 | 33% | 3069 | 12477 | 214 | 110
-airport | 3 | 3 | 33% | 3046 | 5303 | 57 | 215
+pull | 3 | 3 | 67% | 10720 | 19447.0 | 417 | 71
+arm | 3 | 3 | 67% | 7643 | 13252.5 | 376 | 66
+dungeon | 3 | 3 | 100% | 7557 | 19734.0 | 154 | 198
+steal anime | 3 | 3 | 100% | 7010 | 7198.0 | 1422 | 28
+phonk | 3 | 3 | 33% | 6214 | 13380.0 | 506 | 113
+raft | 3 | 3 | 33% | 5148 | 5936.0 | 150 | 261
+build base | 3 | 3 | 100% | 4921 | 10532.5 | 171 | 85
+heroes | 3 | 3 | 33% | 3932 | 4381.5 | 1181 | 90
+swarm | 3 | 3 | 50% | 3834 | 4087.0 | 2825 | 102
+wood | 3 | 3 | 100% | 3467 | 4453.5 | 209 | 83
+brainrot egg | 3 | 3 | 100% | 3208 | 6912.0 | 959 | 101
+steal brainrot | 3 | 3 | 100% | 3208 | 6912.0 | 958 | 74
 
 ## Crowded terms (high demand, many games already)
 
 term | games | devs | median CCU | avg heat
 --- | --- | --- | --- | ---
-jump steal | 4 | 4 | 11816 | 444
-fishing | 4 | 4 | 5823 | 1763
-troll | 5 | 5 | 6130 | 238
-zombie | 4 | 4 | 5036 | 125
-days | 5 | 5 | 4904 | 728
-anime rng | 4 | 4 | 4362 | 699
-rush | 4 | 4 | 4314 | 173
-army | 7 | 7 | 5690 | 571
-chicken | 5 | 5 | 4362 | 142
-per step | 4 | 4 | 2338 | 336
+jump steal | 4 | 4 | 11288 | 452
+fishing | 4 | 4 | 5622 | 1906
+zombie | 4 | 4 | 5046 | 124
+how | 4 | 4 | 4691 | 753
+rush | 4 | 4 | 4432 | 169
+anime rng | 4 | 4 | 4336 | 700
+army | 7 | 7 | 5622 | 566
+days | 5 | 5 | 4430 | 720
+chicken | 5 | 5 | 4430 | 140
+survival | 4 | 4 | 3928 | 125
 
 ## Saturated terms (many games, low demand each)
 
@@ -114,61 +114,61 @@ _None in this sample._
 
 name | CCU | heat | fav/1k | age d
 --- | --- | --- | --- | ---
-[将] Shogun's Reign | 7933 | 8738 | 30.7 | 56
+[将] Shogun's Reign | 7965 | 8615 | 30.8 | 56
 Re://:Swarm | 155 | 7485 | 32.8 | 25
-[🚀] 2 Player Raid Tycoon | 3815 | 5018 | 12.6 | 15
-[UPGRADES] Build the Pyramid! | 8620 | 4921 | 7.1 | 16
-[🍄UPD] Pets Universe! 🐾 | 2226 | 4483 | 43.3 | 26
-That Freekick Challenge (TFC) | 3864 | 4441 | 9.7 | 51
-[💸UPD] Steal an Employee | 8462 | 4390 | 4.8 | 27
-[🕒CHRISTMAS] VLG:CHRISTMAS | 400 | 4032 | 5.3 | 18
-[UPDATE 3x💸] Brazil Motorfest 🏎️  | 500 | 3985 | 6.3 | 12
-[🏰DUNGEON + TRADING🤝] Anime Card Multiverse | 133 | 3817 | 34.4 | 28
-Anime Breaker [👤SHADOWS] | 9213 | 3624 | 13.7 | 40
-Catch Dragons To Defend | 4055 | 3623 | 5.8 | 51
-+1 DMG FPS | 5564 | 3566 | 54.7 | 35
-[UPD 🏠] Survive 7 Days In Desert 🌵 | 15543 | 3465 | 3.6 | 55
-[W3] +1 Aim Per Click | 630 | 3342 | 48.9 | 45
-[Races]+1 Loot To Forge | 25960 | 3278 | 63.2 | 39
-+1 Speed Plane Escape | 12452 | 3133 | 5.8 | 53
-[UPD] Aura Dance Battles 🔥 | 19066 | 3127 | 3.9 | 20
-[🍀]Build and Kill Zombies | 38124 | 3082 | 30.3 | 31
-Defend Your Treehouse! | 14645 | 3035 | 4.9 | 25
+[UPGRADES] Build the Pyramid! | 8503 | 5024 | 7.1 | 16
+[🚀] 2 Player Raid Tycoon | 3989 | 4978 | 12.5 | 15
+[💸UPD] Steal an Employee | 8627 | 4650 | 4.8 | 27
+[🍄UPD] Pets Universe! 🐾 | 2217 | 4488 | 43.5 | 26
+That Freekick Challenge (TFC) | 4327 | 4404 | 9.7 | 51
+[UPDATE 3x💸] Brazil Motorfest 🏎️  | 502 | 4341 | 6.2 | 12
+[🏰DUNGEON + TRADING🤝] Anime Card Multiverse | 126 | 4131 | 34.4 | 28
+[🕒CHRISTMAS] VLG:CHRISTMAS | 393 | 3979 | 5.2 | 19
+[UPD] Aura Dance Battles 🔥 | 19419 | 3768 | 3.9 | 20
+Anime Breaker [👤SHADOWS] | 9089 | 3591 | 13.7 | 40
+Catch Dragons To Defend | 3904 | 3531 | 5.8 | 51
++1 DMG FPS | 5605 | 3526 | 54.6 | 35
+Defend Your Treehouse! | 11215 | 3498 | 4.9 | 26
+[UPD 🏠] Survive 7 Days In Desert 🌵 | 14796 | 3421 | 3.6 | 55
+[Races]+1 Loot To Forge | 25079 | 3252 | 63.1 | 39
+Animal Daycare (Anomaly) | 12334 | 3226 | 18.3 | 37
++1 Speed Plane Escape | 12525 | 3175 | 5.8 | 53
+[🍀]Build and Kill Zombies | 35537 | 3045 | 30.3 | 32
 
 ## New releases spotted in window
 
 name | CCU | heat | fav/1k | age d
 --- | --- | --- | --- | ---
 Re://:Swarm | 155 | 7485 | 32.8 | 25
-[UPGRADES] Build the Pyramid! | 8620 | 5340 | 7.1 | 16
-Defend Your Treehouse! | 14645 | 5240 | 4.9 | 25
-[UPDATE 3x💸] Brazil Motorfest 🏎️  | 500 | 5176 | 6.3 | 12
-[💸UPD] Steal an Employee | 8462 | 5023 | 4.8 | 27
-[🚀] 2 Player Raid Tycoon | 3815 | 4810 | 12.6 | 15
-[🏰DUNGEON + TRADING🤝] Anime Card Multiverse | 133 | 4745 | 34.4 | 28
-[🍄UPD] Pets Universe! 🐾 | 2226 | 4663 | 43.3 | 26
-[UPD] Aura Dance Battles 🔥 | 19066 | 4634 | 3.9 | 20
-[🕒CHRISTMAS] VLG:CHRISTMAS | 400 | 4032 | 5.3 | 18
-Animal Daycare (Anomaly) | 12389 | 3852 | 18.4 | 37
-[W3] +1 Aim Per Click | 630 | 3739 | 48.9 | 45
-+1 DMG FPS | 5564 | 3521 | 54.7 | 35
-[Races]+1 Loot To Forge | 25960 | 3261 | 63.2 | 39
-WHO FARTED? | 5534 | 3237 | 5.0 | 24
+[UPGRADES] Build the Pyramid! | 8503 | 5024 | 7.1 | 16
+[🚀] 2 Player Raid Tycoon | 3989 | 4978 | 12.5 | 15
+[💸UPD] Steal an Employee | 8627 | 4650 | 4.8 | 27
+[🍄UPD] Pets Universe! 🐾 | 2217 | 4488 | 43.5 | 26
+[UPDATE 3x💸] Brazil Motorfest 🏎️  | 502 | 4341 | 6.2 | 12
+[🏰DUNGEON + TRADING🤝] Anime Card Multiverse | 126 | 4131 | 34.4 | 28
+[🕒CHRISTMAS] VLG:CHRISTMAS | 393 | 3979 | 5.2 | 19
+[UPD] Aura Dance Battles 🔥 | 19419 | 3768 | 3.9 | 20
++1 DMG FPS | 5605 | 3526 | 54.6 | 35
+Defend Your Treehouse! | 11215 | 3498 | 4.9 | 26
+[Races]+1 Loot To Forge | 25079 | 3252 | 63.1 | 39
+Animal Daycare (Anomaly) | 12334 | 3226 | 18.3 | 37
+[W3] +1 Aim Per Click | 464 | 3037 | 48.8 | 45
+Magnet Fishing 🧲 | 3707 | 2816 | 24.2 | 40
 
 ## Title shapes currently in use
 
-- `___ evolution` — 14 games, median 6302 CCU. Blank filled by: clone, dino, god, horse, kaiju, katana, mog, monkey
-- `grow ___ fighter` — 4 games, median 9219 CCU. Blank filled by: chicken, dog, dragon, pet
-- `___ fishing` — 4 games, median 8088 CCU. Blank filled by: claw, deep, hole, magnet
-- `___ game` — 4 games, median 6530 CCU. Blank filled by: limbus, summon, tank, verity's
-- `___ for eggs` — 3 games, median 7249 CCU. Blank filled by: jump, swing, wings
-- `___ duels` — 8 games, median 3878 CCU. Blank filled by: archery, car, deagle, knife, murder, puzzle, quiz, weapon
-- `survive the ___` — 4 games, median 4316 CCU. Blank filled by: apocalypse, slope, swarm, tsunami
-- `___ war` — 3 games, median 5007 CCU. Blank filled by: mini, navy, total
-- `guess the ___` — 3 games, median 5000 CCU. Blank filled by: person, slapper, word
-- `___ per step` — 4 games, median 4253 CCU. Blank filled by: fan, phonk, size, skinny
-- `steal ___` — 5 games, median 3716 CCU. Blank filled by: chicken, pet, seed, superstar, tree
-- `my ___ farm` — 5 games, median 3069 CCU. Blank filled by: animal, grass, moo, toll, wood
+- `___ fishing` — 4 games, median 7685.5 CCU. Blank filled by: claw, deep, hole, magnet
+- `grow ___ fighter` — 4 games, median 7570.0 CCU. Blank filled by: chicken, dog, dragon, pet
+- `___ for eggs` — 3 games, median 7236.0 CCU. Blank filled by: jump, swing, wings
+- `___ evolution` — 14 games, median 3581.0 CCU. Blank filled by: clone, dino, god, horse, kaiju, katana, mog, monkey
+- `___ duels` — 8 games, median 3738.0 CCU. Blank filled by: archery, car, deagle, knife, murder, puzzle, quiz, weapon
+- `___ or die` — 4 games, median 4861.5 CCU. Blank filled by: dodge, find, land, mog
+- `___ per step` — 4 games, median 4336.0 CCU. Blank filled by: fan, phonk, size, skinny
+- `___ war` — 3 games, median 4926.5 CCU. Blank filled by: mini, navy, total
+- `survive the ___` — 4 games, median 4236.5 CCU. Blank filled by: apocalypse, slope, swarm, tsunami
+- `steal ___` — 5 games, median 3768.5 CCU. Blank filled by: chicken, pet, seed, superstar, tree
+- `guess the ___` — 3 games, median 4811.5 CCU. Blank filled by: person, slapper, word
+- `steal ___ egg` — 6 games, median 3208.0 CCU. Blank filled by: an, baby, brainrot, fish, lucky
 
 ## How to read this
 
