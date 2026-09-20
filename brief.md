@@ -1,6 +1,6 @@
 # RAnalytics brief — 2026-09-20
 
-Oldest reading in this sample: 44.4 hours ago.
+Oldest reading in this sample: 44.5 hours ago.
 
 Sample: 1428 games passing filters, 4876 tracked in total. 88 collection runs over 19.1 days since 2026-09-01.
 
