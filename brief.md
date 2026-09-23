@@ -1,8 +1,8 @@
 # RAnalytics brief — 2026-09-23
 
-Oldest reading in this sample: 47.2 hours ago.
+Oldest reading in this sample: 28.5 hours ago.
 
-Sample: 1338 games passing filters, 5118 tracked in total. 100 collection runs over 22.1 days since 2026-09-01.
+Sample: 1325 games passing filters, 5148 tracked in total. 101 collection runs over 22.1 days since 2026-09-01.
 
 Terms by zone: 34 target, 26 crowded, 0 saturated, 0 noise. An empty zone below means no term landed there, not that the check failed.
 
@@ -10,32 +10,32 @@ Terms by zone: 34 target, 26 crowded, 0 saturated, 0 noise. An empty zone below 
 
 name | heat | CCU | vs market | copies | fav/1k | age d
 --- | --- | --- | --- | --- | --- | ---
-[FREE] ChinaSide Tycoon | 3864 | 2387 | 4.3x | 7 | 17.6 | 20
-SAE with F2P ADMIN PANEL X9999M🌈 [admin-panel copy, skip] | 5065 | 5532 | - | 0 | 128.3 | 24
+[FREE] ChinaSide Tycoon | 3809 | 2554 | 4.6x | 6 | 17.5 | 20
+SAE with F2P ADMIN PANEL X9999M🌈 [admin-panel copy, skip] | 4290 | 324 | - | 0 | 127.8 | 25
 
 ## Still unclaimed (strong numbers, nobody has copied the shape yet)
 
 name | copies | fav/1k | CCU | heat | age d
 --- | --- | --- | --- | --- | ---
-Re://Adventures [UPD 1 🔥 ] | 1 | 3.0 | 12208 | 4618 | 38
-[NEW] 💭Dream Car Collection  | 0 | 20.8 | 6079 | 4113 | 44
-[🍄UPD] Pets Universe! 🐾 | 1 | 50.5 | 3268 | 3459 | 29
-Hamster Village🐹 | 0 | 31.4 | 3727 | 3058 | 35
-[🚀] 2 Player Raid Tycoon | 1 | 9.7 | 4781 | 2970 | 18
-[Races]+1 Loot To Forge | 0 | 59.0 | 44261 | 2697 | 42
-Build the Pyramid! | 0 | 6.3 | 11296 | 2270 | 19
-⛏️ My Anime Mine | 0 | 5.1 | 2822 | 2196 | 35
-[1 & 2 PLAYER] Grapple Cart Obby | 0 | 5.4 | 4781 | 1951 | 28
-Build and Kill Zombies | 0 | 28.7 | 31012 | 1666 | 34
-+1 Chop Trees for Treasure | 0 | 40.0 | 2991 | 1591 | 29
-Survive Lava for Animals | 1 | 1.6 | 2364 | 1516 | 16
+Re://Adventures [UPD 1 🔥 ] | 1 | 3.0 | 11629 | 8568 | 38
+[NEW] 💭Dream Car Collection  | 0 | 20.7 | 6207 | 4426 | 44
+[🍄UPD] Pets Universe! 🐾 | 1 | 50.5 | 3279 | 3432 | 29
+[Races]+1 Loot To Forge | 0 | 58.9 | 40581 | 3036 | 42
+[1 & 2 PLAYER] Grapple Cart Obby | 0 | 5.4 | 5033 | 2996 | 28
+Hamster Village🐹 | 0 | 31.3 | 3552 | 2954 | 35
+[🚀] 2 Player Raid Tycoon | 1 | 9.7 | 5030 | 2936 | 18
+Build the Pyramid! | 0 | 6.3 | 10708 | 2637 | 19
+⛏️ My Anime Mine | 0 | 5.1 | 2728 | 2110 | 35
+[🍀]Build and Kill Zombies | 0 | 28.7 | 29160 | 1634 | 34
+Survive Lava for Animals | 1 | 1.6 | 2270 | 1552 | 16
++1 Chop Trees for Treasure | 0 | 39.9 | 2932 | 1503 | 30
 
 ## Shapes already taken (launch burst has happened)
 
 shape | status | games | born together | burst was | median CCU
 --- | --- | --- | --- | --- | ---
-steal ___ | CROWDING | 6 | 3 | 28d ago | 2696
-___ for eggs | CROWDING | 4 | 3 | 24d ago | 10574
+steal ___ | CROWDING | 5 | 3 | 28d ago | 2762
+___ for eggs | CROWDING | 4 | 3 | 24d ago | 11640
 ___ an anime egg | CROWDING | 3 | 3 | 30d ago | 3235
 steal ___ anime egg | CROWDING | 3 | 3 | 30d ago | 3235
 steal an ___ egg | CROWDING | 3 | 3 | 30d ago | 3235
@@ -45,76 +45,76 @@ steal an anime ___ | CROWDING | 3 | 3 | 30d ago | 3235
 
 name | visits per player | CCU | heat | fav/1k | age d
 --- | --- | --- | --- | --- | ---
-SAE with F2P ADMIN PANEL X9999M🌈 [admin-panel copy, skip] | 197 | 5532 | 5065 | 128.3 | 24
-Re://Adventures [UPD 1 🔥 ] | 217 | 12208 | 4618 | 3.0 | 38
-[NEW] 💭Dream Car Collection  | 243 | 6079 | 4113 | 20.8 | 44
-[FREE] ChinaSide Tycoon | 259 | 2387 | 3864 | 17.6 | 20
-[🍄UPD] Pets Universe! 🐾 | 289 | 3268 | 3459 | 50.5 | 29
-Weather Sandbox | 295 | 552 | 3392 | 30.9 | 33
-Hamster Village🐹 | 327 | 3727 | 3058 | 31.4 | 35
-[🚀] 2 Player Raid Tycoon | 337 | 4781 | 2970 | 9.7 | 18
-💸 SAE but FREE OWNERZ PANELS X999999 [MODD [admin-panel copy, skip] | 344 | 1610 | 2904 | 103.6 | 18
-Buy A Pet | 361 | 668 | 2768 | 3.8 | 37
+Re://Adventures [UPD 1 🔥 ] | 117 | 11629 | 8568 | 3.0 | 38
+[NEW] 💭Dream Car Collection  | 226 | 6207 | 4426 | 20.7 | 44
+SAE with F2P ADMIN PANEL X9999M🌈 [admin-panel copy, skip] | 233 | 324 | 4290 | 127.8 | 25
+[FREE] ChinaSide Tycoon | 263 | 2554 | 3809 | 17.5 | 20
+Weather Sandbox | 285 | 602 | 3513 | 30.8 | 33
+[🍄UPD] Pets Universe! 🐾 | 291 | 3279 | 3432 | 50.5 | 29
+CASER & Keser - Open Cases & Upgrade Your  | 325 | 378 | 3080 | 41.3 | 21
+[Races]+1 Loot To Forge | 329 | 40581 | 3036 | 58.9 | 42
+[1 & 2 PLAYER] Grapple Cart Obby | 334 | 5033 | 2996 | 5.4 | 28
+Hamster Village🐹 | 339 | 3552 | 2954 | 31.3 | 35
 
 ## Trending words (change over 7.0 days)
 
 term | was | now | share change
 --- | --- | --- | ---
-tycoon | 45 | 71 | +0.24pp
-simulator | 65 | 96 | +0.22pp
-rp | 62 | 90 | +0.17pp
+tycoon | 45 | 71 | +0.23pp
+simulator | 66 | 97 | +0.20pp
+rp | 63 | 90 | +0.14pp
 car | 19 | 32 | +0.14pp
+animals | 7 | 16 | +0.13pp
 school | 12 | 22 | +0.12pp
 vs | 25 | 39 | +0.12pp
 train | 6 | 14 | +0.12pp
 destroy | 0 | 6 | +0.12pp
 hide | 7 | 15 | +0.11pp
-roleplay | 21 | 33 | +0.11pp
-brainrot | 18 | 29 | +0.11pp
-town | 2 | 8 | +0.11pp
+town | 2 | 8 | +0.10pp
+brainrot | 18 | 29 | +0.10pp
 
 ## Discover shelves (not genres - the genre field is dead)
 
 shelf | games | rising | total CCU | median CCU | median heat | median fav/1k
 --- | --- | --- | --- | --- | --- | ---
-Top Trending | 200 | 65 | 2772726 | 2418 | 156 | 7.7
-Unclassified | 884 | 147 | 614025 | 329 | 48 | 5.1
-Top Playing Now | 40 | 9 | 552390 | 9398 | 98 | 2.8
-Up-and-Coming | 87 | 71 | 235156 | 1601 | 312 | 8.5
-Fun with Friends | 79 | 15 | 175514 | 1359 | 91 | 4.0
-Top Revisited | 48 | 1 | 56261 | 663 | 49 | 2.8
+Top Playing Now | 40 | 9 | 2277897 | 8933 | 100 | 2.8
+Top Trending | 200 | 65 | 1093462 | 2494 | 151 | 7.7
+Unclassified | 870 | 151 | 626190 | 342 | 53 | 5.1
+Up-and-Coming | 88 | 72 | 234809 | 1601 | 311 | 8.8
+Fun with Friends | 80 | 15 | 198196 | 1625 | 91 | 4.2
+Top Revisited | 47 | 1 | 55831 | 652 | 49 | 2.6
 
 ## Opportunity terms (high demand, few games)
 
 term | games | devs | past peak | median CCU | peak CCU | avg heat | avg age d
 --- | --- | --- | --- | --- | --- | --- | ---
-pull | 3 | 3 | 100% | 8472 | 10685 | 212 | 74
-dungeon | 3 | 3 | 100% | 7073 | 10944 | 84 | 201
-anime rng | 3 | 3 | 67% | 5334 | 5554 | 730 | 164
-per step | 3 | 3 | 67% | 4554 | 5738 | 301 | 50
-rush | 3 | 3 | 100% | 3636 | 6794 | 90 | 146
-build base | 3 | 3 | 100% | 3325 | 5054 | 84 | 88
-steal anime egg | 3 | 3 | 100% | 3235 | 5129 | 544 | 30
-arm | 3 | 3 | 100% | 2909 | 7400 | 181 | 69
-mini | 3 | 3 | 100% | 2901 | 11109 | 544 | 114
-legacy | 3 | 3 | 67% | 2749 | 12260 | 344 | 196
-spot | 3 | 3 | 100% | 2620 | 5494 | 895 | 66
-phonk | 3 | 3 | 100% | 2505 | 6611 | 202 | 116
+pull | 3 | 3 | 100% | 8472 | 10374 | 209 | 74
+dungeon | 3 | 3 | 100% | 6392 | 10944 | 83 | 201
+anime rng | 3 | 3 | 67% | 5334 | 5554 | 728 | 164
+per step | 3 | 3 | 67% | 5212 | 5511 | 324 | 50
+rush | 3 | 3 | 100% | 3543 | 6605 | 87 | 147
+steal anime egg | 3 | 3 | 100% | 3235 | 5445 | 556 | 30
+build base | 3 | 3 | 100% | 2978 | 5206 | 84 | 88
+arm | 3 | 3 | 100% | 2909 | 8072 | 187 | 69
+mini | 3 | 3 | 100% | 2872 | 11109 | 565 | 114
+legacy | 3 | 3 | 67% | 2701 | 11785 | 334 | 196
+spot | 3 | 3 | 100% | 2620 | 6086 | 981 | 66
+phonk | 3 | 3 | 100% | 2505 | 6370 | 199 | 116
 
 ## Crowded terms (high demand, many games already)
 
 term | games | devs | median CCU | avg heat
 --- | --- | --- | --- | ---
-jump steal | 4 | 4 | 4552 | 230
-step | 4 | 4 | 4363 | 233
-chicken | 5 | 5 | 4437 | 119
-steal egg | 5 | 5 | 3890 | 398
-fishing | 4 | 4 | 3329 | 833
-days | 6 | 6 | 3772 | 308
-collection | 4 | 4 | 2349 | 1054
-boss | 4 | 4 | 2186 | 400
-steal anime | 4 | 4 | 1968 | 703
-survival | 4 | 4 | 1838 | 59
+jump steal | 4 | 4 | 4544 | 230
+step | 4 | 4 | 4528 | 250
+chicken | 5 | 5 | 4437 | 118
+steal egg | 5 | 5 | 4226 | 406
+fishing | 4 | 4 | 3362 | 826
+days | 6 | 6 | 4074 | 322
+army | 6 | 6 | 3410 | 294
+collection | 4 | 4 | 2349 | 1132
+boss | 4 | 4 | 2186 | 378
+survival | 4 | 4 | 2056 | 74
 
 ## Saturated terms (many games, low demand each)
 
@@ -124,61 +124,61 @@ _None in this sample._
 
 name | CCU | heat | fav/1k | age d
 --- | --- | --- | --- | ---
-[🌩️UPD] Steal From The Rich! | 4794 | 6985 | 122.4 | 31
-SAE with F2P ADMIN PANEL X9999M🌈 [admin-panel copy, skip] | 5532 | 5065 | 128.3 | 24
-Re://Adventures [UPD 1 🔥 ] | 12208 | 4618 | 3.0 | 38
-[🏰DUNGEON + ARTIFACTS🔮] Anime Card Multivers | 583 | 4181 | 36.4 | 31
-[NEW] 💭Dream Car Collection  | 6079 | 4113 | 20.8 | 44
-[FREE] ChinaSide Tycoon | 2387 | 3864 | 17.6 | 20
-[🍄UPD] Pets Universe! 🐾 | 3268 | 3459 | 50.5 | 29
-Weather Sandbox | 552 | 3392 | 30.9 | 33
-Hamster Village🐹 | 3727 | 3058 | 31.4 | 35
-[🚀] 2 Player Raid Tycoon | 4781 | 2970 | 9.7 | 18
-💸 SAE but FREE OWNERZ PANELS X999999 [MODDED [admin-panel copy, skip] | 1610 | 2904 | 103.6 | 18
-MUSOR DROP [CASES AND UPGRADER] | 168 | 2868 | 22.5 | 47
-CASER & Keser - Open Cases & Upgrade Your Sk | 352 | 2818 | 41.2 | 21
-Buy A Pet | 668 | 2768 | 3.8 | 37
-Anime Breaker [🌳CLASS TREE] | 10865 | 2757 | 13.5 | 43
-[Races]+1 Loot To Forge | 44261 | 2697 | 59.0 | 42
-[将] Shogun's Reign | 5163 | 2378 | 28.8 | 59
-Build the Pyramid! | 11296 | 2270 | 6.3 | 19
-⛏️ My Anime Mine | 2822 | 2196 | 5.1 | 35
-[UPD]🎣 Roll a Fisherman | 4448 | 2092 | 40.4 | 49
+Re://Adventures [UPD 1 🔥 ] | 11629 | 8568 | 3.0 | 38
+[🌩️UPD] Steal From The Rich! | 4671 | 6735 | 122.2 | 31
+[NEW] 💭Dream Car Collection  | 6207 | 4426 | 20.7 | 44
+SAE with F2P ADMIN PANEL X9999M🌈 [admin-panel copy, skip] | 324 | 4290 | 127.8 | 25
+[🏰DUNGEON + ARTIFACTS🔮] Anime Card Multivers | 329 | 4107 | 36.2 | 31
+[FREE] ChinaSide Tycoon | 2554 | 3809 | 17.5 | 20
+Weather Sandbox | 602 | 3513 | 30.8 | 33
+[🍄UPD] Pets Universe! 🐾 | 3279 | 3432 | 50.5 | 29
+CASER & Keser - Open Cases & Upgrade Your Sk | 378 | 3080 | 41.3 | 21
+MUSOR DROP [CASES AND UPGRADER] | 199 | 3072 | 22.5 | 47
+[Races]+1 Loot To Forge | 40581 | 3036 | 58.9 | 42
+[1 & 2 PLAYER] Grapple Cart Obby | 5033 | 2996 | 5.4 | 28
+Hamster Village🐹 | 3552 | 2954 | 31.3 | 35
+[🚀] 2 Player Raid Tycoon | 5030 | 2936 | 9.7 | 18
+Anime Breaker [🌳CLASS TREE] | 10981 | 2760 | 13.5 | 43
+Buy A Pet | 648 | 2702 | 3.8 | 37
+Build the Pyramid! | 10708 | 2637 | 6.3 | 19
+That Freekick Challenge (TFC) | 12481 | 2458 | 8.1 | 54
+[将] Shogun's Reign | 5074 | 2359 | 28.8 | 59
+💸 SAE but FREE OWNERZ PANELS X999999 [MODDED [admin-panel copy, skip] | 140 | 2114 | 103.4 | 18
 
 ## New releases spotted in window
 
 name | CCU | heat | fav/1k | age d
 --- | --- | --- | --- | ---
+Re://Adventures [UPD 1 🔥 ] | 11629 | 8568 | 3.0 | 38
 Re://:Swarm | 155 | 7485 | 32.8 | 28
-[🌩️UPD] Steal From The Rich! | 4794 | 6985 | 122.4 | 31
-SAE with F2P ADMIN PANEL X9999M🌈 | 5532 | 5065 | 128.3 | 24
-Re://Adventures [UPD 1 🔥 ] | 12208 | 4618 | 3.0 | 38
-[🏰DUNGEON + ARTIFACTS🔮] Anime Card Multivers | 583 | 4181 | 36.4 | 31
-[NEW] 💭Dream Car Collection  | 6079 | 4113 | 20.8 | 44
-[FREE] ChinaSide Tycoon | 2387 | 3864 | 17.6 | 20
-[🍄UPD] Pets Universe! 🐾 | 3268 | 3459 | 50.5 | 29
-Weather Sandbox | 552 | 3392 | 30.9 | 33
-Hamster Village🐹 | 3727 | 3058 | 31.4 | 35
-[🚀] 2 Player Raid Tycoon | 4781 | 2970 | 9.7 | 18
-💸 SAE but FREE OWNERZ PANELS X999999 [MODDED | 1610 | 2904 | 103.6 | 18
-CASER & Keser - Open Cases & Upgrade Your Sk | 352 | 2818 | 41.2 | 21
-Buy A Pet | 668 | 2768 | 3.8 | 37
-Build the Pyramid! | 11296 | 2270 | 6.3 | 19
+[🌩️UPD] Steal From The Rich! | 4671 | 6735 | 122.2 | 31
+[NEW] 💭Dream Car Collection  | 6207 | 4426 | 20.7 | 44
+SAE with F2P ADMIN PANEL X9999M🌈 | 324 | 4290 | 127.8 | 25
+[🏰DUNGEON + ARTIFACTS🔮] Anime Card Multivers | 329 | 4107 | 36.2 | 31
+[FREE] ChinaSide Tycoon | 2554 | 3809 | 17.5 | 20
+Weather Sandbox | 602 | 3513 | 30.8 | 33
+[🍄UPD] Pets Universe! 🐾 | 3279 | 3432 | 50.5 | 29
+CASER & Keser - Open Cases & Upgrade Your Sk | 378 | 3080 | 41.3 | 21
+[1 & 2 PLAYER] Grapple Cart Obby | 5033 | 2996 | 5.4 | 28
+Hamster Village🐹 | 3552 | 2954 | 31.3 | 35
+[🚀] 2 Player Raid Tycoon | 5030 | 2936 | 9.7 | 18
+Buy A Pet | 648 | 2702 | 3.8 | 37
+Build the Pyramid! | 10708 | 2637 | 6.3 | 19
 
 ## Title shapes currently in use
 
-- `___ for eggs` — 4 games, median 10574 CCU. Blank filled by: jump, race, swing, wings
-- `animal ___` — 4 games, median 6458 CCU. Blank filled by: daycare, hospital, jump, restaurant
-- `grow ___ fighter` — 4 games, median 5071 CCU. Blank filled by: chicken, dog, dragon, pet
-- `___ fishing` — 4 games, median 4908 CCU. Blank filled by: claw, deep, hole, magnet
-- `___ game` — 4 games, median 4041 CCU. Blank filled by: followers, limbus, tank, verity's
-- `___ per step` — 3 games, median 4554 CCU. Blank filled by: phonk, size, skinny
-- `___ duels` — 8 games, median 2572 CCU. Blank filled by: archery, car, deagle, knife, murder, puzzle, quiz, weapon
-- `steal ___ egg` — 4 games, median 3303 CCU. Blank filled by: an, baby, brainrot, lucky
-- `steal ___` — 6 games, median 2696 CCU. Blank filled by: chicken, pet, seed, superstar, tree, zoo
-- `mine ___` — 4 games, median 2907 CCU. Blank filled by: antarctica, it, mountain, planet
-- `survive the ___` — 4 games, median 2583 CCU. Blank filled by: apocalypse, slope, swarm, tsunami
-- `car ___` — 4 games, median 2572 CCU. Blank filled by: duels, flipper, sales, soccer
+- `___ for eggs` — 4 games, median 11640 CCU. Blank filled by: jump, race, swing, wings
+- `animal ___` — 4 games, median 6579 CCU. Blank filled by: daycare, hospital, jump, restaurant
+- `___ evolution` — 12 games, median 3824 CCU. Blank filled by: clone, dino, horse, katana, mog, monkey, muscle, phonk
+- `___ fishing` — 4 games, median 4996 CCU. Blank filled by: claw, deep, hole, magnet
+- `grow ___ fighter` — 4 games, median 4996 CCU. Blank filled by: chicken, dog, dragon, pet
+- `___ per step` — 3 games, median 5212 CCU. Blank filled by: phonk, size, skinny
+- `___ duels` — 8 games, median 2945 CCU. Blank filled by: archery, car, deagle, knife, murder, puzzle, quiz, weapon
+- `___ game` — 4 games, median 3951 CCU. Blank filled by: followers, limbus, tank, verity's
+- `anime card ___` — 4 games, median 3713 CCU. Blank filled by: chronicles, collection, farm, multiverse
+- `___ for animals` — 3 games, median 3850 CCU. Blank filled by: jump, roller, surf
+- `steal ___ egg` — 4 games, median 3231 CCU. Blank filled by: an, baby, brainrot, lucky
+- `steal ___` — 5 games, median 2762 CCU. Blank filled by: chicken, pet, seed, superstar, tree
 
 ## How to read this
 
