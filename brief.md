@@ -1,146 +1,110 @@
-# RAnalytics brief — 2026-09-27
+# RAnalytics brief — 2026-09-28
 
-Oldest reading in this sample: 44.5 hours ago.
+Oldest reading in this sample: 40.5 hours ago.
 
-Sample: 1570 games passing filters, 5493 tracked in total. 114 collection runs over 26.0 days since 2026-09-01.
+Sample: 1262 games passing filters, 5499 tracked in total. 115 collection runs over 26.8 days since 2026-09-01.
 
-Terms by zone: 37 target, 23 crowded, 0 saturated, 0 noise. An empty zone below means no term landed there, not that the check failed.
+Terms by zone: 30 target, 30 crowded, 0 saturated, 0 noise. An empty zone below means no term landed there, not that the check failed.
 
 ## Taking off now (up to 30 days old, heat 3500+ - in the backtest about 6 in 10 of these beat the market 2x within three weeks; untouched themes first)
 
-name | theme | heat | CCU | vs market | fav/1k | age d
---- | --- | --- | --- | --- | --- | ---
-Horde Defenders | no copies yet | 9034 | 2087 | 1.1x | 19.3 | 15
-Open Sea For Animals! | no copies yet | 5014 | 20477 | 1.2x | 6.1 | 23
-[🛠️] CLONE BUILDERS! | no copies yet | 4936 | 5632 | 0.8x | 6.4 | 12
-+1 Lift Rock for Treasure | no copies yet | 4692 | 2295 | 0.3x | 100.3 | 15
-BSSM - INF Rebirths! | no copies yet | 4558 | 198 | 9.3x | 6.6 | 22
-Fleet Empire [ALPHA] | no copies yet | 4236 | 1047 | 1.2x | 20.0 | 19
-[BETA] Football WORLD Manager '27 | no copies yet | 3946 | 5063 | 1.2x | 6.1 | 29
-Crack the Egg 🥚 | no copies yet | 3636 | 827 | 0.8x | 5.4 | 7
-Where Did I Park? | 1 similar: Where Did I Park? (1 889) | 3797 | 955 | 0.8x | 22.7 | 13
-Where Did I Park? 🚗 | 1 similar: Where Did I Park? (955) | 3558 | 1889 | 1.3x | 4.3 | 14
-Sail For Eggs | follows Swing For Eggs (15 411 playing) | 5787 | 4243 | 1.1x | 130.0 | 19
+_Nothing young has heat above the threshold right now - most days nothing is taking off._
 
 ## Early radar (100-1000 players, heat 1500+ but under the main line - not proven, scored on its own record)
 
-name | theme | heat | CCU | vs market | fav/1k | age d
---- | --- | --- | --- | --- | --- | ---
-Turbo Soccer : Beta 1.0 - Car Soccer | no copies yet | 3336 | 704 | 5.5x | 3.6 | 8
-[🪙🎁] VLG:TITANIC! | no copies yet | 2114 | 512 | 3.4x | 3.9 | 25
-[🎁✨] RETURN: Christmas Event Part 2! | no copies yet | 1889 | 254 | 0.8x | 4.0 | 16
+_No small young game is warming up right now._
 
 ## Caught in the last 7 days, now under the line (heat sinks midweek with the rest of Roblox)
 
 name | caught | CCU then | CCU now | heat now | age d
 --- | --- | --- | --- | --- | ---
-+1 Strength for Eggs | 09-26 | 9963 | 14131 | 3416 | 15
-Steal Underwater Eggs | 09-26 | 2150 | 380 | 8396 | 29
-Cut it Out! | 09-26 | 7142 | 8297 | 2359 | 18
-SUKI: Pwede Utang? | 09-26 | 1076 | 2999 | 2283 | 15
-SKI (ALPHA) | 09-26 | 12376 | 14500 | 3174 | 26
-Turbo Soccer : Beta 1.0 - Car Soccer | 09-26 | 561 | 704 | 3336 | 8
-[🚄] Rogatki Symulator | 09-26 | 1966 | 1884 | 2923 | 15
-[FREE] ChinaSide Tycoon | 09-23 | 2387 | 3347 | 2729 | 24
++1 Lift Rock for Treasure | 09-27 | 4917 | 1151 | 1512 | 15
++1 Strength for Eggs | 09-26 | 9963 | 12315 | 3564 | 15
+Sail For Eggs | 09-26 | 3456 | 4938 | 4778 | 20
+Steal Underwater Eggs | 09-26 | 2150 | 380 | 1910 | 30
+Where Did I Park? | 09-26 | 1821 | 225 | 1035 | 13
+Where Did I Park? 🚗 | 09-26 | 2385 | 547 | 1435 | 15
+[BETA] Football WORLD Manager '27 | 09-26 | 3753 | 1911 | 2307 | 30
+Cookie Cutters! | 09-26 | 7142 | 2853 | 1333 | 19
+SUKI: Pwede Utang? | 09-26 | 1076 | 2867 | 4798 | 16
+SKI (ALPHA) | 09-26 | 12376 | 5310 | 1650 | 27
+Crack the Egg 🥚 | 09-26 | 1082 | 184 | 1535 | 7
+Turbo Soccer : Beta 1.0 - Car Soccer | 09-26 | 561 | 265 | 1359 | 9
 
 ## Still unclaimed (strong numbers, nobody has copied the shape yet)
 
-name | copies | fav/1k | CCU | heat | age d
---- | --- | --- | --- | --- | ---
-Horde Defenders | 1 | 19.3 | 2087 | 9034 | 15
-[⚽] Blue Lock Farm | 1 | 38.0 | 13210 | 5672 | 44
-[⏳] Steal From The Rich! | 0 | 107.7 | 21777 | 5188 | 35
-Open Sea For Animals! | 0 | 6.1 | 20477 | 5014 | 23
-[🛠️] CLONE BUILDERS! | 1 | 6.4 | 5632 | 4936 | 12
-+1 Lift Rock for Treasure | 0 | 100.3 | 2295 | 4692 | 15
-Surf And Rescue 🌊🛟 | 0 | 81.5 | 15856 | 4514 | 32
-[BETA] Football WORLD Manager '27 | 0 | 6.1 | 5063 | 3946 | 29
-Where Did I Park? | 1 | 22.7 | 955 | 3797 | 13
-Crack the Egg 🥚 | 1 | 5.4 | 827 | 3636 | 7
-Gnomes! [Steal & Escape] | 0 | 8.7 | 770 | 3609 | 35
-Where Did I Park? 🚗 | 1 | 4.3 | 1889 | 3558 | 14
+_Nothing unclaimed passed the filters._
 
 ## Shapes already taken (launch burst has happened)
 
 shape | status | games | born together | burst was | median CCU
 --- | --- | --- | --- | --- | ---
-___ for eggs | CLOSED | 8 | 5 | 26d ago | 9963
-___ for animals | CLOSED | 5 | 4 | 22d ago | 3666
+___ for eggs | CLOSED | 8 | 5 | 28d ago | 9686
+___ for animals | CLOSED | 6 | 5 | 23d ago | 4004
 
 ## Launching now (fewest visits per player, up to 90 days - wider net, context only)
 
-name | visits per player | CCU | heat | fav/1k | age d
---- | --- | --- | --- | --- | ---
-Horde Defenders | 111 | 2087 | 9034 | 19.3 | 15
-Oil Tycoon! ⛽ | 157 | 3700 | 6364 | 11.5 | 81
-Sail For Eggs | 173 | 4243 | 5787 | 130.0 | 19
-[⚽] Blue Lock Farm | 176 | 13210 | 5672 | 38.0 | 44
-[⏳] Steal From The Rich! | 193 | 21777 | 5188 | 107.7 | 35
-Open Sea For Animals! | 199 | 20477 | 5014 | 6.1 | 23
-[🛠️] CLONE BUILDERS! | 203 | 5632 | 4936 | 6.4 | 12
-+1 Lift Rock for Treasure | 213 | 2295 | 4692 | 100.3 | 15
-[Beta] The Creator-God Sim [Update] | 215 | 2246 | 4651 | 19.5 | 54
-merge the phighting beans | 217 | 726 | 4604 | 29.8 | 72
+_Nothing qualifies - loosen launching_min_ccu._
 
 ## Trending words (change over 7.0 days)
 
 term | was | now | share change
 --- | --- | --- | ---
 panel | 1 | 9 | +0.14pp
-steal | 42 | 55 | +0.14pp
 admin | 3 | 11 | +0.14pp
-modded | 4 | 12 | +0.14pp
-eggs | 8 | 16 | +0.13pp
 sae | 1 | 8 | +0.13pp
-tycoon | 63 | 77 | +0.11pp
+modded | 5 | 12 | +0.12pp
+eggs | 9 | 16 | +0.11pp
 admin panel | 1 | 7 | +0.11pp
-animals | 11 | 18 | +0.10pp
-cart | 4 | 9 | +0.08pp
+steal | 43 | 53 | +0.10pp
+where | 1 | 6 | +0.09pp
+animals | 12 | 18 | +0.09pp
 be | 15 | 21 | +0.08pp
-ride | 8 | 13 | +0.07pp
+ragdoll | 5 | 9 | +0.06pp
+up | 7 | 11 | +0.06pp
 
 ## Discover shelves (not genres - the genre field is dead)
 
 shelf | games | rising | total CCU | median CCU | median heat | median fav/1k
 --- | --- | --- | --- | --- | --- | ---
-Top Playing Now | 56 | 11 | 3340510 | 16625 | 152 | 3.2
-Top Trending | 221 | 79 | 1558078 | 3432 | 260 | 7.6
-Unclassified | 1051 | 168 | 1024378 | 387 | 71 | 5.0
-Up-and-Coming | 110 | 88 | 329713 | 1637 | 429 | 9.9
-Fun with Friends | 85 | 12 | 285948 | 2488 | 121 | 4.2
-Top Revisited | 47 | 1 | 76402 | 1031 | 88 | 2.5
+Top Playing Now | 57 | 13 | 2699530 | 10760 | 138 | 3.2
+Top Trending | 213 | 76 | 1380420 | 2681 | 194 | 8.4
+Unclassified | 772 | 127 | 770962 | 512 | 62 | 4.7
+Up-and-Coming | 100 | 84 | 254894 | 1420 | 451 | 9.9
+Fun with Friends | 78 | 10 | 194763 | 1802 | 83 | 3.6
+Top Revisited | 42 | 1 | 63582 | 862 | 66 | 2.7
 
 ## Opportunity terms (high demand, few games)
 
 term | games | devs | past peak | median CCU | peak CCU | avg heat | avg age d
 --- | --- | --- | --- | --- | --- | --- | ---
-sea | 3 | 3 | 100% | 20477 | 31036 | 1794 | 130
-pull | 3 | 3 | 100% | 8706 | 17442 | 273 | 78
-dungeon | 3 | 3 | 100% | 7148 | 14143 | 111 | 205
-spot | 3 | 3 | 67% | 5873 | 9741 | 799 | 70
-anime rng | 3 | 3 | 67% | 5543 | 6106 | 631 | 167
-wash | 3 | 3 | 67% | 4978 | 5456 | 582 | 53
-tnt | 3 | 3 | 100% | 4764 | 8229 | 310 | 77
-legacy | 3 | 3 | 67% | 4060 | 12480 | 392 | 199
-treasure | 3 | 3 | 50% | 4028 | 4917 | 2157 | 32
-build base | 3 | 3 | 100% | 3695 | 9244 | 133 | 91
-hunters | 3 | 3 | 67% | 3475 | 19439 | 85 | 175
-arm | 3 | 3 | 100% | 3457 | 6587 | 154 | 73
+strength | 3 | 3 | 100% | 7133 | 13223 | 1281 | 96
+pull | 3 | 3 | 100% | 6802 | 14552 | 211 | 79
+dungeon | 3 | 3 | 100% | 5988 | 11078 | 87 | 206
+anime rng | 3 | 3 | 67% | 5168 | 5494 | 593 | 168
+rush | 3 | 3 | 100% | 5134 | 8054 | 108 | 151
+legacy | 3 | 3 | 100% | 4727 | 10760 | 330 | 200
+tnt | 3 | 3 | 100% | 3556 | 5881 | 219 | 78
+wash | 3 | 3 | 100% | 3312 | 4090 | 378 | 54
+build base | 3 | 3 | 100% | 3023 | 6618 | 95 | 92
+raft | 3 | 3 | 100% | 2892 | 3170 | 66 | 269
+forsaken | 3 | 3 | 67% | 2404 | 5365 | 167 | 226
+mukbang | 3 | 3 | 100% | 2237 | 18480 | 124 | 115
 
 ## Crowded terms (high demand, many games already)
 
 term | games | devs | median CCU | avg heat
 --- | --- | --- | --- | ---
-open | 4 | 4 | 10094 | 1515
-phonk | 5 | 5 | 6306 | 294
-jump steal | 4 | 4 | 4816 | 166
-chicken | 5 | 5 | 4881 | 120
-aura | 6 | 6 | 4851 | 335
-collection | 4 | 4 | 3792 | 601
-steal egg | 6 | 6 | 4583 | 737
-rush | 4 | 4 | 3647 | 116
-strength | 4 | 4 | 3398 | 922
-days | 7 | 7 | 4115 | 396
+steal egg | 6 | 6 | 7294 | 1240
+phonk | 4 | 4 | 5710 | 218
+chicken | 4 | 4 | 5317 | 228
+fishing | 5 | 5 | 4756 | 1912
+fighter | 4 | 4 | 4056 | 454
+aura | 5 | 5 | 4170 | 272
+jump steal | 4 | 4 | 3228 | 150
+mine | 5 | 5 | 3588 | 914
+mini | 4 | 4 | 2990 | 339
+arena | 15 | 15 | 5418 | 198
 
 ## Saturated terms (many games, low demand each)
 
@@ -150,61 +114,61 @@ _None in this sample._
 
 name | CCU | heat | fav/1k | age d
 --- | --- | --- | --- | ---
-Rauls Rivals Modded  | 30176 | 28838 | 4.9 | 7
-Horde Defenders | 2087 | 9034 | 19.3 | 15
-Steal Underwater Eggs | 380 | 8396 | 85.1 | 29
-Sail For Eggs | 4243 | 5787 | 130.0 | 19
-[⚽] Blue Lock Farm | 13210 | 5672 | 38.0 | 44
-[⏳] Steal From The Rich! | 21777 | 5188 | 107.7 | 35
-Open Sea For Animals! | 20477 | 5014 | 6.1 | 23
-[🛠️] CLONE BUILDERS! | 5632 | 4936 | 6.4 | 12
-+1 Lift Rock for Treasure | 2295 | 4692 | 100.3 | 15
-[Beta] The Creator-God Sim [Update] | 2246 | 4651 | 19.5 | 54
-BSSM - INF Rebirths! | 198 | 4558 | 6.6 | 22
-Surf And Rescue 🌊🛟 | 15856 | 4514 | 81.5 | 32
-Backflip for Animals! | 6448 | 4511 | 6.1 | 25
-[HUGE MACRO UPDATE] BSS 1:1 | 477 | 4455 | 5.2 | 7
- [Pokemon Brick Bronze] [Bronze Rebirth] | 4312 | 4419 | 147.1 | 8
-Fleet Empire [ALPHA] | 1047 | 4236 | 20.0 | 19
-[BETA] Football WORLD Manager '27 | 5063 | 3946 | 6.1 | 29
-Re://Adventures [UPD 1 🔥 ] | 12346 | 3896 | 2.2 | 42
-Survive The Hulk (NEW HULKBUSTER!) | 1818 | 3860 | 21.3 | 38
-Where Did I Park? | 955 | 3797 | 22.7 | 13
+Rauls Rivals Modded  | 30176 | 28838 | 4.9 | 8
+Horde Defenders | 2657 | 6824 | 21.4 | 16
+Break and Steal an Egg | 11631 | 5859 | 11.9 | 22
+SUKI: Pwede Utang? | 2867 | 4798 | 48.6 | 16
+Sail For Eggs | 4938 | 4778 | 129.0 | 20
+Surf And Rescue 🌊🛟 | 15856 | 4514 | 81.5 | 33
+RAUL SAE MODDED F2P ADMIN PANEL [admin-panel copy, skip] | 2888 | 4151 | 5.1 | 15
+[⚽] Blue Lock Farm | 9078 | 4104 | 36.4 | 45
+[ALIENS 👽] Rope an Animal | 3462 | 3933 | 3.1 | 29
+Backflip for Animals! | 2703 | 3762 | 6.1 | 25
++1 Strength for Eggs | 12315 | 3564 | 58.5 | 15
+[👕] Ukay Ukay | 1233 | 3378 | 16.9 | 32
+[😇] Steal From The Rich! | 12272 | 3336 | 107.2 | 36
+[PUBLIC TEST!] Vampire life | 2868 | 3316 | 14.5 | 30
+😰 HATCH IT MODDED 😀 INFS OWNER PANEL! (SAE) [admin-panel copy, skip] | 9351 | 3264 | 104.0 | 23
+Dig For Eggs | 6321 | 3249 | 2.6 | 24
+[HUGE MACRO UPDATE] BSS 1:1 | 229 | 3224 | 5.0 | 8
+Open Sea For Animals! | 7499 | 2777 | 5.9 | 23
+[🎟️ TRADES] Pets Universe! 🐾 | 4632 | 2747 | 49.4 | 34
+ [Pokemon Brick Bronze] [Bronze Rebirth] | 1851 | 2737 | 146.5 | 9
 
 ## New releases spotted in window
 
 name | CCU | heat | fav/1k | age d
 --- | --- | --- | --- | ---
-Rauls Rivals Modded  | 30176 | 28838 | 4.9 | 7
-Horde Defenders | 2087 | 9034 | 19.3 | 15
-Steal Underwater Eggs | 380 | 8396 | 85.1 | 29
-Sail For Eggs | 4243 | 5787 | 130.0 | 19
-[⚽] Blue Lock Farm | 13210 | 5672 | 38.0 | 44
-[⏳] Steal From The Rich! | 21777 | 5188 | 107.7 | 35
-Open Sea For Animals! | 20477 | 5014 | 6.1 | 23
-[🛠️] CLONE BUILDERS! | 5632 | 4936 | 6.4 | 12
-+1 Lift Rock for Treasure | 2295 | 4692 | 100.3 | 15
-BSSM - INF Rebirths! | 198 | 4558 | 6.6 | 22
-Surf And Rescue 🌊🛟 | 15856 | 4514 | 81.5 | 32
-Backflip for Animals! | 6448 | 4511 | 6.1 | 25
-[HUGE MACRO UPDATE] BSS 1:1 | 477 | 4455 | 5.2 | 7
- [Pokemon Brick Bronze] [Bronze Rebirth] | 4312 | 4419 | 147.1 | 8
-Fleet Empire [ALPHA] | 1047 | 4236 | 20.0 | 19
+Rauls Rivals Modded  | 30176 | 28838 | 4.9 | 8
+Horde Defenders | 2657 | 6824 | 21.4 | 16
+Break and Steal an Egg | 11631 | 5859 | 11.9 | 22
+SUKI: Pwede Utang? | 2867 | 4798 | 48.6 | 16
+Sail For Eggs | 4938 | 4778 | 129.0 | 20
+Surf And Rescue 🌊🛟 | 15856 | 4514 | 81.5 | 33
+RAUL SAE MODDED F2P ADMIN PANEL | 2888 | 4151 | 5.1 | 15
+[⚽] Blue Lock Farm | 9078 | 4104 | 36.4 | 45
+[ALIENS 👽] Rope an Animal | 3462 | 3933 | 3.1 | 29
+Re://Adventures [UPD 1 🔥 ] | 12346 | 3896 | 2.2 | 43
+Backflip for Animals! | 2703 | 3762 | 6.1 | 25
++1 Strength for Eggs | 12315 | 3564 | 58.5 | 15
+[😇] Steal From The Rich! | 12272 | 3336 | 107.2 | 36
+[PUBLIC TEST!] Vampire life | 2868 | 3316 | 14.5 | 30
+😰 HATCH IT MODDED 😀 INFS OWNER PANEL! (SAE) | 9351 | 3264 | 104.0 | 23
 
 ## Title shapes currently in use
 
-- `___ an egg` — 4 games, median 17442 CCU. Blank filled by: be, break, pull, steal
-- `___ for eggs` — 8 games, median 9963 CCU. Blank filled by: climb, dig, jump, race, sail, strength, swing, wings
-- `grow ___ fighter` — 4 games, median 8573 CCU. Blank filled by: chicken, dog, dragon, pet
-- `___ game` — 4 games, median 6763 CCU. Blank filled by: followers, limbus, tank, verity's
-- `___ duels` — 8 games, median 4421 CCU. Blank filled by: archery, car, deagle, knife, murder, puzzle, quiz, weapon
-- `anomaly ___` — 3 games, median 5900 CCU. Blank filled by: cafe, detected, garden
-- `___ house` — 3 games, median 5456 CCU. Blank filled by: build, flip, wash
-- `___ war` — 3 games, median 5084 CCU. Blank filled by: mini, navy, total
-- `guess the ___` — 4 games, median 4269 CCU. Blank filled by: person, slapper, song, word
-- `steal ___ egg` — 4 games, median 4100 CCU. Blank filled by: an, baby, brainrot, lucky
-- `___ for animals` — 5 games, median 3666 CCU. Blank filled by: backflip, jump, roller, skateboard, surf
-- `___ arena` — 12 games, median 2556 CCU. Blank filled by: ability, deagle, demon, element, katana, killer's, knife, murder
+- `___ an egg` — 4 games, median 14552 CCU. Blank filled by: be, break, pull, steal
+- `___ for eggs` — 8 games, median 9686 CCU. Blank filled by: climb, dig, jump, race, sail, strength, swing, wings
+- `animal ___` — 3 games, median 9762 CCU. Blank filled by: daycare, hospital, jump
+- `grow ___ fighter` — 3 games, median 7355 CCU. Blank filled by: chicken, dragon, pet
+- `___ for animals` — 6 games, median 4004 CCU. Blank filled by: backflip, jump, motorcycle, roller, skateboard, surf
+- `___ fishing` — 4 games, median 4756 CCU. Blank filled by: claw, deep, hole, magnet
+- `___ duels` — 8 games, median 3244 CCU. Blank filled by: archery, car, deagle, knife, murder, puzzle, quiz, weapon
+- `steal ___` — 6 games, median 3644 CCU. Blank filled by: chicken, pet, seed, superstar, tree, verity
+- `anime card ___` — 4 games, median 4098 CCU. Blank filled by: chronicles, collection, farm, multiverse
+- `___ game` — 4 games, median 4018 CCU. Blank filled by: followers, limbus, tank, verity's
+- `___ house` — 3 games, median 4090 CCU. Blank filled by: build, flip, wash
+- `___ war` — 3 games, median 4007 CCU. Blank filled by: mini, navy, total
 
 ## How to read this
 
