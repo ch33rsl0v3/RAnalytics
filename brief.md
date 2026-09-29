@@ -1,10 +1,10 @@
 # RAnalytics brief — 2026-09-29
 
-Oldest reading in this sample: 27.0 hours ago.
+Oldest reading in this sample: 31.0 hours ago.
 
-Sample: 1412 games passing filters, 5620 tracked in total. 121 collection runs over 28.1 days since 2026-09-01.
+Sample: 1351 games passing filters, 5638 tracked in total. 122 collection runs over 28.3 days since 2026-09-01.
 
-Terms by zone: 34 target, 26 crowded, 0 saturated, 0 noise. An empty zone below means no term landed there, not that the check failed.
+Terms by zone: 31 target, 29 crowded, 0 saturated, 0 noise. An empty zone below means no term landed there, not that the check failed.
 
 ## Track record of earlier calls
 
@@ -12,83 +12,87 @@ Terms and Rising list: 90 calls checked after 10+ days, against the market: 14 g
 
 Biggest misses: dungeon (-100% vs market), how (-100% vs market), build base (-100% vs market), fishing (-100% vs market), raft (-100% vs market)
 
-Best calls: Build the Pyramid! (+532% vs market), [🎟️ TRADES] Pets Universe! (+525% vs market), [Enhance]+1 Loot To Forge (+356% vs market), Anime Breaker [⚓CREWS] (+139% vs market), Animal Daycare (Anomaly) (+103% vs market)
+Best calls: [⭐ EVENT] Pets Universe! 🐾 (+580% vs market), Build the Pyramid! (+540% vs market), [Enhance]+1 Loot To Forge (+362% vs market), Anime Breaker [🛠️CRAFT] (+165% vs market), Animal Daycare (Anomaly) (+106% vs market)
 
 ## Taking off now (up to 30 days old, heat 3500+ - in the backtest about 6 in 10 of these beat the market 2x within three weeks; untouched themes first)
 
 name | theme | heat | CCU | vs market | fav/1k | age d
 --- | --- | --- | --- | --- | --- | ---
-Break and Steal an Egg | no copies yet | 4883 | 15329 | 5.0x | 11.0 | 23
-[HEROES] Horde Defenders | no copies yet; past its peak | 4076 | 1898 | 1.2x | 19.1 | 17
-+1 Lift Rock for Treasure | no copies yet | 3700 | 5385 | 0.9x | 93.5 | 17
+ANMU 🪔 [HORROR] | no copies yet | 10044 | 564 | - | 41.7 | 18
+Clone to Steal Eggs | no copies yet | 9490 | 6679 | - | 4.6 | 18
++1 Stone Skipping | no copies yet | 5261 | 10697 | - | 32.1 | 24
+Break and Steal an Egg | no copies yet | 4634 | 11292 | 3.9x | 10.8 | 24
+Turbo Soccer : Beta 1.0 - Car Soccer | no copies yet | 3697 | 3495 | 35.7x | 2.6 | 10
+Horde Defenders | no copies yet; past its peak | 3642 | 1491 | 1.0x | 18.9 | 17
++1 Lift Rock for Treasure | no copies yet | 3536 | 4271 | 0.8x | 92.1 | 17
 
 ## Early radar (100-1000 players, heat 1500+ but under the main line - not proven, scored on its own record)
 
 name | theme | heat | CCU | vs market | fav/1k | age d
 --- | --- | --- | --- | --- | --- | ---
-BSSM - INF Rebirths! | no copies yet | 3072 | 224 | 8.1x | 6.3 | 24
-[HUGE MACRO UPDATE] BSS 1:1 | no copies yet; past its peak | 2395 | 281 | 0.9x | 4.8 | 9
-[🪙🎁] VLG:TITANIC! | no copies yet | 2045 | 368 | 1.9x | 3.6 | 27
-Crack the Egg 🥚 | no copies yet | 1888 | 1358 | 1.7x | 5.3 | 9
-[TRADING] Run for Toys! | no copies yet | 1748 | 369 | 0.8x | 27.3 | 30
-Steal The SCP Base💀 | no copies yet | 1648 | 516 | 1.2x | 80.4 | 28
-[⏳ 24 HOURS!] RETURN: Christmas Event Part | no copies yet; past its peak | 1578 | 195 | 0.8x | 3.8 | 18
+BSSM - INF Rebirths! | no copies yet | 2926 | 180 | 6.7x | 6.4 | 24
+[🎉] Steal Noob Lucky Blocks! 😈 | no copies yet | 2925 | 401 | - | 67.9 | 30
+[HUGE MACRO UPDATE] BSS 1:1 | no copies yet; past its peak | 2218 | 222 | 0.8x | 4.9 | 9
+Crack the Egg 🥚 | no copies yet | 2084 | 842 | 1.1x | 5.4 | 9
+[🪙🎁] VLG:TITANIC! | no copies yet | 2027 | 288 | 1.5x | 3.6 | 28
+[TRADING] Run for Toys! | no copies yet | 1706 | 302 | 0.7x | 27.1 | 30
+Steal The SCP Base💀 | no copies yet | 1608 | 353 | 0.9x | 79.7 | 28
 
 ## Caught in the last 7 days, now under the line (heat sinks midweek with the rest of Roblox)
 
 name | caught | CCU then | CCU now | heat now | age d
 --- | --- | --- | --- | --- | ---
-Dig For Eggs | 09-28 | 8730 | 8522 | 3313 | 25
-+1 Strength for Eggs | 09-26 | 9963 | 13772 | 2503 | 17
-Sail For Eggs | 09-26 | 3456 | 5155 | 3264 | 21
-[🔥UPDATE] Steal Underwater Eggs | 09-26 | 2150 | 170 | 1350 | 31
-Where Did I Park? | 09-26 | 1821 | 813 | 889 | 15
-Where Did I Park? 🚗 | 09-26 | 2385 | 1921 | 1725 | 16
-[BETA] Football WORLD Manager '27 | 09-26 | 3753 | 3412 | 1869 | 31
-[CHAPTER 2] Cut it Out! | 09-26 | 7142 | 6154 | 1139 | 20
-SUKI: Pwede Utang? | 09-26 | 1076 | 1771 | 1923 | 17
-SKI (ALPHA) | 09-26 | 12376 | 8550 | 1061 | 28
-Crack the Egg 🥚 | 09-26 | 1082 | 1358 | 1888 | 9
-Turbo Soccer : Beta 1.0 - Car Soccer | 09-26 | 561 | 2903 | 1605 | 10
+Dig For Eggs | 09-28 | 8730 | 6629 | 3217 | 26
++1 Strength for Eggs | 09-26 | 9963 | 7809 | 2423 | 17
+Sail For Eggs | 09-26 | 3456 | 3413 | 3116 | 21
+[🔥UPDATE] Steal Underwater Eggs | 09-26 | 2150 | 126 | 602 | 31
+Where Did I Park? | 09-26 | 1821 | 847 | 1189 | 15
+Where Did I Park? 🚗 | 09-26 | 2385 | 2308 | 1648 | 16
+[BETA] Football WORLD Manager '27 | 09-26 | 3753 | 2535 | 1825 | 31
+[CHAPTER 2] Cut it Out! | 09-26 | 7142 | 8726 | 1096 | 20
+SUKI: Pwede Utang? | 09-26 | 1076 | 470 | 1900 | 18
+SKI (ALPHA) | 09-26 | 12376 | 6483 | 1030 | 29
+Crack the Egg 🥚 | 09-26 | 1082 | 842 | 2084 | 9
+[ALPHA] Fleet Empire | 09-26 | 1249 | 1356 | 2762 | 22
 
 ## Still unclaimed (strong numbers, nobody has copied the shape yet)
 
 name | copies | fav/1k | CCU | heat | age d
 --- | --- | --- | --- | --- | ---
-Break and Steal an Egg | 0 | 11.0 | 15329 | 4883 | 23
-[HEROES] Horde Defenders | 0 | 19.1 | 1898 | 4076 | 17
-+1 Lift Rock for Treasure | 0 | 93.5 | 5385 | 3700 | 17
-[ALIENS 👽] Rope an Animal | 1 | 3.1 | 6469 | 3434 | 30
-[🎟️ TRADES] Pets Universe! 🐾 | 1 | 45.9 | 10469 | 2553 | 35
-[😇] Steal From The Rich! | 0 | 103.9 | 15545 | 2307 | 37
-SUKI: Pwede Utang? | 0 | 50.5 | 1771 | 1923 | 17
-[🚄] Rogatki Symulator | 0 | 3.4 | 1631 | 1916 | 17
-[BETA] Football WORLD Manager '27 | 0 | 5.8 | 3412 | 1869 | 31
-DON'T LET HIM IN | 0 | 9.8 | 2693 | 1845 | 35
-+1 Car Vs Platforms | 0 | 79.4 | 5943 | 1782 | 19
-Where Did I Park? 🚗 | 1 | 4.7 | 1921 | 1725 | 16
+Clone to Steal Eggs | 0 | 4.6 | 6679 | 9490 | 18
++1 Stone Skipping | 0 | 32.1 | 10697 | 5261 | 24
+Break and Steal an Egg | 0 | 10.8 | 11292 | 4634 | 24
+Turbo Soccer : Beta 1.0 - Car Soccer | 0 | 2.6 | 3495 | 3697 | 10
+Horde Defenders | 0 | 18.9 | 1491 | 3642 | 17
++1 Lift Rock for Treasure | 0 | 92.1 | 4271 | 3536 | 17
+[ALIENS 👽] Rope an Animal | 1 | 3.2 | 4854 | 3280 | 30
+[🎉] Steal Noob Lucky Blocks! 😈 | 0 | 67.9 | 401 | 2925 | 30
+[⭐ EVENT] Pets Universe! 🐾 | 1 | 45.1 | 6556 | 2646 | 36
+[😇] Steal From The Rich! | 0 | 104.1 | 11028 | 2238 | 38
+Crack the Egg 🥚 | 1 | 5.4 | 842 | 2084 | 9
+Gnomes! [Steal & Escape] | 0 | 9.8 | 2817 | 1960 | 38
 
 ## Shapes already taken (launch burst has happened)
 
 shape | status | games | born together | burst was | median CCU
 --- | --- | --- | --- | --- | ---
+___ for eggs | CLOSED | 8 | 5 | 30d ago | 10391
 ___ for animals | CLOSED | 6 | 5 | 24d ago | 5714
-___ for eggs | CLOSED | 8 | 4 | 24d ago | 10391
 
 ## Launching now (fewest visits per player, up to 90 days - wider net, context only)
 
 name | visits per player | CCU | heat | fav/1k | age d
 --- | --- | --- | --- | --- | ---
-Break and Steal an Egg | 205 | 15329 | 4883 | 11.0 | 23
-[HEROES] Horde Defenders | 245 | 1898 | 4076 | 19.1 | 17
-+1 Lift Rock for Treasure | 270 | 5385 | 3700 | 93.5 | 17
-[ALIENS 👽] Rope an Animal | 291 | 6469 | 3434 | 3.1 | 30
-Dig For Eggs | 302 | 8522 | 3313 | 2.6 | 25
-Backflip for Animals! | 304 | 5714 | 3291 | 6.3 | 27
-Sail For Eggs | 306 | 5155 | 3264 | 127.6 | 21
-Build An Ant Empire | 315 | 13003 | 3175 | 33.7 | 88
-[⚽] Blue Lock Farm | 333 | 12771 | 3000 | 33.0 | 46
-Oil Tycoon! ⛽ | 340 | 3695 | 2944 | 10.4 | 83
+ANMU 🪔 [HORROR] | 100 | 564 | 10044 | 41.7 | 18
+Clone to Steal Eggs | 105 | 6679 | 9490 | 4.6 | 18
++1 Stone Skipping | 190 | 10697 | 5261 | 32.1 | 24
+Break and Steal an Egg | 216 | 11292 | 4634 | 10.8 | 24
+Turbo Soccer : Beta 1.0 - Car Soccer | 271 | 3495 | 3697 | 2.6 | 10
+Horde Defenders | 275 | 1491 | 3642 | 18.9 | 17
++1 Lift Rock for Treasure | 283 | 4271 | 3536 | 92.1 | 17
+[Halloween] My Boutique Story (Beta) | 300 | 1015 | 3333 | 21.3 | 54
+[ALIENS 👽] Rope an Animal | 305 | 4854 | 3280 | 3.2 | 30
+Oil Tycoon! ⛽ | 310 | 3256 | 3223 | 10.3 | 83
 
 ## Trending words (change over 7.0 days)
 
@@ -102,53 +106,53 @@ modded | 5 | 11 | +0.10pp
 where | 1 | 6 | +0.09pp
 sae | 2 | 7 | +0.09pp
 admin panel | 2 | 7 | +0.09pp
-animals | 13 | 18 | +0.06pp
-destroy | 5 | 9 | +0.06pp
-ragdoll | 5 | 9 | +0.06pp
+ragdoll | 5 | 10 | +0.08pp
 be | 17 | 22 | +0.06pp
+modded admin | 0 | 3 | +0.05pp
+tower where | 0 | 3 | +0.05pp
 
 ## Discover shelves (not genres - the genre field is dead)
 
 shelf | games | rising | total CCU | median CCU | median heat | median fav/1k
 --- | --- | --- | --- | --- | --- | ---
-Top Playing Now | 54 | 11 | 1936042 | 9050 | 80 | 3.2
-Top Trending | 219 | 77 | 1071906 | 2196 | 163 | 7.3
-Unclassified | 914 | 151 | 665515 | 320 | 53 | 5.0
-Up-and-Coming | 98 | 81 | 220255 | 1195 | 243 | 9.7
-Fun with Friends | 82 | 9 | 189428 | 1570 | 77 | 4.2
-Top Revisited | 45 | 1 | 49442 | 617 | 53 | 2.7
+Top Playing Now | 50 | 8 | 1777122 | 8347 | 79 | 3.0
+Top Trending | 233 | 83 | 1262454 | 2225 | 163 | 7.6
+Unclassified | 850 | 139 | 636272 | 348 | 52 | 5.1
+Fun with Friends | 81 | 11 | 182470 | 1561 | 77 | 4.7
+Up-and-Coming | 92 | 75 | 175304 | 1095 | 218 | 7.8
+Top Revisited | 45 | 1 | 48488 | 617 | 52 | 2.4
 
 ## Opportunity terms (high demand, few games)
 
 term | games | devs | past peak | median CCU | peak CCU | avg heat | avg age d
 --- | --- | --- | --- | --- | --- | --- | ---
-sea | 3 | 3 | 100% | 9707 | 16117 | 586 | 132
-murder | 3 | 3 | 100% | 7199 | 12901 | 205 | 124
-pull | 3 | 3 | 100% | 5573 | 7521 | 126 | 80
-anime rng | 3 | 3 | 67% | 4553 | 5968 | 588 | 170
+sea | 3 | 3 | 100% | 9245 | 16117 | 548 | 133
+murder | 3 | 3 | 100% | 6798 | 12901 | 195 | 124
+pull | 3 | 3 | 100% | 5573 | 7521 | 123 | 80
+anime rng | 3 | 3 | 67% | 4553 | 5850 | 576 | 170
 dungeon | 3 | 3 | 100% | 4283 | 10057 | 65 | 207
 legacy | 3 | 3 | 100% | 4037 | 9050 | 256 | 202
-mini | 3 | 3 | 100% | 3315 | 10133 | 233 | 120
-wash | 3 | 3 | 100% | 2932 | 3641 | 290 | 56
-tnt | 3 | 3 | 100% | 2883 | 3972 | 152 | 79
-treasure | 3 | 3 | 67% | 2703 | 5385 | 1618 | 38
-build base | 3 | 3 | 100% | 2503 | 4341 | 65 | 94
-clone | 3 | 3 | 100% | 2421 | 8290 | 4258 | 22
+spot | 3 | 3 | 100% | 3418 | 7065 | 451 | 72
+mini | 3 | 3 | 100% | 3165 | 10133 | 230 | 120
+tnt | 3 | 3 | 100% | 2883 | 3972 | 151 | 80
+wash | 3 | 3 | 100% | 2722 | 3192 | 252 | 56
+treasure | 3 | 3 | 67% | 2703 | 5385 | 1561 | 38
+build base | 3 | 3 | 100% | 2503 | 4336 | 65 | 94
 
 ## Crowded terms (high demand, many games already)
 
 term | games | devs | median CCU | avg heat
 --- | --- | --- | --- | ---
-steal egg | 6 | 6 | 4644 | 984
-fighter | 4 | 4 | 3602 | 400
-phonk | 4 | 4 | 3560 | 139
-chicken | 5 | 5 | 3742 | 139
-cut | 4 | 4 | 3064 | 310
-fishing | 5 | 5 | 3298 | 1414
-arena | 15 | 15 | 5418 | 169
-jump steal | 4 | 4 | 2771 | 90
-collection | 4 | 4 | 2538 | 422
-eggs | 15 | 14 | 4759 | 1869
+steal egg | 5 | 5 | 5097 | 1120
+fighter | 4 | 4 | 3598 | 369
+phonk | 4 | 4 | 3560 | 137
+cut | 4 | 4 | 3064 | 300
+chicken | 4 | 4 | 3048 | 86
+fishing | 5 | 5 | 3298 | 752
+jump steal | 4 | 4 | 2742 | 89
+arena | 14 | 14 | 5037 | 176
+eggs | 14 | 13 | 4957 | 1764
+strength | 4 | 4 | 2498 | 708
 
 ## Saturated terms (many games, low demand each)
 
@@ -158,61 +162,61 @@ _None in this sample._
 
 name | CCU | heat | fav/1k | age d
 --- | --- | --- | --- | ---
-ANMU 🪔 [HORROR] | 712 | 13352 | 40.4 | 18
-Clone to Steal Eggs | 8238 | 11511 | 4.7 | 18
-+1 Stone Skipping | 12569 | 5784 | 31.8 | 23
-Break and Steal an Egg | 15329 | 4883 | 11.0 | 23
-[HEROES] Horde Defenders | 1898 | 4076 | 19.1 | 17
-[🎉] Steal Noob Lucky Blocks! 😈 | 826 | 3770 | 68.1 | 30
-+1 Lift Rock for Treasure | 5385 | 3700 | 93.5 | 17
-[ALIENS 👽] Rope an Animal | 6469 | 3434 | 3.1 | 30
-Dig For Eggs | 8522 | 3313 | 2.6 | 25
-Backflip for Animals! | 5714 | 3291 | 6.3 | 27
-Sail For Eggs | 5155 | 3264 | 127.6 | 21
-BSSM - INF Rebirths! | 224 | 3072 | 6.3 | 24
-[⚽] Blue Lock Farm | 12771 | 3000 | 33.0 | 46
-[ALPHA] Fleet Empire | 1332 | 2858 | 19.4 | 22
-Shuffle an Egg | 8737 | 2793 | 10.0 | 24
-[🎟️ TRADES] Pets Universe! 🐾 | 10469 | 2553 | 45.9 | 35
-+1 Strength for Eggs | 13772 | 2503 | 56.4 | 17
-[HUGE MACRO UPDATE] BSS 1:1 | 281 | 2395 | 4.8 | 9
-[Halloween] My Boutique Story (Beta) | 884 | 2386 | 21.5 | 53
-Motorcycle for Animals | 6612 | 2364 | 1.7 | 25
+ANMU 🪔 [HORROR] | 564 | 10044 | 41.7 | 18
+Clone to Steal Eggs | 6679 | 9490 | 4.6 | 18
+this underrated game (flamingo simulator) | 4645 | 5275 | 5.4 | 5
++1 Stone Skipping | 10697 | 5261 | 32.1 | 24
+Break and Steal an Egg | 11292 | 4634 | 10.8 | 24
+Turbo Soccer : Beta 1.0 - Car Soccer | 3495 | 3697 | 2.6 | 10
+Horde Defenders | 1491 | 3642 | 18.9 | 17
++1 Lift Rock for Treasure | 4271 | 3536 | 92.1 | 17
+[Halloween] My Boutique Story (Beta) | 1015 | 3333 | 21.3 | 54
+[ALIENS 👽] Rope an Animal | 4854 | 3280 | 3.2 | 30
+Dig For Eggs | 6629 | 3217 | 2.6 | 26
+Backflip for Animals! | 4382 | 3153 | 6.4 | 27
+Sail For Eggs | 3413 | 3116 | 127.0 | 21
+BSSM - INF Rebirths! | 180 | 2926 | 6.4 | 24
+[🎉] Steal Noob Lucky Blocks! 😈 | 401 | 2925 | 67.9 | 30
+[⚽] Blue Lock Farm | 10684 | 2884 | 32.7 | 46
+[ALPHA] Fleet Empire | 1356 | 2762 | 19.3 | 22
+[⭐ EVENT] Pets Universe! 🐾 | 6556 | 2646 | 45.1 | 36
+Shuffle an Egg | 7177 | 2604 | 10.0 | 24
++1 Strength for Eggs | 7809 | 2423 | 56.0 | 17
 
 ## New releases spotted in window
 
 name | CCU | heat | fav/1k | age d
 --- | --- | --- | --- | ---
 Rauls Rivals Modded  | 30176 | 28838 | 4.9 | 10
-ANMU 🪔 [HORROR] | 712 | 13352 | 40.4 | 18
-Clone to Steal Eggs | 8238 | 11511 | 4.7 | 18
-+1 Stone Skipping | 12569 | 5784 | 31.8 | 23
-Break and Steal an Egg | 15329 | 4883 | 11.0 | 23
-[HEROES] Horde Defenders | 1898 | 4076 | 19.1 | 17
-[🎉] Steal Noob Lucky Blocks! 😈 | 826 | 3770 | 68.1 | 30
-+1 Lift Rock for Treasure | 5385 | 3700 | 93.5 | 17
-[ALIENS 👽] Rope an Animal | 6469 | 3434 | 3.1 | 30
-Dig For Eggs | 8522 | 3313 | 2.6 | 25
-Backflip for Animals! | 5714 | 3291 | 6.3 | 27
+ANMU 🪔 [HORROR] | 564 | 10044 | 41.7 | 18
+Clone to Steal Eggs | 6679 | 9490 | 4.6 | 18
+this underrated game (flamingo simulator) | 4645 | 5275 | 5.4 | 5
++1 Stone Skipping | 10697 | 5261 | 32.1 | 24
+Break and Steal an Egg | 11292 | 4634 | 10.8 | 24
+RAUL SAE MODDED F2P ADMIN PANEL | 2888 | 4151 | 5.1 | 17
+Turbo Soccer : Beta 1.0 - Car Soccer | 3495 | 3697 | 2.6 | 10
+Horde Defenders | 1491 | 3642 | 18.9 | 17
++1 Lift Rock for Treasure | 4271 | 3536 | 92.1 | 17
+[ALIENS 👽] Rope an Animal | 4854 | 3280 | 3.2 | 30
 😰 HATCH IT MODDED 😀 INFS OWNER PANEL! (SAE) | 9351 | 3264 | 104.0 | 24
-Sail For Eggs | 5155 | 3264 | 127.6 | 21
-RAUL SAE MODDED F2P ADMIN PANEL | 2888 | 2961 | 5.1 | 17
-[ALPHA] Fleet Empire | 1332 | 2858 | 19.4 | 22
+Dig For Eggs | 6629 | 3217 | 2.6 | 26
+Backflip for Animals! | 4382 | 3153 | 6.4 | 27
+Sail For Eggs | 3413 | 3116 | 127.0 | 21
 
 ## Title shapes currently in use
 
 - `___ for eggs` — 8 games, median 10391 CCU. Blank filled by: climb, dig, jump, race, sail, strength, swing, wings
+- `___ arena` — 10 games, median 6798 CCU. Blank filled by: ability, deagle, demon, killer's, knife, murder, pistol, sniper
+- `animal ___` — 4 games, median 9866 CCU. Blank filled by: daycare, hospital, restaurant, strength
 - `___ an egg` — 5 games, median 7521 CCU. Blank filled by: be, break, pull, shuffle, steal
 - `___ for animals` — 6 games, median 5714 CCU. Blank filled by: backflip, jump, motorcycle, roller, skateboard, surf
-- `murder ___` — 3 games, median 7199 CCU. Blank filled by: arena, duels, infinite
+- `murder ___` — 3 games, median 6798 CCU. Blank filled by: arena, duels, infinite
 - `grow ___ fighter` — 3 games, median 6668 CCU. Blank filled by: chicken, dragon, pet
 - `___ duels` — 9 games, median 2611 CCU. Blank filled by: archery, ball, car, deagle, knife, murder, puzzle, quiz
 - `___ fishing` — 4 games, median 3298 CCU. Blank filled by: claw, deep, hole, magnet
-- `___ house` — 3 games, median 3641 CCU. Blank filled by: build, flip, wash
 - `___ war` — 3 games, median 3404 CCU. Blank filled by: mini, navy, total
-- `___ arena` — 11 games, median 1693 CCU. Blank filled by: ability, deagle, demon, element, killer's, knife, murder, pistol
-- `mine ___` — 4 games, median 2500 CCU. Blank filled by: antarctica, it, mountain, planet
-- `car ___` — 4 games, median 2320 CCU. Blank filled by: duels, flipper, sales, soccer
+- `___ house` — 3 games, median 3192 CCU. Blank filled by: build, flip, wash
+- `mount ___` — 4 games, median 2730 CCU. Blank filled by: afterglow, lonely, salfara, soreya
 
 ## How to read this
 
