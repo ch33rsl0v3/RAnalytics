@@ -1,95 +1,95 @@
-# RAnalytics brief — 2026-09-30
+# RAnalytics brief — 2026-10-01
 
-Oldest reading in this sample: 32.5 hours ago.
+Oldest reading in this sample: 36.5 hours ago.
 
-Sample: 1375 games passing filters, 5679 tracked in total. 126 collection runs over 29.3 days since 2026-09-01.
+Sample: 1369 games passing filters, 5683 tracked in total. 127 collection runs over 29.5 days since 2026-09-01.
 
 Terms by zone: 31 target, 29 crowded, 0 saturated, 0 noise. An empty zone below means no term landed there, not that the check failed.
 
 ## Track record of earlier calls
 
-Terms and Rising list: 207 calls checked after 10+ days, against the market: 24 grew, 23 held, 160 faded (23% held or grew).
+Terms and Rising list: 311 calls checked after 10+ days, against the market: 38 grew, 25 held, 248 faded (20% held or grew).
 
 Biggest misses: dungeon (-100% vs market), how (-100% vs market), build base (-100% vs market), fishing (-100% vs market), raft (-100% vs market)
 
-Best calls: [⭐ EVENT] Pets Universe! 🐾 (+508% vs market), Build the Pyramid! (+493% vs market), [⭐ EVENT] Pets Universe! 🐾 (+467% vs market), Build the Pyramid! (+427% vs market), That Freekick Challenge (T (+282% vs market)
+Best calls: [⭐ EVENT] Pets Universe! 🐾 (+504% vs market), Build the Pyramid! (+491% vs market), [⭐ EVENT] Pets Universe! 🐾 (+463% vs market), [🚀] 2 Player Raid Tycoon (+433% vs market), Build the Pyramid! (+425% vs market)
 
 ## Taking off now (up to 30 days old, heat 3500+ - in the backtest about 6 in 10 of these beat the market 2x within three weeks; untouched themes first)
 
 name | theme | heat | CCU | vs market | fav/1k | age d
 --- | --- | --- | --- | --- | --- | ---
-Huss Valley | no copies yet | 5091 | 6001 | - | 4.4 | 30
-ANMU 🪔 [HORROR] | no copies yet | 4476 | 338 | 0.6x | 43.5 | 19
-Clone to Steal Eggs | no copies yet | 4420 | 4185 | 0.5x | 4.6 | 19
-this underrated game (flamingo simulator) | no copies yet | 3830 | 4723 | 1.0x | 4.8 | 6
-+1 Stone Skipping | no copies yet | 3815 | 11235 | 1.0x | 35.6 | 25
-Drill for Eggs | follows +1 Wings For Eggs (10 667 playing) | 4167 | 5625 | - | 87.0 | 14
+[⭐UPD2] Tower Incremental | no copies yet | 7611 | 2183 | - | 17.4 | 26
+Huss Valley | no copies yet | 6536 | 8568 | 4.4x | 4.7 | 30
++1 Stone Skipping | no copies yet | 4105 | 14492 | 1.3x | 36.2 | 25
+ANMU 🪔 [HORROR] | no copies yet | 3883 | 451 | 0.8x | 43.6 | 19
+this underrated game (flamingo simulator) | no copies yet | 3610 | 5056 | 1.1x | 4.7 | 7
 
 ## Early radar (100-1000 players, heat 1500+ but under the main line - not proven, scored on its own record)
 
 name | theme | heat | CCU | vs market | fav/1k | age d
 --- | --- | --- | --- | --- | --- | ---
-BSSM - INF Rebirths! | no copies yet | 2896 | 205 | 4.9x | 6.3 | 25
-☀️Zarechensk RP | no copies yet | 2326 | 165 | - | 3.7 | 20
-Crack the Egg 🥚 | no copies yet | 1923 | 686 | 0.9x | 5.4 | 10
-Steal The SCP Base💀 | no copies yet | 1835 | 559 | 1.4x | 74.6 | 29
-[HUGE MACRO UPDATE] BSS 1:1 | no copies yet; past its peak | 1697 | 225 | 0.8x | 4.7 | 10
+BSSM - INF Rebirths! | no copies yet; past its peak | 2824 | 170 | 4.1x | 6.4 | 25
+Steal The SCP Base💀 | no copies yet | 2099 | 828 | 2.0x | 74.1 | 29
+[😡] Pets And Eggs! | no copies yet | 1956 | 939 | - | 2.8 | 18
+Crack the Egg 🥚 | no copies yet; past its peak | 1886 | 609 | 0.8x | 5.4 | 10
+[HUGE MACRO UPDATE] BSS 1:1 | no copies yet; past its peak | 1677 | 197 | 0.7x | 4.7 | 10
 
 ## Caught in the last 7 days, now under the line (heat sinks midweek with the rest of Roblox)
 
 name | caught | CCU then | CCU now | heat now | age d
 --- | --- | --- | --- | --- | ---
-Dig For Eggs | 09-28 | 8730 | 7160 | 2595 | 27
-Break and Steal an Egg | 09-28 | 16922 | 12236 | 3303 | 25
-+1 Lift Rock for Treasure | 09-27 | 4917 | 3611 | 2239 | 18
-+1 Strength for Eggs | 09-26 | 9963 | 8909 | 1736 | 18
-Sail For Eggs | 09-26 | 3456 | 3849 | 2398 | 22
-[🔥UPDATE] Steal Underwater Eggs | 09-26 | 2150 | 106 | 473 | 32
-Where Did I Park? | 09-26 | 1821 | 1075 | 1292 | 16
-Where Did I Park? 🚗 | 09-26 | 2385 | 1775 | 1217 | 17
-[BETA] Football WORLD Manager '27 | 09-26 | 3753 | 2289 | 1365 | 32
-[CHAPTER 2] Cut it Out! | 09-26 | 7142 | 7020 | 929 | 21
-SUKI: Pwede Utang? | 09-26 | 1076 | 428 | 1265 | 19
-SKI (ALPHA) | 09-26 | 12376 | 8090 | 1034 | 30
+Drill for Eggs | 09-30 | 7282 | 5548 | 3453 | 14
+Clone to Steal Eggs | 09-29 | 8238 | 4531 | 3316 | 19
+Dig For Eggs | 09-28 | 8730 | 5827 | 2541 | 27
+Break and Steal an Egg | 09-28 | 16922 | 14467 | 3320 | 25
++1 Lift Rock for Treasure | 09-27 | 4917 | 2244 | 2180 | 18
++1 Strength for Eggs | 09-26 | 9963 | 9239 | 1719 | 18
+Sail For Eggs | 09-26 | 3456 | 3817 | 2150 | 23
+Steal Underwater Eggs | 09-26 | 2150 | 104 | 402 | 32
+Where Did I Park? | 09-26 | 1821 | 432 | 1257 | 16
+Where Did I Park? 🚗 | 09-26 | 2385 | 1226 | 986 | 17
+[BETA] Football WORLD Manager '27 | 09-26 | 3753 | 2427 | 1355 | 32
+[CHAPTER 2] Cut it Out! | 09-26 | 7142 | 8935 | 891 | 21
 
 ## Still unclaimed (strong numbers, nobody has copied the shape yet)
 
 name | copies | fav/1k | CCU | heat | age d
 --- | --- | --- | --- | --- | ---
-Huss Valley | 1 | 4.4 | 6001 | 5091 | 30
-Clone to Steal Eggs | 0 | 4.6 | 4185 | 4420 | 19
-this underrated game (flamingo simulator) | 0 | 4.8 | 4723 | 3830 | 6
-+1 Stone Skipping | 0 | 35.6 | 11235 | 3815 | 25
-7 Days Cat-Sitting | 0 | 4.8 | 18038 | 3478 | 15
-Carry Heavy Eggs! | 0 | 3.3 | 2131 | 3349 | 23
-Break and Steal an Egg | 0 | 9.9 | 12236 | 3303 | 25
-Rocket Rush | 1 | 3.4 | 3049 | 3264 | 14
-Melt All The Ice!🧊 | 0 | 4.6 | 5374 | 2935 | 17
-Blox League | 1 | 3.0 | 11916 | 2909 | 5
-Horde Defenders | 0 | 18.0 | 1477 | 2645 | 18
-[🎉] Steal Noob Lucky Blocks! 😈 | 0 | 68.9 | 481 | 2342 | 31
+Huss Valley | 1 | 4.7 | 8568 | 6536 | 30
++1 Stone Skipping | 0 | 36.2 | 14492 | 4105 | 25
+this underrated game (flamingo simulator) | 0 | 4.7 | 5056 | 3610 | 7
+Break and Steal an Egg | 0 | 9.8 | 14467 | 3320 | 25
+Clone to Steal Eggs | 0 | 4.5 | 4531 | 3316 | 19
+Rocket Rush | 1 | 3.6 | 4681 | 3109 | 14
+Carry Heavy Eggs! | 0 | 3.3 | 2166 | 2872 | 23
+7 Days Cat-Sitting | 0 | 4.8 | 13205 | 2842 | 15
+Horde Defenders | 0 | 17.9 | 1238 | 2589 | 18
+Melt All The Ice!🧊 | 0 | 4.6 | 3921 | 2570 | 17
+Blox League | 1 | 2.8 | 9631 | 2360 | 6
+[CO-OP] Plant & Steal 🌱 | 0 | 34.8 | 1808 | 2334 | 36
 
 ## Shapes already taken (launch burst has happened)
 
 shape | status | games | born together | burst was | median CCU
 --- | --- | --- | --- | --- | ---
-___ for eggs | CLOSED | 10 | 5 | 25d ago | 8024
-___ for animals | CLOSED | 6 | 5 | 26d ago | 5398
+___ for eggs | CLOSED | 10 | 5 | 26d ago | 8024
+___ empire | CROWDING | 6 | 3 | 23d ago | 927
+___ for animals | CROWDING | 4 | 3 | 26d ago | 5481
 
 ## Launching now (fewest visits per player, up to 90 days - wider net, context only)
 
 name | visits per player | CCU | heat | fav/1k | age d
 --- | --- | --- | --- | --- | ---
-Huss Valley | 196 | 6001 | 5091 | 4.4 | 30
-ANMU 🪔 [HORROR] | 223 | 338 | 4476 | 43.5 | 19
-Clone to Steal Eggs | 226 | 4185 | 4420 | 4.6 | 19
-Drill for Eggs | 240 | 5625 | 4167 | 87.0 | 14
-this underrated game (flamingo simulator) | 261 | 4723 | 3830 | 4.8 | 6
-+1 Stone Skipping | 262 | 11235 | 3815 | 35.6 | 25
-7 Days Cat-Sitting | 288 | 18038 | 3478 | 4.8 | 15
-Carry Heavy Eggs! | 299 | 2131 | 3349 | 3.3 | 23
+[⭐UPD2] Tower Incremental | 131 | 2183 | 7611 | 17.4 | 26
+Huss Valley | 153 | 8568 | 6536 | 4.7 | 30
+Trev's Rivals Modded [admin-panel copy, skip] | 177 | 5124 | 5635 | 6.0 | 49
++1 Stone Skipping | 244 | 14492 | 4105 | 36.2 | 25
+ANMU 🪔 [HORROR] | 258 | 451 | 3883 | 43.6 | 19
+this underrated game (flamingo simulator) | 277 | 5056 | 3610 | 4.7 | 7
+Drill for Eggs | 290 | 5548 | 3453 | 85.6 | 14
 [Halloween] My Boutique Story (Beta) | 300 | 1015 | 3333 | 21.3 | 55
-Break and Steal an Egg | 303 | 12236 | 3303 | 9.9 | 25
+Break and Steal an Egg | 301 | 14467 | 3320 | 9.8 | 25
+Clone to Steal Eggs | 302 | 4531 | 3316 | 4.5 | 19
 
 ## Trending words (change over 7.0 days)
 
@@ -106,50 +106,50 @@ verity | 14 | 19 | +0.07pp
 wall | 4 | 8 | +0.06pp
 rivals | 5 | 9 | +0.06pp
 egg | 18 | 23 | +0.06pp
-modded admin | 0 | 3 | +0.05pp
+tower where | 0 | 3 | +0.05pp
 
 ## Discover shelves (not genres - the genre field is dead)
 
 shelf | games | rising | total CCU | median CCU | median heat | median fav/1k
 --- | --- | --- | --- | --- | --- | ---
-Top Playing Now | 49 | 12 | 1594256 | 8015 | 98 | 3.2
-Top Trending | 247 | 94 | 1226949 | 2206 | 178 | 7.3
-Unclassified | 851 | 128 | 580366 | 318 | 50 | 4.9
-Fun with Friends | 77 | 10 | 165610 | 1528 | 75 | 4.2
-Up-and-Coming | 90 | 73 | 158913 | 1002 | 185 | 7.6
-Top Revisited | 61 | 5 | 112919 | 801 | 63 | 3.1
+Top Playing Now | 50 | 12 | 1652163 | 7842 | 94 | 3.2
+Top Trending | 240 | 86 | 1184870 | 2108 | 157 | 7.4
+Unclassified | 837 | 122 | 570904 | 324 | 49 | 4.9
+Up-and-Coming | 104 | 83 | 201370 | 1028 | 219 | 7.8
+Fun with Friends | 76 | 10 | 147312 | 1528 | 76 | 4.2
+Top Revisited | 62 | 4 | 110610 | 789 | 65 | 3.1
 
 ## Opportunity terms (high demand, few games)
 
 term | games | devs | past peak | median CCU | peak CCU | avg heat | avg age d
 --- | --- | --- | --- | --- | --- | --- | ---
-sea | 3 | 3 | 100% | 7644 | 12248 | 429 | 134
-murder | 3 | 3 | 100% | 6112 | 12118 | 174 | 125
-cut | 3 | 3 | 67% | 5034 | 6088 | 336 | 105
-pull | 3 | 3 | 100% | 4905 | 6970 | 110 | 81
-dungeon | 3 | 3 | 100% | 4556 | 8301 | 57 | 208
-anime rng | 3 | 3 | 67% | 4176 | 5488 | 525 | 171
-legacy | 3 | 3 | 100% | 3698 | 7762 | 226 | 203
-mini | 3 | 3 | 100% | 2976 | 10072 | 210 | 121
-tnt | 3 | 3 | 100% | 2838 | 2987 | 125 | 81
-treasure | 3 | 3 | 67% | 2482 | 4308 | 1073 | 39
-steal anime | 3 | 3 | 67% | 2460 | 2551 | 588 | 38
-wings | 3 | 3 | 67% | 2344 | 14466 | 277 | 137
+sea | 3 | 3 | 100% | 7687 | 12200 | 425 | 134
+open | 3 | 3 | 100% | 7687 | 15418 | 408 | 71
+murder | 3 | 3 | 100% | 6112 | 12122 | 172 | 125
+cut | 3 | 3 | 67% | 5034 | 6088 | 323 | 105
+anime rng | 3 | 3 | 100% | 4176 | 5488 | 522 | 171
+dungeon | 3 | 3 | 100% | 3966 | 7764 | 53 | 209
+strength | 3 | 3 | 100% | 3483 | 12532 | 689 | 69
+mini | 3 | 3 | 100% | 2974 | 10072 | 210 | 121
+tnt | 3 | 3 | 100% | 2770 | 2987 | 124 | 81
+treasure | 3 | 3 | 100% | 2482 | 4308 | 1052 | 39
+steal anime | 3 | 3 | 100% | 2460 | 2850 | 589 | 38
+wings | 3 | 3 | 100% | 2344 | 14068 | 267 | 137
 
 ## Crowded terms (high demand, many games already)
 
 term | games | devs | median CCU | avg heat
 --- | --- | --- | --- | ---
-steal egg | 5 | 5 | 4058 | 832
-phonk | 4 | 4 | 3420 | 135
-fighter | 4 | 4 | 3350 | 263
-piece | 4 | 4 | 3121 | 226
-days | 7 | 7 | 3614 | 629
-arena | 14 | 14 | 4496 | 156
-aura | 5 | 5 | 2530 | 155
-rush | 5 | 5 | 2511 | 722
-troll | 5 | 5 | 2468 | 137
-chicken | 5 | 5 | 2464 | 87
+pull | 4 | 4 | 3854 | 786
+steal egg | 5 | 5 | 4096 | 837
+phonk | 4 | 4 | 3256 | 128
+fighter | 4 | 4 | 3147 | 234
+chicken | 4 | 4 | 3019 | 76
+piece | 4 | 4 | 3007 | 229
+legacy | 4 | 4 | 2980 | 308
+days | 7 | 7 | 3318 | 527
+army | 6 | 6 | 2870 | 138
+rush | 5 | 5 | 2572 | 691
 
 ## Saturated terms (many games, low demand each)
 
@@ -159,61 +159,61 @@ _None in this sample._
 
 name | CCU | heat | fav/1k | age d
 --- | --- | --- | --- | ---
-[⭐UPD2] Tower Incremental | 3168 | 8302 | 17.5 | 26
-Trev's Rivals Modded [admin-panel copy, skip] | 5218 | 6626 | 6.1 | 49
-Huss Valley | 6001 | 5091 | 4.4 | 30
-ANMU 🪔 [HORROR] | 338 | 4476 | 43.5 | 19
-Clone to Steal Eggs | 4185 | 4420 | 4.6 | 19
-Drill for Eggs | 5625 | 4167 | 87.0 | 14
-this underrated game (flamingo simulator) | 4723 | 3830 | 4.8 | 6
-+1 Stone Skipping | 11235 | 3815 | 35.6 | 25
-7 Days Cat-Sitting | 18038 | 3478 | 4.8 | 15
-Carry Heavy Eggs! | 2131 | 3349 | 3.3 | 23
+[⭐UPD2] Tower Incremental | 2183 | 7611 | 17.4 | 26
+Huss Valley | 8568 | 6536 | 4.7 | 30
+Trev's Rivals Modded [admin-panel copy, skip] | 5124 | 5635 | 6.0 | 49
++1 Stone Skipping | 14492 | 4105 | 36.2 | 25
+ANMU 🪔 [HORROR] | 451 | 3883 | 43.6 | 19
+this underrated game (flamingo simulator) | 5056 | 3610 | 4.7 | 7
+Drill for Eggs | 5548 | 3453 | 85.6 | 14
 [Halloween] My Boutique Story (Beta) | 1015 | 3333 | 21.3 | 55
-[🍬] Swim For Eggs! | 2675 | 3325 | 2.8 | 25
-Break and Steal an Egg | 12236 | 3303 | 9.9 | 25
-Rocket Rush | 3049 | 3264 | 3.4 | 14
-Melt All The Ice!🧊 | 5374 | 2935 | 4.6 | 17
-Blox League | 11916 | 2909 | 3.0 | 5
-BSSM - INF Rebirths! | 205 | 2896 | 6.3 | 25
-Horde Defenders | 1477 | 2645 | 18.0 | 18
-Dig For Eggs | 7160 | 2595 | 2.5 | 27
-[CO-OP] Plant & Steal 🌱 | 2098 | 2527 | 34.9 | 36
+Break and Steal an Egg | 14467 | 3320 | 9.8 | 25
+Clone to Steal Eggs | 4531 | 3316 | 4.5 | 19
+Rocket Rush | 4681 | 3109 | 3.6 | 14
+Carry Heavy Eggs! | 2166 | 2872 | 3.3 | 23
+[MIDAS] Pull A Sword 🗡️ | 2804 | 2847 | 4.4 | 32
+7 Days Cat-Sitting | 13205 | 2842 | 4.8 | 15
+BSSM - INF Rebirths! | 170 | 2824 | 6.4 | 25
+[🍬] Swim For Eggs! | 3173 | 2744 | 2.8 | 25
+Jewelry Empire | 1400 | 2727 | 18.9 | 22
+Horde Defenders | 1238 | 2589 | 17.9 | 18
+Melt All The Ice!🧊 | 3921 | 2570 | 4.6 | 17
+Dig For Eggs | 5827 | 2541 | 2.5 | 27
 
 ## New releases spotted in window
 
 name | CCU | heat | fav/1k | age d
 --- | --- | --- | --- | ---
 Rauls Rivals Modded  | 30176 | 28838 | 4.9 | 11
-[⭐UPD2] Tower Incremental | 3168 | 8302 | 17.5 | 26
-Huss Valley | 6001 | 5091 | 4.4 | 30
-ANMU 🪔 [HORROR] | 338 | 4476 | 43.5 | 19
-Clone to Steal Eggs | 4185 | 4420 | 4.6 | 19
-Drill for Eggs | 5625 | 4167 | 87.0 | 14
+[⭐UPD2] Tower Incremental | 2183 | 7611 | 17.4 | 26
+Huss Valley | 8568 | 6536 | 4.7 | 30
 RAUL SAE MODDED F2P ADMIN PANEL | 2888 | 4151 | 5.1 | 18
-this underrated game (flamingo simulator) | 4723 | 3830 | 4.8 | 6
-+1 Stone Skipping | 11235 | 3815 | 35.6 | 25
-7 Days Cat-Sitting | 18038 | 3478 | 4.8 | 15
-Carry Heavy Eggs! | 2131 | 3349 | 3.3 | 23
-[🍬] Swim For Eggs! | 2675 | 3325 | 2.8 | 25
-Break and Steal an Egg | 12236 | 3303 | 9.9 | 25
++1 Stone Skipping | 14492 | 4105 | 36.2 | 25
+ANMU 🪔 [HORROR] | 451 | 3883 | 43.6 | 19
+this underrated game (flamingo simulator) | 5056 | 3610 | 4.7 | 7
+Drill for Eggs | 5548 | 3453 | 85.6 | 14
+Break and Steal an Egg | 14467 | 3320 | 9.8 | 25
+Clone to Steal Eggs | 4531 | 3316 | 4.5 | 19
 😰 HATCH IT MODDED 😀 INFS OWNER PANEL! (SAE) | 9351 | 3264 | 104.0 | 25
-Rocket Rush | 3049 | 3264 | 3.4 | 14
+Rocket Rush | 4681 | 3109 | 3.6 | 14
+Carry Heavy Eggs! | 2166 | 2872 | 3.3 | 23
+[MIDAS] Pull A Sword 🗡️ | 2804 | 2847 | 4.4 | 32
+7 Days Cat-Sitting | 13205 | 2842 | 4.8 | 15
 
 ## Title shapes currently in use
 
 - `___ for eggs` — 10 games, median 8024 CCU. Blank filled by: climb, dig, drill, jump, race, sail, strength, swim
-- `animal ___` — 4 games, median 9364 CCU. Blank filled by: daycare, hospital, restaurant, strength
-- `___ arena` — 10 games, median 6112 CCU. Blank filled by: ability, deagle, demon, killer's, knife, murder, pistol, sniper
-- `___ an egg` — 5 games, median 5869 CCU. Blank filled by: be, break, pull, shuffle, steal
-- `___ for animals` — 6 games, median 5398 CCU. Blank filled by: backflip, jump, motorcycle, roller, skateboard, surf
-- `grow ___ fighter` — 3 games, median 6166 CCU. Blank filled by: chicken, dragon, pet
+- `animal ___` — 4 games, median 9506 CCU. Blank filled by: daycare, hospital, restaurant, strength
+- `___ an egg` — 5 games, median 5764 CCU. Blank filled by: be, break, pull, shuffle, steal
+- `___ for animals` — 4 games, median 5481 CCU. Blank filled by: backflip, jump, motorcycle, roller
 - `murder ___` — 3 games, median 6112 CCU. Blank filled by: arena, duels, infinite
-- `___ piece` — 4 games, median 4934 CCU. Blank filled by: legacy, lineage, rise, sailor
-- `survive the ___` — 5 games, median 3841 CCU. Blank filled by: apocalypse, hulk, slope, swarm, tsunami
+- `grow ___ fighter` — 3 games, median 5760 CCU. Blank filled by: chicken, dragon, pet
+- `___ piece` — 4 games, median 4732 CCU. Blank filled by: legacy, lineage, rise, sailor
+- `survive the ___` — 5 games, median 3746 CCU. Blank filled by: apocalypse, hulk, slope, swarm, tsunami
 - `___ duels` — 10 games, median 2784 CCU. Blank filled by: archery, ball, car, cowboy, knife, murder, puzzle, quiz
 - `___ house` — 3 games, median 3458 CCU. Blank filled by: build, flip, wash
-- `steal ___` — 5 games, median 2464 CCU. Blank filled by: chicken, pet, seed, tree, verity
+- `steal ___` — 6 games, median 2391 CCU. Blank filled by: chicken, pet, seed, superstar, tree, verity
+- `mount ___` — 6 games, median 2204 CCU. Blank filled by: afterglow, atlas, funkot, lonely, salfara, soreya
 
 ## How to read this
 
