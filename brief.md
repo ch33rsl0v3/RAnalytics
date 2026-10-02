@@ -1,161 +1,165 @@
 # RAnalytics brief — 2026-10-02
 
-Oldest reading in this sample: 40.5 hours ago.
+Oldest reading in this sample: 44.5 hours ago.
 
-Sample: 1592 games passing filters, 6089 tracked in total. 133 collection runs over 31.1 days since 2026-09-01.
+Sample: 1598 games passing filters, 6227 tracked in total. 134 collection runs over 31.3 days since 2026-09-01.
 
-Terms by zone: 29 target, 31 crowded, 0 saturated, 0 noise. An empty zone below means no term landed there, not that the check failed.
+Terms by zone: 33 target, 27 crowded, 0 saturated, 0 noise. An empty zone below means no term landed there, not that the check failed.
 
 ## Track record of earlier calls
 
-Terms and Rising list: 415 calls checked after 10+ days, against the market: 48 grew, 24 held, 343 faded (17% held or grew).
+Terms and Rising list: 415 calls checked after 10+ days, against the market: 48 grew, 26 held, 341 faded (18% held or grew).
 
 Biggest misses: dungeon (-100% vs market), jump steal (-100% vs market), how (-100% vs market), build base (-100% vs market), fishing (-100% vs market)
 
-Best calls: Build the Pyramid! (+603% vs market), Build the Pyramid! (+538% vs market), Build the Pyramid! (+509% vs market), [🍀 X2] Pets Universe! 🐾 (+485% vs market), [UPD] 2 Player Raid Tycoon (+458% vs market)
+Best calls: Build the Pyramid! (+613% vs market), [UPD] 2 Player Raid Tycoon (+555% vs market), Build the Pyramid! (+551% vs market), [🎣UPD!] Pets Universe! 🐾 (+538% vs market), 💭Dream Car Collection [LUC (+533% vs market)
 
 ## Taking off now (up to 30 days old, heat 3500+ - in the backtest about 6 in 10 of these beat the market 2x within three weeks; untouched themes first)
 
 name | theme | heat | CCU | vs market | fav/1k | age d | 3d pace | passes
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-Steal A Car | no copies yet | 5641 | 22116 | 1.7x | 3.3 | 27 | - | 2 (399-399 R$)
-[⭐UPD3] Tower Incremental | no copies yet | 5214 | 5166 | 1.4x | 17.3 | 28 | - | 0
-ANMU 🪔 [HORROR] | no copies yet | 5180 | 2298 | 3.5x | 35.3 | 21 | 2.9x | 4 (29-59 R$)
-Builders Sandbox 🧱 | no copies yet | 4494 | 6262 | 3.2x | 4.4 | 15 | - | 7 (99-799 R$)
-+1 Stone Skipping | no copies yet | 3783 | 23264 | 1.8x | 38.9 | 26 | 1.8x | 11 (25-599 R$)
-Break and Steal an Egg | 1 similar: Dig & Steal an Egg (8) | 3692 | 41537 | 13.1x | 9.1 | 26 | 2.4x | 0
-Steal Animal Egg | follows Steal An Egg (1 401 811 playing) | 4334 | 10214 | 1.9x | 3.9 | 20 | - | 9 (3-799 R$)
-[⚡️STORM] Fly To Steal An Egg | follows Jump To Steal An Egg (4 191 playing) | 4147 | 1080 | 3.0x | 5.1 | 23 | - | 2 (249-299 R$)
-Crack the Egg 🥚 | 5 similar: Crack The Egg (5 935), Crack an Egg (90) +3 | 4066 | 5706 | 7.0x | 6.2 | 12 | 3.7x | 0
+[⭐UPD3] Tower Incremental | no copies yet | 6411 | 4959 | 1.4x | 17.5 | 28 | - | 0
+ANMU 🪔 [HORROR] | no copies yet | 6340 | 1853 | 2.9x | 34.6 | 21 | 2.8x | 4 (29-59 R$)
+Steal A Car | no copies yet | 5871 | 13564 | 1.0x | 3.3 | 27 | - | 2 (399-399 R$)
+Builders Sandbox 🧱 | no copies yet | 5502 | 3804 | 2.0x | 4.3 | 15 | - | 7 (99-799 R$)
+Film Animals [1-5 Player] | no copies yet | 5056 | 2749 | - | 10.5 | 18 | - | -
+[FREE MACRO] BSS 1:1 | no copies yet | 4172 | 740 | 2.3x | 4.6 | 12 | 2.1x | 2 (150-199 R$)
+Steal ASMR! | no copies yet | 3968 | 10811 | 1.4x | 6.4 | 24 | - | -
++1 Stone Skipping | no copies yet | 3752 | 22099 | 1.8x | 38.8 | 27 | 1.7x | 11 (25-599 R$)
+BSSM - INF Rebirths! | no copies yet | 3715 | 400 | 3.8x | 5.5 | 27 | 1.6x | 4 (100-200 R$)
+Clone to Steal Eggs | no copies yet | 3660 | 10677 | 1.3x | 5.0 | 21 | 1.5x | 6 (40-150 R$)
+Break and Steal an Egg | 1 similar: Dig & Steal an Egg (6) | 3733 | 28764 | 9.3x | 9.0 | 27 | 2.3x | 0
+Crack the Egg 🥚 | 4 similar: Crack An Egg (38), Crack a GIANT Egg (31) +2 | 5726 | 6148 | 7.8x | 6.3 | 12 | 3.9x | 0
+Steal An Evil Egg 😈 | follows Steal An Anime Egg (2 519 playing) | 5028 | 2229 | - | 3.8 | 25 | - | -
+Steal Animal Egg | follows Steal An Egg (1 103 554 playing) | 4759 | 7508 | 1.4x | 3.9 | 20 | - | 9 (3-799 R$)
+[🥚] Crack The Egg | 5 similar: Crack the Egg (6 148), Crack An Egg (38) +3 | 4458 | 4107 | - | 4.4 | 15 | - | -
+[⚡️STORM] Fly To Steal An Egg | follows Jump To Steal An Egg (2 784 playing) | 4270 | 665 | 1.9x | 5.2 | 24 | - | 2 (249-299 R$)
 
 ## Early radar (100-1000 players, heat 1500+ but under the main line - not proven, scored on its own record)
 
 name | theme | heat | CCU | vs market | fav/1k | age d | 3d pace | passes
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-[FREE MACRO] BSS 1:1 | no copies yet | 3250 | 728 | 2.2x | 4.6 | 12 | 2.2x | 2 (150-199 R$)
-BSSM - INF Rebirths! | no copies yet | 2924 | 418 | 4.0x | 5.6 | 27 | 1.7x | 4 (100-200 R$)
-ZHD : Zee | no copies yet | 2785 | 340 | 0.6x | 1.4 | 20 | - | -
-[NEW] Mountain of Death (Beta Test)  | follows Die of Death (2 239 playing) | 1969 | 889 | 0.9x | 7.0 | 30 | - | 1 (10-10 R$)
-Steal a Car Egg | follows Steal An Egg (1 401 811 playing) | 1640 | 339 | 0.6x | 2.2 | 10 | - | -
+ZHD : Zee | no copies yet | 2429 | 270 | 0.5x | 1.3 | 20 | - | 0
 
 ## Caught in the last 7 days, now under the line (heat sinks midweek with the rest of Roblox)
 
 name | caught | CCU then | CCU now | heat now | age d
 --- | --- | --- | --- | --- | ---
-Jewelry Empire | 10-01 | 2085 | 2150 | 2732 | 23
-Drill for Eggs | 09-30 | 7282 | 10214 | 2474 | 15
-Huss Valley | 09-30 | 2803 | 27682 | 7761 | 32
-this underrated game (flamingo simulator) | 09-30 | 4645 | 5945 | 2552 | 8
-Clone to Steal Eggs | 09-29 | 8238 | 12357 | 3310 | 21
-Dig For Eggs | 09-28 | 8730 | 9096 | 1957 | 28
-+1 Lift Rock for Treasure | 09-27 | 4917 | 4218 | 1341 | 20
-+1 Strength for Eggs | 09-26 | 9963 | 16443 | 1334 | 20
-Sail For Eggs | 09-26 | 3456 | 4433 | 1254 | 24
-Where Did I Park? | 09-26 | 1821 | 785 | 737 | 18
-Where Did I Park? 🚗 | 09-26 | 2385 | 1570 | 859 | 19
-[BETA] Football WORLD Manager '27 | 09-26 | 3753 | 3097 | 1085 | 34
+Jewelry Empire | 10-01 | 2085 | 1885 | 2579 | 24
+Drill for Eggs | 09-30 | 7282 | 9299 | 2675 | 16
+Huss Valley | 09-30 | 2803 | 39912 | 7257 | 32
+this underrated game (flamingo simulator) | 09-30 | 4645 | 5755 | 2694 | 8
+Dig For Eggs | 09-28 | 8730 | 7472 | 2091 | 29
++1 Lift Rock for Treasure | 09-27 | 4917 | 3300 | 1491 | 20
++1 Strength for Eggs | 09-26 | 9963 | 9873 | 1305 | 20
+Sail For Eggs | 09-26 | 3456 | 3866 | 1239 | 24
+Where Did I Park? | 09-26 | 1821 | 664 | 698 | 18
+Where Did I Park? 🚗 | 09-26 | 2385 | 1852 | 912 | 19
+[BETA] Football WORLD Manager '27 | 09-26 | 3753 | 2527 | 1063 | 34
+[CHAPTER 2] Cut it Out! | 09-26 | 7142 | 8607 | 831 | 23
 
 ## Still unclaimed (strong numbers, nobody has copied the shape yet)
 
 name | copies | fav/1k | CCU | heat | age d
 --- | --- | --- | --- | --- | ---
-Huss Valley | 1 | 4.4 | 27682 | 7761 | 32
-ANMU 🪔 [HORROR] | 0 | 35.3 | 2298 | 5180 | 21
-[⚡️STORM] Fly To Steal An Egg | 1 | 5.1 | 1080 | 4147 | 23
-+1 Stone Skipping | 0 | 38.9 | 23264 | 3783 | 26
-Break and Steal an Egg | 0 | 9.1 | 41537 | 3692 | 26
-Clone to Steal Eggs | 0 | 5.0 | 12357 | 3310 | 21
-[MIDAS] Pull A Sword 🗡️ | 0 | 4.0 | 4421 | 2678 | 33
-this underrated game (flamingo simulator) | 0 | 4.0 | 5945 | 2552 | 8
-Make My Flag! | 1 | 2.1 | 3047 | 2314 | 31
-Rocket Rush | 1 | 3.5 | 4795 | 2156 | 16
-Carry Heavy Eggs! | 0 | 3.1 | 3123 | 2144 | 25
-[🍀 X2] Pets Universe! 🐾 | 1 | 38.8 | 15300 | 2020 | 38
+Huss Valley | 1 | 4.2 | 39912 | 7257 | 32
+ANMU 🪔 [HORROR] | 0 | 34.6 | 1853 | 6340 | 21
+Film Animals [1-5 Player] | 1 | 10.5 | 2749 | 5056 | 18
+[⚡️STORM] Fly To Steal An Egg | 1 | 5.2 | 665 | 4270 | 24
++1 Stone Skipping | 0 | 38.8 | 22099 | 3752 | 27
+Break and Steal an Egg | 0 | 9.0 | 28764 | 3733 | 27
+Clone to Steal Eggs | 0 | 5.0 | 10677 | 3660 | 21
+MMZ👽 | 0 | 41.8 | 5751 | 3384 | 18
+🌙 Jump Rope to the Moon! | 0 | 4.5 | 1454 | 3117 | 27
+[MIDAS] Pull A Sword 🗡️ | 0 | 4.0 | 3478 | 2781 | 33
+this underrated game (flamingo simulator) | 0 | 3.9 | 5755 | 2694 | 8
+Melt All The Ice!🧊 | 0 | 4.3 | 6586 | 2228 | 19
 
 ## Shapes already taken (launch burst has happened)
 
 shape | status | games | born together | burst was | median CCU
 --- | --- | --- | --- | --- | ---
-___ for eggs | CLOSED | 10 | 5 | 26d ago | 7542
-___ for animals | CLOSED | 6 | 5 | 28d ago | 4234
-steal ___ egg | CLOSED | 9 | 4 | 19d ago | 2213
-___ empire | CROWDING | 7 | 3 | 24d ago | 484
-___ an egg | CROWDING | 6 | 3 | 25d ago | 6602
+___ for animals | CLOSED | 7 | 6 | 27d ago | 3636
+steal ___ egg | CLOSED | 10 | 5 | 19d ago | 2213
+___ for eggs | CLOSED | 10 | 5 | 27d ago | 8228
+___ an egg | CLOSED | 7 | 4 | 25d ago | 1759
+___ empire | CROWDING | 7 | 3 | 25d ago | 442
+steal ___ | CROWDING | 9 | 3 | 25d ago | 2120
 
 ## Launching now (fewest visits per player, up to 90 days - wider net, context only)
 
 name | visits per player | CCU | heat | fav/1k | age d
 --- | --- | --- | --- | --- | ---
-Huss Valley | 129 | 27682 | 7761 | 4.4 | 32
-Steal A Car | 177 | 22116 | 5641 | 3.3 | 27
+Huss Valley | 138 | 39912 | 7257 | 4.2 | 32
+[⭐UPD3] Tower Incremental | 156 | 4959 | 6411 | 17.5 | 28
+ANMU 🪔 [HORROR] | 158 | 1853 | 6340 | 34.6 | 21
+Steal A Car | 170 | 13564 | 5871 | 3.3 | 27
+Crack the Egg 🥚 | 175 | 6148 | 5726 | 6.3 | 12
 Trev's Rivals Modded [admin-panel copy, skip] | 177 | 5124 | 5635 | 6.0 | 51
-[⭐UPD3] Tower Incremental | 192 | 5166 | 5214 | 17.3 | 28
-ANMU 🪔 [HORROR] | 193 | 2298 | 5180 | 35.3 | 21
-Animal Lucky Blocks | 203 | 508 | 4933 | 7.6 | 84
-Builders Sandbox 🧱 | 223 | 6262 | 4494 | 4.4 | 15
-Steal Animal Egg | 231 | 10214 | 4334 | 3.9 | 20
-[⚡️STORM] Fly To Steal An Egg | 241 | 1080 | 4147 | 5.1 | 23
-Crack the Egg 🥚 | 246 | 5706 | 4066 | 6.2 | 12
+Builders Sandbox 🧱 | 182 | 3804 | 5502 | 4.3 | 15
+[🎧] GUESS THE SONG! 0.5s | 183 | 4244 | 5461 | 14.0 | 32
+Animal Lucky Blocks | 191 | 490 | 5247 | 7.4 | 84
+Film Animals [1-5 Player] | 198 | 2749 | 5056 | 10.5 | 18
 
 ## Trending words (change over 7.0 days)
 
 term | was | now | share change
 --- | --- | --- | ---
-steal | 49 | 85 | +0.47pp
-egg | 19 | 38 | +0.26pp
-tower | 88 | 117 | +0.25pp
-build | 58 | 79 | +0.19pp
-eggs | 11 | 24 | +0.19pp
-clone | 1 | 7 | +0.10pp
-would rather | 11 | 18 | +0.09pp
-would | 11 | 18 | +0.09pp
-rather | 11 | 18 | +0.09pp
-empire | 12 | 19 | +0.08pp
-where | 1 | 6 | +0.08pp
-tycoon | 71 | 87 | +0.08pp
+steal | 49 | 89 | +0.50pp
+egg | 19 | 42 | +0.32pp
+eggs | 11 | 26 | +0.21pp
+tower | 89 | 117 | +0.19pp
+build | 59 | 81 | +0.18pp
+clone | 1 | 7 | +0.09pp
+empire | 12 | 20 | +0.09pp
+admin | 8 | 15 | +0.09pp
+saem | 0 | 5 | +0.08pp
+would rather | 11 | 18 | +0.08pp
+would | 11 | 18 | +0.08pp
+rather | 11 | 18 | +0.08pp
 
 ## Discover shelves (not genres - the genre field is dead)
 
 shelf | games | rising | total CCU | median CCU | median heat | median fav/1k
 --- | --- | --- | --- | --- | --- | ---
-Top Playing Now | 47 | 11 | 1775284 | 8678 | 88 | 3.0
-Top Trending | 254 | 98 | 1276755 | 2344 | 198 | 7.6
-Unclassified | 1040 | 166 | 753520 | 314 | 50 | 5.0
-Up-and-Coming | 99 | 81 | 191668 | 959 | 170 | 8.8
-Fun with Friends | 83 | 13 | 176870 | 1428 | 80 | 4.0
-Top Revisited | 69 | 6 | 128731 | 844 | 68 | 3.0
+Top Playing Now | 44 | 9 | 1830958 | 10708 | 90 | 3.1
+Top Trending | 260 | 102 | 1408533 | 2609 | 208 | 7.6
+Unclassified | 1018 | 161 | 748689 | 334 | 51 | 5.0
+Up-and-Coming | 127 | 104 | 317408 | 1330 | 348 | 8.1
+Fun with Friends | 82 | 12 | 189484 | 1925 | 81 | 4.5
+Top Revisited | 67 | 5 | 132880 | 910 | 68 | 3.0
 
 ## Opportunity terms (high demand, few games)
 
 term | games | devs | past peak | median CCU | peak CCU | avg heat | avg age d
 --- | --- | --- | --- | --- | --- | --- | ---
-sea | 3 | 3 | 100% | 7603 | 13643 | 365 | 135
-legacy | 3 | 3 | 33% | 5648 | 6844 | 230 | 205
-cut | 3 | 3 | 67% | 4468 | 6544 | 288 | 84
-anime rng | 3 | 3 | 100% | 3678 | 4996 | 455 | 173
-spot | 3 | 3 | 100% | 3656 | 6812 | 430 | 75
-treasure | 3 | 3 | 33% | 3278 | 3307 | 850 | 41
-step | 3 | 3 | 100% | 3197 | 3494 | 120 | 79
-troll tower | 3 | 3 | 100% | 2972 | 4262 | 204 | 111
-crack | 3 | 3 | 0% | 2868 | 5590 | 3076 | 76
-steal anime | 3 | 3 | 67% | 2814 | 4425 | 598 | 40
-wash | 3 | 3 | 67% | 2617 | 2907 | 168 | 59
-tnt | 3 | 3 | 100% | 2468 | 3152 | 119 | 82
+rich | 3 | 3 | 50% | 13964 | 25007 | 1336 | 49
+legacy | 3 | 3 | 33% | 5830 | 7050 | 233 | 205
+squishy dumplings | 3 | 3 | 50% | 5618 | 22595 | 232405 | 67
+crack | 3 | 3 | 0% | 4446 | 5246 | 3397 | 76
+anime rng | 3 | 3 | 100% | 3843 | 4878 | 450 | 173
+spot | 3 | 3 | 67% | 3656 | 6721 | 465 | 75
+treasure | 3 | 3 | 33% | 3350 | 3759 | 897 | 41
+mini | 3 | 3 | 100% | 3283 | 9626 | 197 | 123
+wash | 3 | 3 | 67% | 3160 | 4580 | 269 | 59
+steal anime | 3 | 3 | 67% | 3125 | 3816 | 621 | 40
+troll tower | 3 | 3 | 100% | 2972 | 4262 | 201 | 111
+wings | 3 | 3 | 67% | 2609 | 16112 | 257 | 139
 
 ## Crowded terms (high demand, many games already)
 
 term | games | devs | median CCU | avg heat
 --- | --- | --- | --- | ---
-murder | 4 | 4 | 4672 | 167
-pull | 4 | 4 | 3890 | 742
-steal egg | 6 | 6 | 4468 | 1460
-dungeon | 4 | 4 | 3167 | 36
-chicken | 5 | 5 | 3166 | 107
-fighter | 4 | 4 | 2806 | 212
-strength | 4 | 4 | 2702 | 384
-piece | 4 | 4 | 2618 | 225
-mini | 4 | 4 | 2292 | 151
-aura | 6 | 6 | 2778 | 130
+murder | 4 | 4 | 5205 | 185
+sea | 4 | 4 | 4237 | 300
+pull | 4 | 4 | 3954 | 769
+dungeon | 4 | 4 | 3113 | 37
+fighter | 4 | 4 | 3025 | 218
+chicken | 5 | 5 | 3166 | 109
+piece | 4 | 4 | 2670 | 225
+strength | 4 | 4 | 2373 | 371
+mount | 4 | 4 | 2344 | 395
+days | 8 | 8 | 3186 | 370
 
 ## Saturated terms (many games, low demand each)
 
@@ -165,61 +169,61 @@ _None in this sample._
 
 name | CCU | heat | fav/1k | age d
 --- | --- | --- | --- | ---
-Huss Valley | 27682 | 7761 | 4.4 | 32
-Steal A Car | 22116 | 5641 | 3.3 | 27
+Voltline: Electric Scooters [Early Testing] | 4313 | 22555 | 12.6 | 23
+[UPD 2🔭] Guess The Real Size! | 4233 | 10126 | 14.8 | 18
+[INDEX!⭐] Pack A Rare Card | 2604 | 9070 | 42.3 | 42
+Huss Valley | 39912 | 7257 | 4.2 | 32
+[⭐UPD3] Tower Incremental | 4959 | 6411 | 17.5 | 28
+ANMU 🪔 [HORROR] | 1853 | 6340 | 34.6 | 21
+Steal A Car | 13564 | 5871 | 3.3 | 27
+Crack the Egg 🥚 | 6148 | 5726 | 6.3 | 12
 Trev's Rivals Modded [admin-panel copy, skip] | 5124 | 5635 | 6.0 | 51
-Steal An Evil Egg 😈 | 4062 | 5630 | 3.9 | 25
-Lift Rock For Eggs | 146 | 5493 | 91.6 | 5
-[⭐UPD3] Tower Incremental | 5166 | 5214 | 17.3 | 28
-Film Animals [1-5 Player] | 2814 | 5193 | 10.4 | 18
-ANMU 🪔 [HORROR] | 2298 | 5180 | 35.3 | 21
-[🥚] Crack The Egg | 5935 | 5156 | 4.3 | 14
-[🎧] GUESS THE SONG! 0.5s | 1964 | 5126 | 14.3 | 32
-Builders Sandbox 🧱 | 6262 | 4494 | 4.4 | 15
-ONE TAP PISTOLS [UPDATE] | 1868 | 4335 | 3.3 | 23
-Steal Animal Egg | 10214 | 4334 | 3.9 | 20
-MMZ👽 | 8382 | 4233 | 42.4 | 17
-[⚡️STORM] Fly To Steal An Egg | 1080 | 4147 | 5.1 | 23
-Crack the Egg 🥚 | 5706 | 4066 | 6.2 | 12
-+1 Stone Skipping | 23264 | 3783 | 38.9 | 26
-Break and Steal an Egg | 41537 | 3692 | 9.1 | 26
-Drive an Egg | 1525 | 3450 | 2.0 | 22
-Clone to Steal Eggs | 12357 | 3310 | 5.0 | 21
+Builders Sandbox 🧱 | 3804 | 5502 | 4.3 | 15
+[🎧] GUESS THE SONG! 0.5s | 4244 | 5461 | 14.0 | 32
+How Close Are We? [2 Player Quiz] | 2347 | 5148 | 8.6 | 17
+Lift Rock For Eggs | 152 | 5118 | 91.7 | 5
+Film Animals [1-5 Player] | 2749 | 5056 | 10.5 | 18
+Steal An Evil Egg 😈 | 2229 | 5028 | 3.8 | 25
+Steal Animal Egg | 7508 | 4759 | 3.9 | 20
+[🥚] Crack The Egg | 4107 | 4458 | 4.4 | 15
+[⚡️STORM] Fly To Steal An Egg | 665 | 4270 | 5.2 | 24
+SAE but F2P ADMIN PANEL [admin-panel copy, skip] | 2204 | 4225 | 3.5 | 10
+[FREE MACRO] BSS 1:1 | 740 | 4172 | 4.6 | 12
 
 ## New releases spotted in window
 
 name | CCU | heat | fav/1k | age d
 --- | --- | --- | --- | ---
 Rauls Rivals Modded  | 30176 | 28838 | 4.9 | 13
-Huss Valley | 27682 | 7761 | 4.4 | 32
-Steal A Car | 22116 | 5641 | 3.3 | 27
-Steal An Evil Egg 😈 | 4062 | 5630 | 3.9 | 25
-Lift Rock For Eggs | 146 | 5493 | 91.6 | 5
-[⭐UPD3] Tower Incremental | 5166 | 5214 | 17.3 | 28
-Film Animals [1-5 Player] | 2814 | 5193 | 10.4 | 18
-ANMU 🪔 [HORROR] | 2298 | 5180 | 35.3 | 21
-[🥚] Crack The Egg | 5935 | 5156 | 4.3 | 14
-[🎧] GUESS THE SONG! 0.5s | 1964 | 5126 | 14.3 | 32
-Builders Sandbox 🧱 | 6262 | 4494 | 4.4 | 15
-ONE TAP PISTOLS [UPDATE] | 1868 | 4335 | 3.3 | 23
-Steal Animal Egg | 10214 | 4334 | 3.9 | 20
-MMZ👽 | 8382 | 4233 | 42.4 | 17
-[⚡️STORM] Fly To Steal An Egg | 1080 | 4147 | 5.1 | 23
+Voltline: Electric Scooters [Early Testing] | 4313 | 22555 | 12.6 | 23
+[UPD 2🔭] Guess The Real Size! | 4233 | 10126 | 14.8 | 18
+[INDEX!⭐] Pack A Rare Card | 2604 | 9070 | 42.3 | 42
+Huss Valley | 39912 | 7257 | 4.2 | 32
+[⭐UPD3] Tower Incremental | 4959 | 6411 | 17.5 | 28
+ANMU 🪔 [HORROR] | 1853 | 6340 | 34.6 | 21
+Steal A Car | 13564 | 5871 | 3.3 | 27
+Crack the Egg 🥚 | 6148 | 5726 | 6.3 | 12
+Builders Sandbox 🧱 | 3804 | 5502 | 4.3 | 15
+[🎧] GUESS THE SONG! 0.5s | 4244 | 5461 | 14.0 | 32
+How Close Are We? [2 Player Quiz] | 2347 | 5148 | 8.6 | 17
+Lift Rock For Eggs | 152 | 5118 | 91.7 | 5
+Film Animals [1-5 Player] | 2749 | 5056 | 10.5 | 18
+Steal An Evil Egg 😈 | 2229 | 5028 | 3.8 | 25
 
 ## Title shapes currently in use
 
-- `___ for eggs` — 10 games, median 7542 CCU. Blank filled by: climb, dig, drill, jump, race, sail, strength, swim
-- `animal ___` — 4 games, median 10018 CCU. Blank filled by: daycare, hospital, jump, restaurant
-- `___ an egg` — 6 games, median 6602 CCU. Blank filled by: be, break, drive, pull, shuffle, steal
-- `murder ___` — 3 games, median 7462 CCU. Blank filled by: arena, duels, infinite
-- `___ for animals` — 6 games, median 4234 CCU. Blank filled by: backflip, jump, motorcycle, roller, skateboard, surf
-- `grow ___ fighter` — 3 games, median 5190 CCU. Blank filled by: chicken, dragon, pet
-- `___ duels` — 11 games, median 2794 CCU. Blank filled by: archery, ball, car, cowboy, deagle, knife, murder, puzzle
-- `steal an ___ egg` — 4 games, median 4257 CCU. Blank filled by: anime, clown, evil
-- `survive the ___` — 5 games, median 3453 CCU. Blank filled by: apocalypse, hulk, slope, swarm, tsunami
-- `___ piece` — 4 games, median 3804 CCU. Blank filled by: legacy, lineage, rise, sailor
-- `steal ___ egg` — 9 games, median 2213 CCU. Blank filled by: an, animal, baddie, brainrot, capybara, car, genshin, hacker
-- `___ war` — 3 games, median 3596 CCU. Blank filled by: mini, navy, total
+- `___ for eggs` — 10 games, median 8228 CCU. Blank filled by: climb, dig, drill, jump, race, sail, strength, swim
+- `animal ___` — 4 games, median 11571 CCU. Blank filled by: daycare, hospital, jump, restaurant
+- `murder ___` — 3 games, median 8435 CCU. Blank filled by: arena, duels, infinite
+- `grow ___ fighter` — 3 games, median 5628 CCU. Blank filled by: chicken, dragon, pet
+- `___ duels` — 11 games, median 3131 CCU. Blank filled by: archery, ball, car, cowboy, deagle, knife, murder, puzzle
+- `___ for animals` — 7 games, median 3636 CCU. Blank filled by: backflip, jump, motorcycle, roller, skate, skateboard, surf
+- `___ house` — 3 games, median 4580 CCU. Blank filled by: build, flip, wash
+- `survive the ___` — 5 games, median 3477 CCU. Blank filled by: apocalypse, hulk, slope, swarm, tsunami
+- `crack the ___` — 3 games, median 4446 CCU. Blank filled by: code, egg
+- `steal an ___ egg` — 4 games, median 3816 CCU. Blank filled by: anime, clown, evil
+- `___ piece` — 4 games, median 3812 CCU. Blank filled by: legacy, lineage, rise, sailor
+- `___ war` — 3 games, median 4235 CCU. Blank filled by: mini, navy, total
 
 ## How to read this
 
@@ -239,9 +243,9 @@ MMZ👽 | 8382 | 4233 | 42.4 | 17
 
 ## Experiments (collecting, not proven)
 
-- Copy hunt: 18 searches in 7 days for 18 picks, 205 games found that Discover never showed.
-- Passes: 39 of 49 picks sell any, median 6 passes at a median 199 R$. Most common: vip (14, 155 R$), starter pack (6, 39 R$), 2x cash (5, 299 R$), x2 money (5, 249 R$), x2 growth (5, 229 R$), 2x speed (3, 80 R$), x2 cash (3, 80 R$), 2x hatch speed (2, 499 R$).
-- Discover by country: of 6 new games also shown globally, 0 were shown regionally first.
+- Copy hunt: 24 searches in 7 days for 24 picks, 269 games found that Discover never showed.
+- Passes: 40 of 51 picks sell any, median 6 passes at a median 199 R$. Most common: vip (14, 155 R$), starter pack (6, 39 R$), 2x cash (5, 299 R$), x2 money (5, 249 R$), x2 growth (5, 229 R$), 2x hatch speed (3, 499 R$), 2x speed (3, 80 R$), x2 cash (3, 80 R$).
+- Discover by country: of 30 new games also shown globally, 6 were shown regionally first.
 
 ## Known limits of this data
 
