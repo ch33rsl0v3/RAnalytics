@@ -1,175 +1,169 @@
 # RAnalytics brief — 2026-10-04
 
-Oldest reading in this sample: 36.4 hours ago.
+Oldest reading in this sample: 44.4 hours ago.
 
-Sample: 1761 games passing filters, 6767 tracked in total. 138 collection runs over 32.5 days since 2026-09-01.
+Sample: 1863 games passing filters, 6848 tracked in total. 139 collection runs over 33.1 days since 2026-09-01.
 
-Terms by zone: 31 target, 29 crowded, 0 saturated, 0 noise. An empty zone below means no term landed there, not that the check failed.
+Terms by zone: 33 target, 27 crowded, 0 saturated, 0 noise. An empty zone below means no term landed there, not that the check failed.
 
 ## Track record of earlier calls
 
-Terms and Rising list: 616 calls checked after 10+ days, against the market: 73 grew, 40 held, 503 faded (18% held or grew).
+Terms and Rising list: 616 calls checked after 10+ days, against the market: 72 grew, 35 held, 509 faded (17% held or grew).
 
 Biggest misses: dungeon (-100% vs market), jump steal (-100% vs market), how (-100% vs market), build base (-100% vs market), fishing (-100% vs market)
 
-Best calls: 💭Dream Car Collection [LUC (+488% vs market), Build the Pyramid! (+425% vs market), Buy A Pet (+424% vs market), [UPD] 2 Player Raid Tycoon (+417% vs market), Buy A Pet (+388% vs market)
+Best calls: Buy A Pet (+559% vs market), Buy A Pet (+517% vs market), Build the Pyramid! (+425% vs market), [UPD] 2 Player Raid Tycoon (+420% vs market), 💭Dream Car Collection [LUC (+390% vs market)
 
 ## Taking off now (up to 30 days old, heat 3500+ - in the backtest about 6 in 10 of these beat the market 2x within three weeks; untouched themes first)
 
 name | theme | heat | CCU | vs market | fav/1k | age d | 3d pace | passes
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-DUCTWORKS / Multiplayer upd | no copies yet | 12156 | 1214 | - | 40.0 | 23 | - | -
-dogs | no copies yet | 10100 | 4291 | - | 22.4 | 26 | - | -
-Roria Unbound | no copies yet | 9861 | 2060 | 1.2x | 30.7 | 3 | - | 0
-Voltline: Electric Scooters [Early Testing | no copies yet | 7202 | 1594 | 0.4x | 9.9 | 24 | - | 4 (99-499 R$)
-Sarab | no copies yet | 6621 | 6023 | - | 11.6 | 9 | - | -
-[NEW] Bahay Kubo Garden 🌱 | no copies yet | 6301 | 4637 | - | 70.7 | 19 | - | -
-[PAINTER BEE] Re://:Swarm | no copies yet | 5905 | 397 | 1.1x | 29.6 | 12 | - | 7 (9-199 R$)
-[❓] Scam With Your Friends | no copies yet | 4866 | 1304 | - | 15.5 | 19 | - | -
-[NEW BOSS] Bees 1:1 | no copies yet | 4812 | 881 | 2.7x | 4.3 | 13 | 3.6x | 2 (150-199 R$)
-[⭐UPD3] Tower Incremental | no copies yet; past its peak | 4673 | 3414 | 0.9x | 17.5 | 29 | 1.1x | 0
-Film Animals [1-5 Player] | no copies yet | 4361 | 2289 | 1.0x | 11.2 | 19 | - | 0
-🔥 INFs ADMINS + OP EGGS [INSANE] | no copies yet | 4009 | 758 | 4.0x | 117.0 | 6 | - | 5 (99-549 R$)
-Drive A Tuk Tuk | no copies yet | 3955 | 1243 | 1.4x | 10.1 | 21 | - | 16 (15-299 R$)
-Start a Farm! | no copies yet | 3910 | 3392 | - | 4.2 | 25 | - | -
-[UPD 2🔭] Guess The Real Size! | 2 similar: Guess The Right Size! (102), Guess the Character S… (6) | 3913 | 2680 | 0.6x | 14.8 | 20 | - | 4 (59-99 R$)
-⛳ Clean all the Balls | follows Clean all the Leaves (14 989 playing) | 4920 | 1998 | - | 4.8 | 23 | - | -
-Lift Rock For Eggs | follows +1 Lift Rock for Treasure (4 739 playing) | 4339 | 272 | 1.8x | 93.2 | 6 | - | 6 (120-1499 R$)
-Crack the Egg 🥚 | 5 similar: CRACK the egg (74), Crack a GIANT Egg (40) +3; past its peak | 4333 | 2946 | 3.3x | 6.5 | 13 | 2.8x | 0
-Steal Animal Egg | follows Steal An Egg (1 955 332 playing) | 3895 | 19398 | 3.6x | 3.8 | 22 | - | 9 (3-799 R$)
+DUCTWORKS / Multiplayer upd | no copies yet | 9239 | 1908 | 1.4x | 36.0 | 23 | - | 3 (50-120 R$)
+Roria Unbound | no copies yet | 8031 | 2988 | 1.7x | 29.9 | 3 | - | 0
+[PAINTER BEE] Re://:Swarm | no copies yet | 5905 | 397 | 1.1x | 29.6 | 13 | - | 7 (9-199 R$)
+dogs | no copies yet | 5546 | 10736 | 2.6x | 18.7 | 26 | - | 1 (299-299 R$)
+[NEW BOSS] Bees 1:1 | no copies yet | 4812 | 881 | 2.2x | 4.3 | 14 | 2.5x | 2 (150-199 R$)
+[❓] Scam With Your Friends | no copies yet | 4516 | 1690 | 1.9x | 15.5 | 19 | - | 5 (49-199 R$)
+Voltline: Electric Scooters [Early Testing | no copies yet | 4146 | 12506 | 2.8x | 7.1 | 25 | - | 4 (99-499 R$)
+Sarab | no copies yet | 4033 | 28601 | 0.8x | 8.8 | 10 | - | 1 (19-19 R$)
+🔥 INFs ADMINS + OP EGGS [INSANE] | no copies yet | 4009 | 758 | 4.0x | 117.0 | 7 | - | 5 (99-549 R$)
+[UPD4] Tower Incremental | no copies yet | 3975 | 7167 | 1.9x | 17.3 | 30 | 1.7x | 0
+[UPD 2🔭] Guess The Real Size! | 1 similar: Guess The Right Size! (88) | 3792 | 4040 | 0.9x | 15.0 | 20 | - | 4 (59-99 R$)
+Lift Rock For Eggs | follows +1 Lift Rock for Treasure (5 147 playing) | 4339 | 272 | 1.8x | 93.2 | 7 | - | 6 (120-1499 R$)
+Crack the Egg 🥚 | 6 similar: Crack The Egg (4 388), CRACK the egg (96) +4 | 3746 | 6630 | 9.4x | 6.5 | 14 | 2.0x | 0
 
 ## Early radar (100-1000 players, heat 1500+ but under the main line - not proven, scored on its own record)
 
 name | theme | heat | CCU | vs market | fav/1k | age d | 3d pace | passes
 --- | --- | --- | --- | --- | --- | --- | --- | ---
-[⛩️] Jump To Steal Anime Eggs | no copies yet | 3179 | 177 | 4.0x | 236.1 | 14 | - | 2 (36-36 R$)
-Nuclear Reactor Simulator | no copies yet | 3010 | 462 | - | 25.8 | 12 | - | -
-[W2] Lift a Karen | no copies yet | 2816 | 859 | 2.3x | 4.8 | 19 | - | 0
-Steal An Egg For SCP | no copies yet | 2468 | 755 | 1.7x | 3.3 | 23 | - | 7 (19-799 R$)
-BSSM - INF Rebirths! | no copies yet; past its peak | 2278 | 316 | 1.9x | 5.0 | 28 | 1.7x | 4 (100-200 R$)
-[🎁LUCKY] Break Eggs to Steal Pets! | no copies yet | 2273 | 233 | 0.9x | 86.9 | 16 | - | 5 (3-299 R$)
-[UPD] Fly To Steal An Egg | follows Jump To Steal An Egg (2 712 playing); past its peak | 2327 | 816 | 2.3x | 4.8 | 25 | - | 2 (249-299 R$)
-[ NEW ] Steal A Genshin Egg ! | follows Steal An Egg (1 955 332 playing) | 2106 | 266 | 0.9x | 73.4 | 17 | - | 2 (149-299 R$)
+[⛩️] Jump To Steal Anime Eggs | no copies yet | 3243 | 333 | 7.6x | 250.9 | 15 | - | 2 (36-36 R$)
+Nuclear Reactor Simulator | no copies yet | 3010 | 462 | - | 25.8 | 12 | - | 7 (9-249 R$)
+BSSM - INF Rebirths! | no copies yet | 2052 | 599 | 3.6x | 4.7 | 29 | 1.7x | 4 (100-200 R$)
+Steal An Egg For SCP | no copies yet | 2023 | 656 | 1.5x | 3.3 | 24 | - | 7 (19-799 R$)
+[🐙BOSS] Break Eggs to Steal Pets! | no copies yet | 1758 | 408 | 1.5x | 87.6 | 16 | - | 5 (3-299 R$)
+[UPD] Fly To Steal An Egg | follows Jump To Steal An Egg (2 712 playing); past its peak | 2107 | 808 | 2.2x | 4.4 | 25 | 1.9x | 2 (249-299 R$)
+[ NEW ] Steal A Genshin Egg ! | follows Steal An Egg (1 737 745 playing) | 1744 | 440 | 1.5x | 73.5 | 18 | - | 2 (149-299 R$)
 
 ## Caught in the last 7 days, now under the line (heat sinks midweek with the rest of Roblox)
 
 name | caught | CCU then | CCU now | heat now | age d
 --- | --- | --- | --- | --- | ---
+⛳ Clean all the Balls [2X Luck] | 10-04 | 3090 | 7144 | 3466 | 24
+Start a Farm! | 10-04 | 3032 | 1048 | 1894 | 25
+[NEW] Bahay Kubo Garden 🌱 | 10-04 | 3550 | 1988 | 2495 | 20
 Steal an Clown Egg | 10-03 | 6837 | 5982 | 3391 | 10
-[🥚] Crack The Egg | 10-02 | 5246 | 2604 | 2216 | 16
-Steal An Evil Egg 😈 | 10-02 | 4062 | 4464 | 3336 | 27
-Steal ASMR! | 10-02 | 10962 | 16095 | 3500 | 25
-[UPD] Fly To Steal An Egg | 10-02 | 802 | 816 | 2327 | 25
-Builders Sandbox 🧱 | 10-01 | 1862 | 2236 | 2845 | 16
-Steal A Car | 10-01 | 10812 | 13445 | 2565 | 29
-[UPD] Jewelry Empire | 10-01 | 2085 | 1921 | 2963 | 25
-(🌀) Drill for Eggs | 09-30 | 7282 | 19565 | 3140 | 17
-Huss Valley | 09-30 | 2803 | 63864 | 6654 | 33
-this underrated game (flamingo simulator) | 09-30 | 4645 | 1718 | 698 | 10
-+1 Stone Skipping | 09-29 | 12251 | 25512 | 3142 | 28
+Drive A Tuk Tuk | 10-03 | 1833 | 3991 | 2941 | 22
+[🥚] Crack The Egg | 10-02 | 5246 | 4388 | 1929 | 16
+Steal An Evil Egg 😈 | 10-02 | 4062 | 6016 | 2623 | 27
+Steal ASMR! | 10-02 | 10962 | 19130 | 2855 | 26
+Film Animals [1-5 Player] | 10-02 | 2749 | 7782 | 3115 | 20
+[UPD] Fly To Steal An Egg | 10-02 | 802 | 808 | 2107 | 25
+Steal Animal Egg | 10-02 | 4615 | 20707 | 3317 | 22
+Builders Sandbox 🧱 | 10-01 | 1862 | 6541 | 2300 | 17
 
 ## Still unclaimed (strong numbers, nobody has copied the shape yet)
 
 name | copies | fav/1k | CCU | heat | age d
 --- | --- | --- | --- | --- | ---
-DUCTWORKS / Multiplayer upd | 0 | 40.0 | 1214 | 12156 | 23
-dogs | 0 | 22.4 | 4291 | 10100 | 26
-Roria Unbound | 0 | 30.7 | 2060 | 9861 | 3
-[SECRETS!⭐] Pack A Rare Card | 0 | 38.9 | 3590 | 7207 | 43
-Voltline: Electric Scooters [Early Testing | 0 | 9.9 | 1594 | 7202 | 24
-Huss Valley | 1 | 3.1 | 63864 | 6654 | 33
-Sarab | 0 | 11.6 | 6023 | 6621 | 9
-[NEW] Bahay Kubo Garden 🌱 | 0 | 70.7 | 4637 | 6301 | 19
-[❓] Scam With Your Friends | 0 | 15.5 | 1304 | 4866 | 19
-[NEW BOSS] Bees 1:1 | 0 | 4.3 | 881 | 4812 | 13
-feed the pit | 0 | 44.9 | 2298 | 4802 | 39
-Drive A Tuk Tuk | 0 | 10.1 | 1243 | 3955 | 21
+DUCTWORKS / Multiplayer upd | 0 | 36.0 | 1908 | 9239 | 23
+Roria Unbound | 0 | 29.9 | 2988 | 8031 | 3
+dogs | 0 | 18.7 | 10736 | 5546 | 26
+[SECRETS!⭐] Pack A Rare Card | 0 | 36.8 | 4650 | 5523 | 44
+[NEW BOSS] Bees 1:1 | 0 | 4.3 | 881 | 4812 | 14
+Huss Valley | 1 | 2.9 | 107349 | 4746 | 34
+[❓] Scam With Your Friends | 0 | 15.5 | 1690 | 4516 | 19
+Voltline: Electric Scooters [Early Testing | 0 | 7.1 | 12506 | 4146 | 25
+Sarab | 0 | 8.8 | 28601 | 4033 | 10
+[UPD 2🔭] Guess The Real Size! | 0 | 15.0 | 4040 | 3792 | 20
+feed the pit | 0 | 44.1 | 2587 | 3227 | 40
+Film Animals [1-5 Player] | 1 | 10.9 | 7782 | 3115 | 20
 
 ## Shapes already taken (launch burst has happened)
 
 shape | status | games | born together | burst was | median CCU
 --- | --- | --- | --- | --- | ---
-steal ___ egg | CLOSED | 10 | 5 | 20d ago | 2472
+steal ___ egg | CLOSED | 11 | 6 | 21d ago | 341
 ___ for eggs | CLOSED | 10 | 5 | 28d ago | 8530
-___ for animals | CLOSED | 6 | 5 | 28d ago | 6014
-___ an egg | CLOSED | 7 | 4 | 26d ago | 3959
-___ empire | CROWDING | 7 | 3 | 26d ago | 407
-steal ___ | CROWDING | 11 | 3 | 26d ago | 1561
+___ for animals | CLOSED | 6 | 5 | 29d ago | 6014
+___ an egg | CLOSED | 7 | 4 | 27d ago | 3894
+___ empire | CROWDING | 7 | 3 | 26d ago | 403
+steal ___ | CROWDING | 11 | 3 | 27d ago | 1405
+lift ___ | CROWDING | 5 | 3 | 18d ago | 364
 
 ## Launching now (fewest visits per player, up to 90 days - wider net, context only)
 
 name | visits per player | CCU | heat | fav/1k | age d
 --- | --- | --- | --- | --- | ---
-Clean The Squishy Dumplings | 19 | 2225 | 52992 | 5.1 | 87
-DUCTWORKS / Multiplayer upd | 82 | 1214 | 12156 | 40.0 | 23
-dogs | 99 | 4291 | 10100 | 22.4 | 26
-Roria Unbound | 101 | 2060 | 9861 | 30.7 | 3
-Survive a Million Monkeys | 124 | 4781 | 8058 | 18.4 | 54
-[SECRETS!⭐] Pack A Rare Card | 139 | 3590 | 7207 | 38.9 | 43
-Voltline: Electric Scooters [Early Testing | 139 | 1594 | 7202 | 9.9 | 24
-Huss Valley | 150 | 63864 | 6654 | 3.1 | 33
-Sarab | 151 | 6023 | 6621 | 11.6 | 9
-[NEW] Bahay Kubo Garden 🌱 | 159 | 4637 | 6301 | 70.7 | 19
+Clean The Squishy Dumplings | 23 | 1785 | 43446 | 4.6 | 88
+DUCTWORKS / Multiplayer upd | 108 | 1908 | 9239 | 36.0 | 23
+Roria Unbound | 125 | 2988 | 8031 | 29.9 | 3
+Anime Zero [RELEASE] 🎉 | 167 | 8676 | 5999 | 6.4 | 80
+[PAINTER BEE] Re://:Swarm | 169 | 397 | 5905 | 29.6 | 13
+dogs | 180 | 10736 | 5546 | 18.7 | 26
+[SECRETS!⭐] Pack A Rare Card | 181 | 4650 | 5523 | 36.8 | 44
+Survive a Million Monkeys | 205 | 8099 | 4868 | 18.9 | 55
+[NEW BOSS] Bees 1:1 | 208 | 881 | 4812 | 4.3 | 14
+Huss Valley | 211 | 107349 | 4746 | 2.9 | 34
 
 ## Trending words (change over 7.0 days)
 
 term | was | now | share change
 --- | --- | --- | ---
-steal | 52 | 105 | +0.61pp
-egg | 23 | 45 | +0.25pp
-asmr | 11 | 23 | +0.14pp
-squishy | 10 | 21 | +0.13pp
+steal | 53 | 106 | +0.59pp
+egg | 22 | 45 | +0.26pp
+build | 62 | 90 | +0.19pp
+asmr | 11 | 24 | +0.15pp
+eggs | 16 | 30 | +0.15pp
 clone | 2 | 11 | +0.13pp
-eggs | 16 | 28 | +0.12pp
 guess | 16 | 28 | +0.12pp
-build | 62 | 84 | +0.11pp
-scp | 11 | 20 | +0.10pp
+lifting | 1 | 8 | +0.10pp
+squishy | 11 | 20 | +0.09pp
+friends | 5 | 12 | +0.09pp
 noob | 2 | 8 | +0.08pp
-morphs | 5 | 11 | +0.07pp
-streets | 1 | 6 | +0.07pp
+ice | 4 | 10 | +0.07pp
 
 ## Discover shelves (not genres - the genre field is dead)
 
 shelf | games | rising | total CCU | median CCU | median heat | median fav/1k
 --- | --- | --- | --- | --- | --- | ---
-Top Playing Now | 48 | 10 | 2757671 | 11597 | 108 | 3.0
-Top Trending | 271 | 112 | 1798479 | 3200 | 298 | 7.9
-Unclassified | 1153 | 178 | 957301 | 361 | 55 | 4.9
-Up-and-Coming | 131 | 102 | 334148 | 1490 | 450 | 8.1
-Fun with Friends | 88 | 16 | 239194 | 1913 | 112 | 4.8
-Top Revisited | 70 | 6 | 159019 | 1150 | 89 | 2.9
+Top Playing Now | 49 | 10 | 2525510 | 9613 | 105 | 3.0
+Top Trending | 271 | 110 | 1740212 | 3168 | 287 | 7.5
+Unclassified | 1251 | 197 | 969451 | 325 | 56 | 5.2
+Up-and-Coming | 133 | 106 | 353986 | 1490 | 472 | 9.2
+Fun with Friends | 88 | 16 | 247810 | 1988 | 106 | 4.8
+Top Revisited | 71 | 6 | 171041 | 1150 | 83 | 2.8
 
 ## Opportunity terms (high demand, few games)
 
 term | games | devs | past peak | median CCU | peak CCU | avg heat | avg age d
 --- | --- | --- | --- | --- | --- | --- | ---
-rich | 3 | 3 | 100% | 16746 | 29981 | 1211 | 50
-kill | 3 | 3 | 50% | 6776 | 33767 | 1468 | 87
-spot | 3 | 3 | 67% | 5947 | 6866 | 414 | 77
-seek | 3 | 3 | 0% | 5036 | 8914 | 76 | 186
-swarm | 3 | 3 | 50% | 4725 | 5926 | 2164 | 107
-flag | 3 | 3 | 0% | 4599 | 17226 | 841 | 83
-anime rng | 3 | 3 | 100% | 4294 | 4555 | 428 | 174
-crack | 3 | 3 | 100% | 3800 | 4929 | 2186 | 77
-mini | 3 | 3 | 100% | 3799 | 11497 | 163 | 124
-size | 3 | 3 | 100% | 3401 | 4315 | 1630 | 26
-kart | 3 | 3 | 33% | 3188 | 5650 | 55 | 215
-troll tower | 3 | 3 | 67% | 3098 | 4709 | 208 | 113
+rich | 3 | 3 | 100% | 15089 | 29981 | 1034 | 51
+spot | 3 | 3 | 67% | 5620 | 6676 | 396 | 77
+seek | 3 | 3 | 0% | 4840 | 9124 | 74 | 186
+survive verity | 3 | 3 | 100% | 4699 | 6838 | 195 | 74
+swarm | 3 | 3 | 0% | 4649 | 5926 | 2155 | 107
+kill | 3 | 3 | 50% | 4645 | 30038 | 920 | 87
+flag | 3 | 3 | 0% | 4456 | 17226 | 710 | 84
+anime rng | 3 | 3 | 67% | 4071 | 4555 | 422 | 175
+cut grass | 3 | 3 | 100% | 3851 | 4480 | 1043 | 55
+crack | 3 | 3 | 0% | 3800 | 4929 | 1895 | 78
+kart | 3 | 3 | 33% | 3188 | 8162 | 70 | 215
+steal anime | 3 | 3 | 50% | 3140 | 4015 | 1569 | 32
 
 ## Crowded terms (high demand, many games already)
 
 term | games | devs | median CCU | avg heat
 --- | --- | --- | --- | ---
-dungeon | 4 | 4 | 4946 | 62
-dance | 4 | 4 | 4729 | 740
-sea | 4 | 4 | 4576 | 290
-legacy | 5 | 5 | 4881 | 4001
-pull | 4 | 4 | 4027 | 703
-paint | 7 | 7 | 5036 | 828
-stop | 4 | 4 | 3424 | 597
-piece | 4 | 4 | 2755 | 233
-murder | 5 | 5 | 3041 | 237
-days | 8 | 8 | 3680 | 379
+dance | 4 | 4 | 4729 | 658
+sea | 4 | 4 | 4576 | 276
+dungeon | 4 | 4 | 4384 | 53
+legacy | 5 | 5 | 4881 | 3051
+pull | 4 | 4 | 3868 | 594
+paint | 7 | 7 | 4840 | 696
+cut | 5 | 5 | 3851 | 855
+mini | 4 | 4 | 3065 | 132
+hunters | 4 | 4 | 2978 | 63
+piece | 4 | 4 | 2719 | 267
 
 ## Saturated terms (many games, low demand each)
 
@@ -179,61 +173,61 @@ _None in this sample._
 
 name | CCU | heat | fav/1k | age d
 --- | --- | --- | --- | ---
-[RELEASE] Anime Legacy Simulator | 3739 | 19027 | 4.0 | 23
-DUCTWORKS / Multiplayer upd | 1214 | 12156 | 40.0 | 23
-dogs | 4291 | 10100 | 22.4 | 26
-Roria Unbound | 2060 | 9861 | 30.7 | 3
-Survive a Million Monkeys | 4781 | 8058 | 18.4 | 54
+[🔨UPD] 📱 Build a Phone Empire | 4437 | 17436 | 12.8 | 12
+[RELEASE] Anime Legacy Simulator | 4235 | 14277 | 3.4 | 24
+DUCTWORKS / Multiplayer upd | 1908 | 9239 | 36.0 | 23
+Roria Unbound | 2988 | 8031 | 29.9 | 3
 [Pokemon Brick Bronze] [Roria Reborn] | 265 | 7227 | 75.9 | 4
-[SECRETS!⭐] Pack A Rare Card | 3590 | 7207 | 38.9 | 43
-Voltline: Electric Scooters [Early Testing] | 1594 | 7202 | 9.9 | 24
-Huss Valley | 63864 | 6654 | 3.1 | 33
-Sarab | 6023 | 6621 | 11.6 | 9
-[NEW] Bahay Kubo Garden 🌱 | 4637 | 6301 | 70.7 | 19
-[PAINTER BEE] Re://:Swarm | 397 | 5905 | 29.6 | 12
-Peel THE Potato | 6500 | 5303 | 3.3 | 12
-⛳ Clean all the Balls | 1998 | 4920 | 4.8 | 23
-Doki Doki Obby Club! | 1130 | 4886 | 27.8 | 58
-[❓] Scam With Your Friends | 1304 | 4866 | 15.5 | 19
-[NEW BOSS] Bees 1:1 | 881 | 4812 | 4.3 | 13
-feed the pit | 2298 | 4802 | 44.9 | 39
-[🎧] GUESS THE SONG! 0.5s | 5279 | 4739 | 11.2 | 33
-[⭐UPD3] Tower Incremental | 3414 | 4673 | 17.5 | 29
+🎀 Make Dresses | 4599 | 6902 | 12.3 | 7
+Peel a Potato | 2611 | 6557 | 10.5 | 12
+[PAINTER BEE] Re://:Swarm | 397 | 5905 | 29.6 | 13
+Peel THE Potato | 17312 | 5665 | 3.2 | 13
+dogs | 10736 | 5546 | 18.7 | 26
+[SECRETS!⭐] Pack A Rare Card | 4650 | 5523 | 36.8 | 44
+Survive a Million Monkeys | 8099 | 4868 | 18.9 | 55
+[NEW BOSS] Bees 1:1 | 881 | 4812 | 4.3 | 14
+Huss Valley | 107349 | 4746 | 2.9 | 34
+[❓] Scam With Your Friends | 1690 | 4516 | 15.5 | 19
+[🎧] GUESS THE SONG! 0.5s | 6807 | 4495 | 10.2 | 34
++1 Roll Ice Cream | 8337 | 4371 | 4.7 | 31
+Lift Rock For Eggs | 272 | 4339 | 93.2 | 7
+Voltline: Electric Scooters [Early Testing] | 12506 | 4146 | 7.1 | 25
+Sarab | 28601 | 4033 | 8.8 | 10
 
 ## New releases spotted in window
 
 name | CCU | heat | fav/1k | age d
 --- | --- | --- | --- | ---
-Rauls Rivals Modded  | 30176 | 28838 | 4.9 | 14
-[RELEASE] Anime Legacy Simulator | 3739 | 19027 | 4.0 | 23
-DUCTWORKS / Multiplayer upd | 1214 | 12156 | 40.0 | 23
-dogs | 4291 | 10100 | 22.4 | 26
-Roria Unbound | 2060 | 9861 | 30.7 | 3
+[🔨UPD] 📱 Build a Phone Empire | 4437 | 17436 | 12.8 | 12
+[RELEASE] Anime Legacy Simulator | 4235 | 14277 | 3.4 | 24
+DUCTWORKS / Multiplayer upd | 1908 | 9239 | 36.0 | 23
+Roria Unbound | 2988 | 8031 | 29.9 | 3
 [Pokemon Brick Bronze] [Roria Reborn] | 265 | 7227 | 75.9 | 4
-[SECRETS!⭐] Pack A Rare Card | 3590 | 7207 | 38.9 | 43
-Voltline: Electric Scooters [Early Testing] | 1594 | 7202 | 9.9 | 24
-Huss Valley | 63864 | 6654 | 3.1 | 33
-Sarab | 6023 | 6621 | 11.6 | 9
-[NEW] Bahay Kubo Garden 🌱 | 4637 | 6301 | 70.7 | 19
-[PAINTER BEE] Re://:Swarm | 397 | 5905 | 29.6 | 12
-Peel THE Potato | 6500 | 5303 | 3.3 | 12
-⛳ Clean all the Balls | 1998 | 4920 | 4.8 | 23
-[❓] Scam With Your Friends | 1304 | 4866 | 15.5 | 19
+🎀 Make Dresses | 4599 | 6902 | 12.3 | 7
+Peel a Potato | 2611 | 6557 | 10.5 | 12
+[PAINTER BEE] Re://:Swarm | 397 | 5905 | 29.6 | 13
+Peel THE Potato | 17312 | 5665 | 3.2 | 13
+dogs | 10736 | 5546 | 18.7 | 26
+[SECRETS!⭐] Pack A Rare Card | 4650 | 5523 | 36.8 | 44
+Huss Valley | 107349 | 4746 | 2.9 | 34
+[❓] Scam With Your Friends | 1690 | 4516 | 15.5 | 19
+[🎧] GUESS THE SONG! 0.5s | 6807 | 4495 | 10.2 | 34
++1 Roll Ice Cream | 8337 | 4371 | 4.7 | 31
 
 ## Title shapes currently in use
 
+- `animal ___` — 4 games, median 14594 CCU. Blank filled by: daycare, hospital, jump, restaurant
 - `___ for eggs` — 10 games, median 8530 CCU. Blank filled by: climb, dig, drill, jump, race, sail, strength, swim
-- `animal ___` — 3 games, median 14594 CCU. Blank filled by: daycare, hospital, restaurant
 - `murder ___` — 3 games, median 9351 CCU. Blank filled by: arena, duels, infinite
-- `anime ___ simulator` — 3 games, median 8497 CCU. Blank filled by: astral, fighting, legacy
+- `anime ___ simulator` — 3 games, median 9223 CCU. Blank filled by: astral, fighting, legacy
 - `___ for animals` — 6 games, median 6014 CCU. Blank filled by: backflip, jump, motorcycle, roller, skate, skateboard
-- `___ duels` — 10 games, median 4014 CCU. Blank filled by: archery, ball, car, cowboy, knife, murder, puzzle, quiz
-- `survive the ___` — 6 games, median 4725 CCU. Blank filled by: apocalypse, hulk, night, slope, swarm, tsunami
-- `___ an egg` — 7 games, median 3959 CCU. Blank filled by: be, break, drive, fly, pull, shuffle, steal
-- `___ house` — 4 games, median 4628 CCU. Blank filled by: build, flip, renovate, wash
-- `steal an ___ egg` — 4 games, median 4464 CCU. Blank filled by: anime, clown, evil
+- `survive the ___` — 7 games, median 4400 CCU. Blank filled by: apocalypse, cold, hulk, night, slope, swarm, tsunami
+- `___ duels` — 11 games, median 3668 CCU. Blank filled by: archery, ball, car, cowboy, deagle, knife, murder, puzzle
+- `___ an egg` — 7 games, median 3894 CCU. Blank filled by: be, break, drive, fly, pull, shuffle, steal
+- `___ house` — 4 games, median 4516 CCU. Blank filled by: build, flip, renovate, wash
 - `___ war` — 3 games, median 5079 CCU. Blank filled by: mini, navy, total
-- `___ an animal` — 3 games, median 4957 CCU. Blank filled by: cook, rope, unfreeze
+- `steal an ___ egg` — 3 games, median 4464 CCU. Blank filled by: anime, clown, evil
+- `___ an animal` — 3 games, median 4332 CCU. Blank filled by: cook, rope, unfreeze
 
 ## How to read this
 
@@ -253,9 +247,9 @@ Peel THE Potato | 6500 | 5303 | 3.3 | 12
 
 ## Experiments (collecting, not proven)
 
-- Copy hunt: 48 searches in 7 days for 48 picks, 482 games found that Discover never showed.
-- Passes: 54 of 68 picks sell any, median 5 passes at a median 199 R$. Most common: vip (17, 160 R$), starter pack (10, 32 R$), x2 money (9, 160 R$), x2 growth (8, 239 R$), 2x money (7, 299 R$), 2x cash (6, 299 R$), x2 cash (4, 140 R$), 2x hatch speed (3, 499 R$).
-- Discover by country: of 59 new games also shown globally, 16 were shown regionally first.
+- Copy hunt: 54 searches in 7 days for 54 picks, 541 games found that Discover never showed.
+- Passes: 62 of 76 picks sell any, median 5 passes at a median 199 R$. Most common: vip (20, 180 R$), starter pack (11, 25 R$), x2 money (9, 160 R$), x2 growth (8, 239 R$), 2x money (8, 299 R$), 2x cash (6, 299 R$), x2 cash (4, 140 R$), 2x hatch speed (3, 499 R$).
+- Discover by country: of 68 new games also shown globally, 20 were shown regionally first.
 
 ## Known limits of this data
 
